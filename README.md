@@ -27,9 +27,9 @@ Welcome to Module 7! This repo is meant to hold some convenient links for you to
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-You must submit the Google Project Proposal form and get approval from a TA before starting on your capstone project. This will be due on the second day of capstone before lunch. Please note that any project proposal without all the required wiki documentations will be disapproved and asked to complete it. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, etc.)*.
+You must submit the Google Project Proposal form and get an approval from a TA before starting on your capstone project. This will be due on the second day of capstone before lunch. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, etc.)*.
 
-<!-- Any work you do while waiting for approval may have to be completely re-done based on TA feedback. With all that said, ***don't over-complicate your capstone***, this is a 2 week project and the stakes are high! --> 
+*Note- Any project proposal without all the required wiki documentations will be disapproved and asked to complete it.*
 
 ```txt
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins you are welcome to fill out this form but you will have to fill it out again on Monday / Tuesday officially.
@@ -96,7 +96,7 @@ Here are some capstone project ideas that tend to be associated with success in 
 ## E-Commerce Apps
 E-commerce websites *(Ebay, Etsy, etc.)* where users upload “products” will require Products & Reviews as first two core features.
 Other E-commerce apps *(Amazon, any brand sites, etc)* where users don't upload "products" will require Reviews & Orders/Purchases as core features. Shopping cart
-can not be it's own core CRUD feature, this can be a bonus feature that ties together with the Orders feature. 
+can not be it's own core CRUD feature, this can be a bonus feature that ties together with the Orders feature. Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
 
 ## Projects that are not allowed
 * Instagram
@@ -210,7 +210,9 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 # Phase 2.5 - Peer Review
 
-Peer Review will start on Thursday of the first week of capstone everyday after lunch, at 12:30 PT / 3:30 EST. This can also be viewed on the [Mod 7 Online Google Calender](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles) as well. Students will get assigned a pair, posted to Slack everyday, to review each other's code. Below are guidelines to help illustrate how peer review will work. We will also do an EOD demo the day before peer review starts. 
+Peer Review will start on Thursday of the first week of capstone everyday after lunch, at 12:30 PT / 3:30 EST. This can also be viewed on the [Mod 7 Online Google Calender](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles) as well. Students will get assigned a pair, posted to Slack everyday, to review each other's code. Below are guidelines to help illustrate how peer review will work.  
+
+*Note- We will also do an EOD demo the day before peer review starts.*
 
 > This exercise is helpful to practice remembering what your code does for when an interviewer or coworker asks you to explain parts of your code. Also this helps you practice _articulating_ your code which will **majorly** help you in interviews and on the job!
 
@@ -252,7 +254,7 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 Students plagiarising another student's source code will be dismissed. Capstone project is an assessment to utilize the knowledge gained from the previous modules to build what you learned. 
 
 ## Pregrading
-Projects will be pre-graded the Thursday of the second week of capstone development. Our grading process will be identicle to the final grading process and students will recieve pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out minor edits / corrections that will make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend! 
+Pre-grading will start on the **beginning of Thursday** on the second week of capstone development. Our grading process will be identicle to the final grading process and students will receive pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out minor edits / corrections that will make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend! In addition, pre-grading will be a priority over answering questions in the lecture channel. TA's will still check periodically to help with questions, free feel to also help your peer's as well!
 
 *Note- we will do a scorecard demo of how the grading process looks like, two days before pregrading starts*
 
@@ -261,7 +263,7 @@ Projects will be pre-graded the Thursday of the second week of capstone developm
 ### Things to Consider
 * you DO NOT have to create your own scorecard, the Mod 7 team will do this for you.
 * Upon final grading, you should see two tabs at the bottom of the scorecard spreadsheet labeled as "pregrade" and "final grade".
-* Students are expected and responsible to test their Heroku app before final grading.
+* Students are **expected** and **responsible** to test their Heroku app before final grading.
     * Test the CRUD functionality on Heroku.
     * Check if the styling is consistent throughout the entire app.
     * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
