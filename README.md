@@ -48,7 +48,7 @@ You must submit the Google Project Proposal form and get an approval from a TA b
 <!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
 
 ---
-Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a garuantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
+Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
 
 ## Projects We've Seen Go Well
 
@@ -76,7 +76,7 @@ Here are some capstone project ideas that tend to be associated with success in 
 
 ### Projects that we strongly suggest have AWS:
 
-* E-commerce sites where users upload “products”, *(Etsy, Fivrr, Ebay)* *(Products & Reviews suggested)* <!-- (Products & Reviews suggested; if choosing Orders/Purchases, Cart can’t be a MVP core CRUD) example sites: Etsy, Fivrr, Ebay, etc… -->
+* E-commerce sites where users upload “products”, *(Etsy, Fiverr, Ebay)* *(Products & Reviews suggested)* <!-- (Products & Reviews suggested; if choosing Orders/Purchases, Cart can’t be a MVP core CRUD) example sites: Etsy, Fivrr, Ebay, etc… -->
 * Pinterest
 * Flikr
 * FaceBook
