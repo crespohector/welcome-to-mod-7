@@ -27,29 +27,14 @@ Welcome to Module 7! This repo is meant to hold some convenient links for you to
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
+You must submit the Google Project Proposal form and get approval from a TA before starting on your capstone project. This will be due on the second day of capstone before lunch. Please note that any project proposal without all the required wiki documentations will be disapproved and asked to complete it. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, etc.)*.
 
-You must submit this form and get approval from your the Mod 7 team before starting any work on your capstone project. Any work you do while waiting for approval may have to be completely re-done based on TA feedback. With all that said, ***don't over-complicate your capstone***, this is a 2 week project and the stakes are high! This will be due second day of capstone before lunch. 
+<!-- Any work you do while waiting for approval may have to be completely re-done based on TA feedback. With all that said, ***don't over-complicate your capstone***, this is a 2 week project and the stakes are high! --> 
 
 ```txt
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins you are welcome to fill out this form but you will have to fill it out again on Monday / Tuesday officially.
 ```
-
-<!-- [Project Proposal Form (January 2022)](https://forms.gle/BqxBM5faMVqvebBE9) -->
-[link will be made available when you officially start module 7]
-
-<!-- [Project Proposal Form (February 2022)](https://forms.gle/1SQFyVyJm9nEBnuJ6) -->
-
-[Project Proposal Form (March 2022)](https://forms.gle/s2pVgFTR7Pi4tacq5)
-
-
-
-
-<!-- Choose a project that you feel confident that you could build in half the time you're being given. This is the professional move for an engineer under a tight inflexible deadline.
- -->
-<!-- With all that said don't forget to pick something fun if you can. Regardless we're excited to see what you all pick so we can get you approved! -->
-
 ---
-
 ## Github Wiki Example Links
 > User stories, Database Schema, Features, Wireframes are _required._
 <!-- * [Example Readme (one paragraph minimum / no starter repo text)](https://github.com/sezder/HQ/blob/main/README.md) -->
@@ -58,21 +43,24 @@ You must submit this form and get approval from your the Mod 7 team before start
 * [Example Features (2 MVP CRUD features and 2-3 bonus features for post-graduation)](https://github.com/chrisoney/mercenary-review/wiki/MVP-Feature-List)
 * [Example Wireframes (screenshots ok if cloning / if not full wireframes required)](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
 
+### Project Proposal Form
+[Project Proposal Form (March 2022)](https://forms.gle/s2pVgFTR7Pi4tacq5)
 <!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
 
 ---
+Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a garuantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
 
 ## Projects We've Seen Go Well
 
-Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a garuantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
-
-## E-Commerce Apps
-For e-commerce apps, a shopping cart would only be considered a core feature, if it has full CRUD functionality. This means that the shopping cart is connected to the database and have its own table. If you would like to implement the shopping cart in the local storage, you would need to create an orders (history) feature with full database CRUD functionality.
+* Twitter
+* Recipe apps
+* Quora
+* AirBnB
+* Reddit
+* Yelp
 
 ### Projects that can look fantastic without AWS:
-* Todoist (Remember the Milk but with a more modern UI)
-* Amazon (Cart can't be an MVP CRUD feature, Reviews & Orders suggested)
-* Etsy (Cart can't be an MVP CRUD feature)
+* TodoList (Remember the Milk but with a more modern UI)
 * New York Times Recipes
 * Untapped
 * Trello
@@ -86,16 +74,15 @@ For e-commerce apps, a shopping cart would only be considered a core feature, if
 * Reddit
 * Yelp
 
-### Project that we strongly suggest have AWS:
-* Instagram
+### Projects that we strongly suggest have AWS:
+
+* E-commerce sites where users upload “products”, *(Etsy, Fivrr, Ebay)* *(Products & Reviews suggested)* <!-- (Products & Reviews suggested; if choosing Orders/Purchases, Cart can’t be a MVP core CRUD) example sites: Etsy, Fivrr, Ebay, etc… -->
 * Pinterest
 * Flikr
 * FaceBook
 
-
 ### Projects We've Seen Students Struggle With:
 
-* Discord (AWS optional)
 * Soundcloud (AWS strongly suggested)
 * Spotify (AWS strongly suggested)
 * Venmo (AWS optional / CRUD features are tricky)
@@ -104,7 +91,16 @@ For e-commerce apps, a shopping cart would only be considered a core feature, if
 * Netflix (AWS optional / CRUD features are tricky)
 * Game Apps (AWS optional / CRUD features are tricky)
 * Disney + (AWS optional / CRUD features are tricky)
-* E-commerce websites with shopping cart
+* E-commerce sites that need Cart & Orders/Purchases (Cart can’t be MVP CRUD feature; Reviews & Orders/Purchases features) example sites: Amazon, any brand sites for clothing or products sites, etc…
+
+## E-Commerce Apps
+E-commerce websites *(Ebay, Etsy, etc.)* where users upload “products” will require Products & Reviews as first two core features.
+Other E-commerce apps *(Amazon, any brand sites, etc)* where users don't upload "products" will require Reviews & Orders/Purchases as core features. Shopping cart
+can not be it's own core CRUD feature, this can be a bonus feature that ties together with the Orders feature. 
+
+## Projects that are not allowed
+* Instagram
+* Projects that the student has already done before in previous modules.
 
 ---
 
@@ -120,11 +116,9 @@ When picking your capstone project theme use common sense and think about it fro
 ## Minimul Viable Product / Project
 
 Remember, a minimum viable product is the absolute least you can put out that is also a usable product. For your capstone project this means 2 fully functional CRUD features with validation error messages that are unequivocally intuitive and simple to use by someone who has never seen the app before.
-
-Remember, a successful capsone project does not need AWS, Google Maps, Web Sockets or more than 2 CRUD features. But the 2 CRUD features that you do build need to feel and function complete to pass. Essentially, this image says it all both for your capstone project and future projects in your career. If image files could be made out of solid gold, it would be. Keep it in mind always.
+Remember, a successful capstone project does not need AWS, Google Maps, Web Sockets or more than 2 CRUD features. But the 2 CRUD features that you do build need to feel and function complete to pass. Essentially, this image says it all both for your capstone project and future projects in your career. If image files could be made out of solid gold, it would be. Keep it in mind always.
 
 ![mvps](https://i.imgur.com/vfIpcWn.png) -->
-
 
 ---
 
@@ -132,20 +126,25 @@ Remember, a successful capsone project does not need AWS, Google Maps, Web Socke
 
 ## Daily Standups
 
-Daily standups will take place between groups of 3-5 students from your circle. Each student will take roughly 5 minutes to screen-share their deployed app and code. Specific standup times will always be announced in your circle channel. TA's will ask students a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team.
+Daily standups will take place between groups of 3-5 students from your circle. Each student will take roughly 5-7 minutes to screen-share their **deployed app** and **code**. Students are expected to explain what they worked on Heroku and then explain the code and data-flow afterwards. Specific standup times will always be announced in your circle channel. TA's will ask students a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team.
 
-### Questions for Students:
+### Questions For Students:
 
+*Please note that all work must be shown on Heroku, not localhost. We can not determine the progression of your project based on localhost alone*
+* What did you worked on yesterday?
+* What is your goal for today that you plan to complete before next standup? 
+* Can you walkthrough the code base of the feature you worked on?
+
+### Additional Questions That May Be Asked For Students:
 * When did you last deploy?
 * Is all the code you are showing deployed?
 * What progress did you make on your goal from yesterday?
-* What is your goal for today that you plan to complete before next standup? 
 * Does your lead circle TA approve of the goal?
 * What is your project status in terms of user stories?
 
 ### Other Standup Notes
 
-* If technical questions come up your circle TA will ask you to put them into the lecture questions channel asap as we will not have time to debug during standups.
+* If technical questions come up, your circle TA will ask you to put them in the lecture questions channel asap as we will not have time to debug during standups.
 * TAs will take notes regardless of whether your standup check in seems like it went well or not.
 * TA notes will include whether you met yesterdays goal fully / partially / not at all.
 * TA notes will also include 3-5 word description of your goal for tomorrow.
@@ -211,7 +210,7 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 # Phase 2.5 - Peer Review
 
-Peer Review will start on Thursday of the first week of capstone everyday after lunch, at 12:30 PT / 3:30 EST. This can also be viewed on the [Mod 7 Online Google Calender](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles) as well. Students will get assigned a pair, posted to Slack everyday, to review each other's code. Below are guidelines to help illustrate how peer review will work.
+Peer Review will start on Thursday of the first week of capstone everyday after lunch, at 12:30 PT / 3:30 EST. This can also be viewed on the [Mod 7 Online Google Calender](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles) as well. Students will get assigned a pair, posted to Slack everyday, to review each other's code. Below are guidelines to help illustrate how peer review will work. We will also do an EOD demo the day before peer review starts. 
 
 > This exercise is helpful to practice remembering what your code does for when an interviewer or coworker asks you to explain parts of your code. Also this helps you practice _articulating_ your code which will **majorly** help you in interviews and on the job!
 
@@ -231,6 +230,7 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 2. Both sides are responsible for getting equal time to review.
 3. Students are responsible to give and receive constructive feedback and commit to the exercise.
 4. IA’s will be jumping in rooms periodically to check progress and could possibly ask questions! 
+5. Students will receive strikes if not commited to the exercise *(webcam is off, no discussions, etc)*
 
 ## Tips:
 
@@ -248,11 +248,21 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 
 # Phase 3 - Pregrading / Grading
 
-Projects will be pre-graded the Thursday of the second week of capstone development. Our grading process will be identicle to the final grading process and students will recieve pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly complete so we can point out minor edits / corrections that will make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend!
+## Cheating
+Students plagiarising another student's source code will be dismissed. Capstone project is an assessment to utilize the knowledge gained from the previous modules to build what you learned. 
+
+## Pregrading
+Projects will be pre-graded the Thursday of the second week of capstone development. Our grading process will be identicle to the final grading process and students will recieve pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out minor edits / corrections that will make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend!
 
 [Example Scorecard](https://docs.google.com/spreadsheets/d/12ps73B8JscnRFp0nKv98Y6A2D825qhrvZMUYu5GToRs/edit?usp=sharing)
 
-Note: you DO NOT have to create your own scorecard, the Mod 7 team will do this for you.
+### Things to Consider
+* you DO NOT have to create your own scorecard, the Mod 7 team will do this for you.
+* Upon final grading, you should see two tabs at the bottom of the scorecard spreadsheet labeled as "pregrade" and "final grade".
+* Students are expected and responsible to test their Heroku app before final grading.
+** Test the CRUD functionality on Heroku.
+** Check if the styling is consistent throughout the entire app.
+** Check to make sure error validations work as intended for user auth and all features *(check capstone error messages for more info)*
 
 ## Passing Capstone Help
 
