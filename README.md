@@ -252,17 +252,19 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 Students plagiarising another student's source code will be dismissed. Capstone project is an assessment to utilize the knowledge gained from the previous modules to build what you learned. 
 
 ## Pregrading
-Projects will be pre-graded the Thursday of the second week of capstone development. Our grading process will be identicle to the final grading process and students will recieve pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out minor edits / corrections that will make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend!
+Projects will be pre-graded the Thursday of the second week of capstone development. Our grading process will be identicle to the final grading process and students will recieve pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out minor edits / corrections that will make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend! 
 
-[Example Scorecard](https://docs.google.com/spreadsheets/d/12ps73B8JscnRFp0nKv98Y6A2D825qhrvZMUYu5GToRs/edit?usp=sharing)
+*Note- we will do a scorecard demo of how the grading process looks like, two days before pregrading starts*
+
+- [Example Scorecard](https://docs.google.com/spreadsheets/d/12ps73B8JscnRFp0nKv98Y6A2D825qhrvZMUYu5GToRs/edit?usp=sharing)
 
 ### Things to Consider
 * you DO NOT have to create your own scorecard, the Mod 7 team will do this for you.
 * Upon final grading, you should see two tabs at the bottom of the scorecard spreadsheet labeled as "pregrade" and "final grade".
 * Students are expected and responsible to test their Heroku app before final grading.
-** Test the CRUD functionality on Heroku.
-** Check if the styling is consistent throughout the entire app.
-** Check to make sure error validations work as intended for user auth and all features *(check capstone error messages for more info)*
+    * Test the CRUD functionality on Heroku.
+    * Check if the styling is consistent throughout the entire app.
+    * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
 
 ## Passing Capstone Help
 
