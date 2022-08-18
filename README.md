@@ -261,7 +261,7 @@ Pre-grading will start on the **beginning of Thursday** on the second week of ca
 - [Example Scorecard](https://docs.google.com/spreadsheets/d/12ps73B8JscnRFp0nKv98Y6A2D825qhrvZMUYu5GToRs/edit?usp=sharing)
 
 ### Things to Consider
-* you DO NOT have to create your own scorecard, the Mod 7 team will do this for you.
+* You DO NOT have to create your own scorecard, the Mod 7 team will do this for you.
 * Upon final grading, you should see two tabs at the bottom of the scorecard spreadsheet labeled as "pregrade" and "final grade".
 * Students are **expected** and **responsible** to test their Heroku app before final grading.
     * Test the CRUD functionality on Heroku.
