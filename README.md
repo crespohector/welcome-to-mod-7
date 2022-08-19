@@ -76,7 +76,7 @@ Here are some capstone project ideas that tend to be associated with success in 
 
 ### Projects that we strongly suggest have AWS:
 
-* E-commerce sites where users upload “products”, *(Etsy, Fiverr, Ebay)* *(Products & Reviews suggested)* <!-- (Products & Reviews suggested; if choosing Orders/Purchases, Cart can’t be a MVP core CRUD) example sites: Etsy, Fiverr, Ebay, etc… -->
+* E-commerce sites where users upload “products”, *(Etsy, Fiverr, Ebay)* <!-- (Products & Reviews suggested; if choosing Orders/Purchases, Cart can’t be a MVP core CRUD) example sites: Etsy, Fiverr, Ebay, etc… -->
 * Pinterest
 * Flikr
 * FaceBook
@@ -94,7 +94,7 @@ Here are some capstone project ideas that tend to be associated with success in 
 * E-commerce sites that need Cart & Orders/Purchases (Cart can’t be MVP CRUD feature; Reviews & Orders/Purchases features) example sites: Amazon, any brand sites for clothing or products sites, etc…
 
 ## E-Commerce Apps
-E-commerce websites *(Ebay, Etsy, etc.)* where users upload “products” will require Products & Reviews as first two core features.
+E-commerce websites *(Ebay, Etsy, etc.)* where users upload “products” will require Products & Orders as first two core features.
 Other E-commerce apps *(Amazon, any brand sites, etc)* where users don't upload "products" will require Reviews & Orders/Purchases as core features. Shopping cart
 can not be its own core CRUD feature, this can be a bonus feature that ties together with the Orders feature. Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
 
