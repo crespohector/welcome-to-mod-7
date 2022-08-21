@@ -91,7 +91,7 @@ Here are some capstone project ideas that tend to be associated with success in 
 * Netflix (AWS optional / CRUD features are tricky)
 * Game Apps (AWS optional / CRUD features are tricky)
 * Disney + (AWS optional / CRUD features are tricky)
-* Discord
+* Discord (with live chat)
 * E-commerce sites that need Cart & Orders/Purchases (Cart can’t be MVP CRUD feature; Reviews & Orders/Purchases features) example sites: Amazon, any brand sites for clothing or products sites, etc…
 
 ## E-Commerce Apps
