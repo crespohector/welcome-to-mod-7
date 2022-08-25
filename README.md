@@ -27,7 +27,7 @@ Welcome to Module 7! This repo is meant to hold some convenient links for you to
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-You must submit the Google Project Proposal form and get an approval from a TA before starting on your capstone project. This will be due on the second day of capstone before lunch. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, etc.)*.
+You must submit the Google Project Proposal form and get an approval from a TA before starting on your capstone project. This will be due by the second day of capstone before lunch. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, etc.)*.
 
 *Note- Any project proposal without all the required wiki documentations will be disapproved and asked to complete it.*
 
@@ -37,23 +37,21 @@ You must submit the Google Project Proposal form and get an approval from a TA b
 ---
 ## Github Wiki Example Links
 > User stories, Database Schema, Features, Wireframes are _required._
-* [Example User Stories (CRUD format)](https://github.com/sezder/HQ/wiki/User-Stories)
+* [Example User Stories (CRUD format)](https://github.com/appacademy/Module-6-Resources/blob/main/group_project_resources/example_project_planning_docs/user_stories.md)
 * [Example Schema (3-6 tables for MVP Schema)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
-* [Example Features (2 MVP CRUD features and 2-3 bonus features for post-graduation)](https://github.com/chrisoney/mercenary-review/wiki/MVP-Feature-List)
-* [Example Wireframes (screenshots of the app you're cloning](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
+* [Example Features (minimum 2 MVP features to pass)](https://github.com/chrisoney/mercenary-review/wiki/MVP-Feature-List)
+* [Example Wireframes (screenshots of the app you're cloning)](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
 
-## Example of Readme
-* [Example Readme (one paragraph minimum / no starter repo text)](https://github.com/sezder/HQ/blob/main/README.md)
+*Note- Students that plan to update, add, or remove their user stories during project development needs to be approved by their Project Advisor.*
 
 ### Project Proposal Form
-[Project Proposal Form (April 2022)](https://forms.gle/1G7hmBBe96R5PZL2A)
+[Project Proposal Form (April 2022)](https://forms.gle/iJZzYTSPp8CnyPuD7)
 <!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
 
 ---
 Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
 
 ## Projects We've Seen Go Well
-
 * Twitter
 * Recipe apps
 * Quora
@@ -94,12 +92,12 @@ Here are some capstone project ideas that tend to be associated with success in 
 * Game Apps (AWS optional / CRUD features are tricky)
 * Disney + (AWS optional / CRUD features are tricky)
 * Discord (with live chat)
-* E-commerce sites that need Cart & Orders/Purchases (Cart can’t be MVP CRUD feature; Reviews & Orders/Purchases features) example sites: Amazon, any brand sites for clothing or products sites, etc…
+* E-commerce sites that need Cart & Orders/Purchases
 
-## E-Commerce Apps
+<!-- ## E-Commerce Apps
 E-commerce websites *(Ebay, Etsy, etc.)* where users upload “products” will require Products & Orders as first two core features.
 Other E-commerce apps *(Amazon, any brand sites, etc)* where users don't upload "products" will require Reviews & Orders/Purchases as core features. Shopping cart
-can not be its own core CRUD feature, this can be a bonus feature that ties together with the Orders feature. Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
+can not be its own core CRUD feature, this can be a bonus feature that ties together with the Orders feature. Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)* -->
 
 ## Projects that are not allowed
 * Instagram
@@ -151,6 +149,14 @@ Daily standups will take place between groups of 3-5 students from your circle. 
 * TAs will take notes regardless of whether your standup check in seems like it went well or not.
 * TA notes will include whether you met yesterdays goal fully / partially / not at all.
 * TA notes will also include 3-5 word description of your goal for tomorrow.
+
+## Complete ONE FEATURE before moving on to the next.
+* Design Documents: Functional Requirements, Schema Diagram, Backend Routes, Frontend Routes, Timeline for Completion
+* General Workflow:
+    * DB Tables => Backend Routes => Frontend Components => Error Handling => Styling
+* Do not leave default styling for HTML elements such as buttons, inputs, textareas, etc.
+
+> This general workflow is what's to be expected and will help with understanding how the data flow works from the backend to the frontend.
 
 ---
 
@@ -270,6 +276,14 @@ Pre-grading will start on the **beginning of Thursday** on the second week of ca
     * Test the CRUD functionality on Heroku.
     * Check if the styling is consistent throughout the entire app.
     * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
+
+## What's needed in the Project ReadMe
+* Project title
+* Project description *(this can be a few sentences explaining what the app is)*
+* Heroku Live Link
+* Technologies Used
+* MVP features
+* Few screenshots to highlight the app
 
 ## Passing Capstone Help
 
