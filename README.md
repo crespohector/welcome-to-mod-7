@@ -27,7 +27,7 @@ Welcome to Module 7! This repo is meant to hold some convenient links for you to
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-You must submit the Google Project Proposal form and get an approval from a TA before starting on your capstone project. This will be due by the second day of capstone before lunch. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, project kanban board, etc.)*.
+You must submit the Google Project Proposal form and get an approval from a TA before starting on your capstone project. This will be due by the second day of capstone before lunch. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, project kanban board, etc.)*. Also, the mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal and we will review them based on the order.
 
 *Note- Any project proposal without all the required wiki documentations will be disapproved and asked to complete it.*
 
