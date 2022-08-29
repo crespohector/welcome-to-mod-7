@@ -49,7 +49,7 @@ You must submit the Google Project Proposal form and get an approval from a TA b
 <!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
 
 ---
-Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
+Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate. Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
 
 ## Projects We've Seen Go Well
 * Twitter
@@ -103,6 +103,10 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 * Instagram
 * Projects that the student has already done before in previous modules.
 
+## NPM Packages
+* Any NPM package *(outside curriculum)* needs to be approved by the **Project Advisor**
+* CSS frameworks *(Bootstrap, MaterialUI, etc.)* are **not allowed** 
+
 ---
 
 ## Appropriate Project Themes
@@ -113,14 +117,12 @@ When picking your capstone project theme use common sense and think about it fro
 
 
 <!-- ---
-
 ## Minimul Viable Product / Project
 
 Remember, a minimum viable product is the absolute least you can put out that is also a usable product. For your capstone project this means 2 fully functional CRUD features with validation error messages that are unequivocally intuitive and simple to use by someone who has never seen the app before.
 Remember, a successful capstone project does not need AWS, Google Maps, Web Sockets or more than 2 CRUD features. But the 2 CRUD features that you do build need to feel and function complete to pass. Essentially, this image says it all both for your capstone project and future projects in your career. If image files could be made out of solid gold, it would be. Keep it in mind always.
 
 ![mvps](https://i.imgur.com/vfIpcWn.png) -->
-
 ---
 
 # Phase 2 - Project Development
