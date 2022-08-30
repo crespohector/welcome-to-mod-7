@@ -204,8 +204,8 @@ To ensure the quickest possible response to a question you are encouraged to lit
 <!-- * [Module 7 Expectations](https://hackmd.io/@jwarren/Sycd24fId) -->
 <!-- * [Example Project Wiki (doesn't include readme or user stories)](https://github.com/chrisoney/mercenary-review/wiki) -->
 <!-- * [Asking Good Questions](https://hackmd.io/@jwarren/Hkt6Ew9S_) -->
-* [Flask Project Starter (from module 6)](https://github.com/appacademy-starters/python-project-starter)
-* [Express Project Starter (authenticate me)](https://drive.google.com/file/d/16wNaP57ICFULb1F3YeZ4MH80hWrUZO8-/view)
+<!-- * [Flask Project Starter (from module 6)](https://github.com/appacademy-starters/python-project-starter)
+* [Express Project Starter (authenticate me)](https://drive.google.com/file/d/16wNaP57ICFULb1F3YeZ4MH80hWrUZO8-/view) -->
 * [Flask-SQLAlchemy Quick Reference](https://hackmd.io/@app-academy/flask-sqlalchemy-reference)
 * [Flask AWS S3 for Image Uploads](https://hackmd.io/4yEAJpBXSWCZmI16J5ID1Q)
 * [Flask Websockets for Chat Features](https://hackmd.io/oTn-ZTjcQRO5Ghbv9tO9ug)
