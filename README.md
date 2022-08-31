@@ -37,15 +37,16 @@ You must submit the Google Project Proposal form and get an approval from a TA b
 ---
 ## Github Wiki Example Links
 > User stories, Database Schema, Features, Wireframes are _required._
-* [Example User Stories (CRUD format)](https://github.com/appacademy/Module-6-Resources/blob/main/group_project_resources/example_project_planning_docs/user_stories.md)
-* [Example Schema (3-6 tables for MVP Schema)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
-* [Example Features (minimum 2 MVP features to pass)](https://github.com/chrisoney/mercenary-review/wiki/MVP-Feature-List)
+* [Example User Stories (needed for the first 2 core features)](https://github.com/appacademy/Module-6-Resources/blob/main/group_project_resources/example_project_planning_docs/user_stories.md)
+* [Example Schema (3-6 tables needed for the first 2 core features)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
+* [Example Features (4 CRUD features and 2 Bonus features needs to be defined)](https://github.com/chrisoney/mercenary-review/wiki/MVP-Feature-List)
 * [Example Wireframes (screenshots of the app you're cloning)](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
 
 *Note- Students that plan to update, add, or remove their user stories during project development needs to be approved by their Project Advisor.*
+*Note- You need minimum 2 CRUD features to pass.
 
 ### Project Proposal Form
-[Project Proposal Form (April 2022)](https://forms.gle/iJZzYTSPp8CnyPuD7)
+[Project Proposal Form (April 2022)](https://forms.gle/Z9qSUYHWecshK8GS7)
 <!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
 
 ---
