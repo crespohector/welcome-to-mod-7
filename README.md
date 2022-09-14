@@ -102,6 +102,8 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 
 ## Projects that are not allowed
 * Instagram
+* Twitter
+* Discord
 * Projects that the student has already done before in previous modules.
 
 ## NPM Packages
