@@ -8,19 +8,46 @@
 <!-- ![welcome](https://gifimage.net/wp-content/uploads/2017/09/animated-welcome-gif-12.gif) -->
 <!-- ![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1) -->
 
+# Table of Content
+- [Module 7 Calendar](https://github.com/crespohector/welcome-to-mod-7/edit/main/README.md#google-calendar)
+- [Phase 1 - Project Approval](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-1---project-approval)
+   - [Capstone Project Proposals](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#capstone-project-proposals)
+   - [GitHub Wiki Example Links](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#github-wiki-example-links)
+   - [Project Proposal Form](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#project-proposal-form)
+   - [Projects We've Seen Go Well](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#projects-weve-seen-go-well)
+   - [Project We've Seen Students Struggle With](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#projects-weve-seen-students-struggle-with)
+   - [Projects that are not allowed](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#projects-that-are-not-allowed)
+   - [NPM Packages](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#npm-packages)
+- [Phase 2 - Project Development](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-2---project-development)
+   - [Daily Standups](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#daily-standups)
+   - [Complete ONE FEATURE before moving on to the next](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#complete-one-feature-before-moving-on-to-the-next)
+   - [Good Question Template](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#good-question-template)
+- [Phase 2.5 - Peer Review](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-25---peer-review)
+- [Phase 3 - Pregrading](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-3---pregrading--grading)
+
 # Module 7 Welcome Pack
 
-Welcome to Module 7! This repo is meant to hold some convenient links for you to use during your capstone projects but this should not be treated as the canonical source of truth for curriculum, requirements etc. Note that this is a living document. Things will be continuously changed and updated as needed but capstone requirements WILL NOT change.
+Welcome to Module 7! This repo is meant to hold convenient links for you to use during your capstone projects. In addition, this repo will also contain what to expect during the first two weeks of capstone projects. Note this is a living document, things will be continuously changed and updated as needed but capstone requirements WILL NOT change.
 
 ```txt
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins please make sure you are keeping your pre-capstone project your top priority. All of this should be considered secondary until that project is done.
 ```
 
-## Module Calendar
+## The Big Picture
 
-<!-- This calendar is your primary resource for knowing what you should be working on at any given time and when your deadlines are. Refer to it every day and check it before asking for clarification whenever possible.  -->
+Capstone Project is an assessment to test your programming and software engineering skills. The main objective is to build a user-ready MVP *(Minimal Viable Product)* application within these two weeks from planning to having a deployed app. The minimum requirements to pass capstone is to have at least 2 core features with error validations and styling. The expectation is to have a completed MVP application first, then focus on refactoring to include additional features. This approach is known as Agile, whereas the Waterfall approach can be seen as completing one phase at a time before moving onto the next phase. Agile is an iterative approach where we deliver goals in small incremental amounts.
 
-[Module 7 Calendar Link](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles)
+Please note, we want to aim for 4 features *(2 core and 2 bonus /or core)*, however the minimum to pass is **2 core *(CRUD)* features**.
+
+[Agile vs Waterfall Link](https://www.ibm.com/cloud/blog/agile-vs-waterfall)
+
+## Google Calendar
+
+This calendar is a great resource to know what the day to day basis will look like. There should be a "+" button at the bottom right corner, please add this calendar to your own Google Calendar.
+- [Module 7 Calendar Link](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles)
+
+## Cheating
+Students plagiarising another student's source code will be dismissed. This is an assessment to utilize the knowledge gained from the previous modules to build what you have learned. 
 
 ---
 
@@ -53,12 +80,15 @@ You must submit the Google Project Proposal form and get an approval from a TA b
 Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate. Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
 
 ## Projects We've Seen Go Well
-* Twitter
-* Recipe apps
+* Etsy
+* Facebook
 * Quora
 * AirBnB
 * Reddit
 * Yelp
+* AirBnB
+* Eventbrite
+* Medium
 
 ### Projects that can look fantastic without AWS:
 * TodoList (Remember the Milk but with a more modern UI)
@@ -67,8 +97,6 @@ Here are some capstone project ideas that tend to be associated with success in 
 * Trello
 * AirBnB
 * Medium
-* Quora
-* Twitter
 * Evernote
 * HipCamp
 * Eventbrite
@@ -92,8 +120,8 @@ Here are some capstone project ideas that tend to be associated with success in 
 * Netflix (AWS optional / CRUD features are tricky)
 * Game Apps (AWS optional / CRUD features are tricky)
 * Disney + (AWS optional / CRUD features are tricky)
-* Discord (with live chat)
 * E-commerce sites that need Cart & Orders/Purchases
+* Slack (w/ Websockets)
 
 <!-- ## E-Commerce Apps
 E-commerce websites *(Ebay, Etsy, etc.)* where users upload “products” will require Products & Orders as first two core features.
@@ -107,8 +135,15 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 * Projects that the student has already done before in previous modules.
 
 ## NPM Packages
-* Any NPM package *(outside curriculum)* needs to be approved by the **Project Advisor**
+**Please Note, any NPM packages without your PM's approval is a risk of having to refactor your code**
+
+* Any NPM package *(outside curriculum)* needs to be approved by your **Project Manager**
 * CSS frameworks *(Bootstrap, MaterialUI, etc.)* are **not allowed** 
+
+### List of Approved NPM Packages
+**The NPM packages listed below are already approved, free feel to implement these into your projects**
+
+- [react-calendar](https://www.npmjs.com/package/react-calendar)
 
 ---
 
@@ -132,34 +167,43 @@ Remember, a successful capstone project does not need AWS, Google Maps, Web Sock
 
 ## Daily Standups
 
-Daily standups will take place between groups of 3-5 students from your circle. Each student will take roughly 5-7 minutes to screen-share their **deployed app** and **code**. Students are expected to explain what they worked on Heroku and then explain the code and data-flow afterwards. Specific standup times will always be announced in your circle channel. TA's will ask students a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team.
+You will have daily stand ups with your Project Manager. Daily standups will take place between groups of 3-5 students from your circle. Each student will take roughly 5-10 minutes to screen-share their **deployed app** and **code**. Students are expected to explain what they worked on Heroku and then explain the code and data-flow afterwards. Specific standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team.
 
 ### Questions For Students:
 
 *Please note that all work must be shown on Heroku, not localhost. We can not determine the progression of your project based on localhost alone*
-* What did you worked on yesterday?
+* What progress did you make on your goal from yesterday?
 * What is your goal for today that you plan to complete before next standup? 
 * Can you walkthrough the code base of the feature you worked on?
 
 ### Additional Questions That May Be Asked For Students:
 * When did you last deploy?
 * Is all the code you are showing deployed?
-* What progress did you make on your goal from yesterday?
-* Does your lead circle TA approve of the goal?
+* Does your Project Manager approve of the goal?
 * What is your project status in terms of user stories?
 
 ### Other Standup Notes
 
-* If technical questions come up, your circle TA will ask you to put them in the lecture questions channel asap as we will not have time to debug during standups.
-* TAs will take notes regardless of whether your standup check in seems like it went well or not.
+* If **technical questions come up**, your PM will ask you to put them in the lecture questions channel as we will not have time to debug during standups.
 * TA notes will include whether you met yesterdays goal fully / partially / not at all.
 * TA notes will also include 3-5 word description of your goal for tomorrow.
 
-## Complete ONE FEATURE before moving on to the next.
-* Design Documents: Functional Requirements, Schema Diagram, Backend Routes, Frontend Routes, Timeline for Completion
-* General Workflow:
+## Workflow Expectations
+
+### Complete ONE FEATURE before moving on to the next.
+* Expected General Workflow:
     * DB Tables => Backend Routes => Frontend Components => Error Handling => Styling
-* Do not leave default styling for HTML elements such as buttons, inputs, textareas, etc.
+    
+### CSS Styling
+* Do not leave any default styling for HTML elements such as buttons, inputs, textareas, etc.
+* CSS must look as if you have made a valiant effort. You are not expected to be a designer, but attention to spacing, font, layout must be apparent.
+* Your site must be intuitive to the user. User must not have to hunt and guess how to navigate and use your app.
+
+### GitHub 
+* Utilize creating a KanBan Board on Github to effectively manage your time in completing tasks and objectives.
+* Make sure to push to GitHub daily. *(We want to see that garden green)*
+* You are encouraged to use branches to complete your features and to push to your main branch when you have working functionality.
+   * Please rememeber to test the feature not only on local, but on Production *(Heroku)* as well to ensure it works as expected.
 
 > This general workflow is what's to be expected and will help with understanding how the data flow works from the backend to the frontend.
 
@@ -167,8 +211,7 @@ Daily standups will take place between groups of 3-5 students from your circle. 
 
 ## Lecture Questions Emoji System
 
-Because the TA's are asked to answer all questions asynchronously when possible and because capstone issues can often take hours to address the TA's will use slack reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
-
+Because the TA's are asked to answer all questions asynchronously when possible and because capstone issues can often take hours to address. The TA's will use slack reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
 
 # 👀
 The eyeballs mean the TA's are aware of the question and are looking into it / discussing it in the Staff Room. There may be other questions ahead of yours and it make take time to resolve the question based on the complexity of the problem and how clear the question was, if screenshots or commits were provided etc.
@@ -180,11 +223,11 @@ The green check means that a TA or the student has confirmed that the question h
 The gray or blue check means the question seems to have been resolved by a TA or other student but is awaiting some form of confirmation.
 
 # ⚠️ or ❌
-The alert emoji means the question may not be specific enough or may not show clear evidence of independent student research on AAO, Stack Overflow, Google etc. 
+The alert emoji means the question may not be specific enough or may not show clear evidence of independent student research on AAO, Stack Overflow, Google etc. Please do not interpret this in any negative way. Do not hesitate to ask questions, TA's are here to help and guide in answering questions. Fomulating good questions is a great skill to aquire as a software engineer and it does take practice. So, don't hesitate!
 
-Before the TA's can effectively address the question the student will need to add more information, full-screen screenshots, a description of what you have done so far in terms of research and solution attempts and/or a link to the repo with a recent commit message clearly describing the issue.
+Before the TA's can effectively address the question, the student will need to add more information, screenshots, a description of what you have done so far in terms of research and solution attempts and/or a link to the repo with a recent commit message clearly describing the issue.
 
-Once you have added to the question tag the TAs or re-post a new version of the question in the lecture questions channel.
+Once you have revised the question, tag the TAs or re-post a new version of the question in the lecture questions channel.
 
 ### Good Question Template
 
@@ -192,8 +235,8 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 1. What are you working on? (give us some context)
 2. Describe the problem (what are you trying to do? what is it currently doing?)
-3. What error messages do you have?
-4. What have you done to debug? What have you searched/tried?
+3. What error messages do you have? (server/front-end console, *if there is one*)
+4. What have you done to debug? What have you searched/tried? (THIS IS VERY HELPFUL TO DESCRIBE)
 5. Relevant code snippets/screenshots (crop, mark-up, or explain them)
 
 ---
@@ -224,7 +267,7 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 # Phase 2.5 - Peer Review
 
-Peer Review will start on Thursday of the first week of capstone everyday after lunch, at 12:30 PT / 3:30 EST. This can also be viewed on the [Mod 7 Online Google Calender](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles) as well. Students will get assigned a pair, posted to Slack everyday, to review each other's code. Below are guidelines to help illustrate how peer review will work.  
+Peer Review will start on Thursday of the first week of capstone everyday after lunch, at 12:30 PT / 3:30 EST. This can also be viewed on the [Mod 7 Online Google Calender](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles) as well. Students will get assigned a pair, posted to Slack everyday, to review each other's code. Below are guidelines to help illustrate how peer review will work. Please note, during this hour, instructors will not be available for questions on Slack.
 
 *Note- We will also do an EOD demo the day before peer review starts.*
 
@@ -264,11 +307,8 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 
 # Phase 3 - Pregrading / Grading
 
-## Cheating
-Students plagiarising another student's source code will be dismissed. Capstone project is an assessment to utilize the knowledge gained from the previous modules to build what you learned. 
-
 ## Pregrading
-Pre-grading will start on the **beginning of Thursday** at **9AM PT** on the second week of capstone development. Our grading process will be identical to the final grading process and students will receive pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out minor edits / corrections that will make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend! In addition, pre-grading will be a priority over answering questions in the lecture channel. TA's will still check periodically to help with questions, and free feel to also help your peer's as well!
+Pre-grading will start on the **beginning of Thursday** at **9AM PT** on the second week of capstone development. Our grading process will be identical to the final grading process and students will receive pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend! In addition, pre-grading will be a priority over answering questions in the lecture channel. TA's will still check periodically to help with questions, and free feel to also help your peer's as well!
 
 *Note- we will do a scorecard demo of how the grading process looks like, two days before pregrading starts*
 
@@ -276,24 +316,29 @@ Pre-grading will start on the **beginning of Thursday** at **9AM PT** on the sec
 
 ### Things to Consider
 * You DO NOT have to create your own scorecard, the Mod 7 team will do this for you.
-* Upon final grading, you should see two tabs at the bottom of the scorecard spreadsheet labeled as "pregrade" and "final grade".
+* Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as "pregrade" and "final grade".
 * Students are **expected** and **responsible** to test their Heroku app before final grading.
     * Test the CRUD functionality on Heroku.
     * Check if the styling is consistent throughout the entire app.
     * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
-    * TA's will do their best to leave as much feedback as possible on pregrading, however it is your responsibility to test your app.
+    * TA's will do their best to leave as much feedback as possible on pregrading, however **it is your responsibility to test your app**.
 
-## What's needed in the Project ReadMe
+## What's required in the Project ReadMe
 * Project title
 * Project description *(this can be a few sentences explaining what the app is)*
 * Heroku Live Link
-* Technologies Used
+* Technologies Used *(Frontend and Backend)*
 * MVP features
-* Few screenshots to highlight the app
+* Few screenshots, least *(1-2)*, to highlight the app
+
+[Markdown Guide Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+<!-- [Example of ReadMe](Link goes here) -->
 
 ## Passing Capstone Help
 
 * [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
+* [Instructor Notest on Project Grading](https://docs.google.com/presentation/d/1U3dFDQYXZbI9YTnC9T--hYtSIDobhbTU6F3lUBnSkjc/edit#slide=id.p)
 
 ## Helpful styling tips
 https://docs.google.com/document/d/1VkeCDf12jokoTdriQycheyfnlfdc-qypDXsxCO5tqNk/edit
