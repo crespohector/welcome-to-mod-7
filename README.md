@@ -7,24 +7,6 @@
 <!-- ![house](https://i.pinimg.com/originals/21/a0/48/21a048683eac0167afde15a1dae633e0.gif) -->
 <!-- ![welcome](https://gifimage.net/wp-content/uploads/2017/09/animated-welcome-gif-12.gif) -->
 <!-- ![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1) -->
-
-# Table of Contents
-- [Module 7 Calendar](https://github.com/crespohector/welcome-to-mod-7/edit/main/README.md#google-calendar)
-- [Phase 1 - Project Approval](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-1---project-approval)
-   - [Capstone Project Proposals](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#capstone-project-proposals)
-   - [GitHub Wiki Example Links](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#github-wiki-example-links)
-   - [Project Proposal Form](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#project-proposal-form)
-   - [Projects We've Seen Go Well](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#projects-weve-seen-go-well)
-   - [Project We've Seen Students Struggle With](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#projects-weve-seen-students-struggle-with)
-   - [Projects that are not allowed](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#projects-that-are-not-allowed)
-   - [NPM Packages](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#npm-packages)
-- [Phase 2 - Project Development](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-2---project-development)
-   - [Daily Standups](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#daily-standups)
-   - [Complete ONE FEATURE before moving on to the next](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#complete-one-feature-before-moving-on-to-the-next)
-   - [Good Question Template](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#good-question-template)
-- [Phase 2.5 - Peer Review](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-25---peer-review)
-- [Phase 3 - Pregrading](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-3---pregrading--grading)
-
 # Module 7 Welcome Pack
 
 Welcome to Module 7! This repo is meant to hold convenient links for you to use during your capstone projects. In addition, this repo will also contain what to expect during the first two weeks of capstone projects. Note this is a living document, things will be continuously changed and updated as needed but capstone requirements WILL NOT change.
@@ -40,6 +22,24 @@ Capstone Project is an assessment to test your programming and software engineer
 Please note, we want to aim for 4 features *(2 core and 2 bonus /or core)*, however the minimum to pass is **2 core *(CRUD)* features**.
 
 [Agile vs Waterfall Link](https://www.ibm.com/cloud/blog/agile-vs-waterfall)
+
+## Table of Contents
+- [Module 7 Calendar](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#google-calendar)
+- [Phase 1 - Project Approval](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-1---project-approval)
+   - [Capstone Project Proposals](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#capstone-project-proposals)
+   - [GitHub Wiki Example Links](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#github-wiki-example-links)
+   - [Project Proposal Form](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#project-proposal-form)
+   - [Projects We've Seen Go Well](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#projects-weve-seen-go-well)
+   - [Project We've Seen Students Struggle With](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#projects-weve-seen-students-struggle-with)
+   - [Projects that are not allowed](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#projects-that-are-not-allowed)
+   - [NPM Packages](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#npm-packages)
+   - [List of Approved NPM Packages](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#list-of-approved-npm-packages)
+- [Phase 2 - Project Development](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-2---project-development)
+   - [Daily Standups](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#daily-standups)
+   - [Workflow Expectations](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#workflow-expectations)
+   - [Good Question Template](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#good-question-template)
+- [Phase 2.5 - Peer Review](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-25---peer-review)
+- [Phase 3 - Pregrading](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-3---pregrading--grading)
 
 ## Google Calendar
 
@@ -193,6 +193,8 @@ You will have daily stand ups with your Project Manager. Daily standups will tak
 ### Complete ONE FEATURE before moving on to the next.
 * Expected General Workflow:
     * DB Tables => Backend Routes => Frontend Components => Error Handling => Styling
+
+> This general workflow is what's to be expected and will help with understanding how the data flow works from the backend to the frontend.
     
 ### CSS Styling
 * Do not leave any default styling for HTML elements such as buttons, inputs, textareas, etc.
@@ -204,9 +206,6 @@ You will have daily stand ups with your Project Manager. Daily standups will tak
 * Make sure to push to GitHub daily. *(We want to see that garden green)*
 * You are encouraged to use branches to complete your features and to push to your main branch when you have working functionality.
    * Please rememeber to test the feature not only on local, but on Production *(Heroku)* as well to ensure it works as expected.
-
-> This general workflow is what's to be expected and will help with understanding how the data flow works from the backend to the frontend.
-
 ---
 
 ## Lecture Questions Emoji System
@@ -267,7 +266,7 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 # Phase 2.5 - Peer Review
 
-Peer Review will start on Thursday of the first week of capstone everyday after lunch, at 12:30 PT / 3:30 EST. This can also be viewed on the [Mod 7 Online Google Calender](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles) as well. Students will get assigned a pair, posted to Slack everyday, to review each other's code. Below are guidelines to help illustrate how peer review will work. Please note, during this hour, instructors will not be available for questions on Slack.
+Peer Review will start on Friday of the first week of capstone everyday after lunch, at 12:30 PT / 3:30 EST. This can also be viewed on the [Mod 7 Online Google Calender](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles) as well. Students will get assigned a pair, posted to Slack everyday, to review each other's code. Below are guidelines to help illustrate how peer review will work. Please note, during this hour, instructors will not be available for questions on Slack.
 
 *Note- We will also do an EOD demo the day before peer review starts.*
 
@@ -338,7 +337,7 @@ Pre-grading will start on the **beginning of Thursday** at **9AM PT** on the sec
 ## Passing Capstone Help
 
 * [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
-* [Instructor Notest on Project Grading](https://docs.google.com/presentation/d/1U3dFDQYXZbI9YTnC9T--hYtSIDobhbTU6F3lUBnSkjc/edit#slide=id.p)
+* [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1U3dFDQYXZbI9YTnC9T--hYtSIDobhbTU6F3lUBnSkjc/edit#slide=id.p)
 
 ## Helpful styling tips
 https://docs.google.com/document/d/1VkeCDf12jokoTdriQycheyfnlfdc-qypDXsxCO5tqNk/edit
