@@ -8,7 +8,7 @@
 <!-- ![welcome](https://gifimage.net/wp-content/uploads/2017/09/animated-welcome-gif-12.gif) -->
 <!-- ![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1) -->
 
-# Table of Content
+# Table of Contents
 - [Module 7 Calendar](https://github.com/crespohector/welcome-to-mod-7/edit/main/README.md#google-calendar)
 - [Phase 1 - Project Approval](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-1---project-approval)
    - [Capstone Project Proposals](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#capstone-project-proposals)
