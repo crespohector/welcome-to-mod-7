@@ -56,13 +56,16 @@ Students plagiarising another student's source code will be dismissed. This is a
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-You must submit the Google Project Proposal form and get an approval from a TA before starting on your capstone project. This will be due by the second day of capstone before lunch. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, project kanban board, etc.)*. Also, the mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal and we will review them based on the order.
+You must submit the Google Project Proposal form and get an approval from a TA before starting on your capstone project. This will be due by Wednesday *(w21 d3)* before lunch. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, project kanban board, etc.)*. Also, the mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal and we will review them based on the order given.
 
 *Note- Any project proposal without all the required wiki documentations will be disapproved and asked to complete it.*
 
+<!--
 ```txt
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins you are welcome to fill out this form but you will have to fill it out again on Monday / Tuesday officially.
 ```
+-->
+
 ---
 ## Github Wiki Example Links
 > User stories, Database Schema, Features, Wireframes are _required._
@@ -72,7 +75,6 @@ You must submit the Google Project Proposal form and get an approval from a TA b
 * [Example Wireframes (screenshots of the app you're cloning)](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
 
 *Note- Students that plan to update, add, or remove their user stories during project development needs to be approved by their Project Advisor.*
-*Note- You need minimum 2 CRUD features to pass.
 
 ### Project Proposal Form
 [Project Proposal Form (April 2022)](https://forms.gle/Z9qSUYHWecshK8GS7)
@@ -88,7 +90,6 @@ Here are some capstone project ideas that tend to be associated with success in 
 * AirBnB
 * Reddit
 * Yelp
-* AirBnB
 * Eventbrite
 * Medium
 
@@ -246,6 +247,9 @@ To ensure the quickest possible response to a question you are encouraged to lit
 > _An informal and very incomplete list of somewhat common and / or unique problems observed by the Mod 7 TAs during capstone project development._
 * [Capstone FAAQs](https://github.com/tombetthauser/fullstack-faqs)
 
+## Helpful styling tips
+https://docs.google.com/document/d/1VkeCDf12jokoTdriQycheyfnlfdc-qypDXsxCO5tqNk/edit
+
 ## Some Useful Development Links
 
 <!-- * [Module 7 Expectations](https://hackmd.io/@jwarren/Sycd24fId) -->
@@ -298,31 +302,42 @@ Peer Review will start on Friday of the first week of capstone everyday after lu
      - Mistakes, things you missed, things you want to change, etc...
 2. Pay attention to the way your partner has coded things.
     - Seeing how others code can give new ideas! Or solve a problem you already have!
+3. Please use code-centric instead of human-centric language. _(refer back to AOO Week 2 Day 2 “Empathetic Communication” for a refresher!)_
 4. Ask clarifying questions of your partner when they are explaining.
 5. Take notice on how your partner read and understood your code so that you could gauge your work’s readability. 
 6. If your partner did have a hard time reading a line/snippet of code, be sure to add comments to those to help you understand your code in the future. 
 7. Take feedback as something constructive and helpful for improvement.(On the flip side, be aware of how you present constructive feedback)
-    3. Please use code-centric instead of human-centric language. _(refer back to AOO Week 2 Day 2 “Empathetic Communication” for a refresher!)_
 
 ---
 
-# Phase 3 - Pregrading / Grading
+# Phase 3 - Pregrading / Final Grading
 
 ## Pregrading
-Pre-grading will start on the **beginning of Thursday** at **9AM PT** on the second week of capstone development. Our grading process will be identical to the final grading process and students will receive pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend! In addition, pre-grading will be a priority over answering questions in the lecture channel. TA's will still check periodically to help with questions, and free feel to also help your peer's as well!
+Pregrading will start on the **beginning of Thursday** at **9AM PT** on the second week of capstone development. Our grading process will be identical to the final grading process and students will receive pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend! In addition, pre-grading will be a priority over answering questions in the lecture channel. TA's will still check periodically to help answer questions, and free feel to also help your peer's as well!
+
+Please note that if the required core features are not deployed to Heroku by Pregrade, then TA's will be unable to leave any feedback. This will be the student's responsibility over the weekend to read the Error validation repo and Instructor Grade Google Slides to properly test the feature.
+
+## Review Your Pregrade Scorecard
+Students will receive an email associated with Progress Tracker of their scorecard after their capstone project is graded. If you did not receive an email by EOD, please reach out to a TA to confirm your email. On Friday, day after Pregrade, please reach out to your grader to ask clarifying questions and to ensure what you need to work on over the weekend. After fixing the corrections from the scorecard, please test on Production to ensure it works as expected.
 
 *Note- we will do a scorecard demo of how the grading process looks like, two days before pregrading starts*
 
+*Free feel to make a copy of the example scorecard and use it as a reference*
 - [Example Scorecard](https://docs.google.com/spreadsheets/d/12ps73B8JscnRFp0nKv98Y6A2D825qhrvZMUYu5GToRs/edit?usp=sharing)
 
 ### Things to Consider
-* You DO NOT have to create your own scorecard, the Mod 7 team will do this for you.
+* You DO NOT have to create your own scorecard, your PM will do this for you.
 * Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as "pregrade" and "final grade".
 * Students are **expected** and **responsible** to test their Heroku app before final grading.
-    * Test the CRUD functionality on Heroku.
+    * Test the CRUD functionality and User Auth on Heroku.
     * Check if the styling is consistent throughout the entire app.
+    * Check to make sure all the general requirements are met *(Favicon, Readme, About Links, etc)*
     * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
     * TA's will do their best to leave as much feedback as possible on pregrading, however **it is your responsibility to test your app**.
+    * Please review [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1U3dFDQYXZbI9YTnC9T--hYtSIDobhbTU6F3lUBnSkjc/edit#slide=id.p)
+
+## Final Grade
+Students are required to present their capstone project on Heroku on Monday *(w23 d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading students projects. TA's will revoke the shared access on scorecards and will share it again after it is graded. Under the Final Grade tab, students will see the status of their project, either as "pass" or "fail". Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a Slack Message from the Module 7 Lead if their project is "fail". 
 
 ## What's required in the Project ReadMe
 * Project title
@@ -340,7 +355,3 @@ Pre-grading will start on the **beginning of Thursday** at **9AM PT** on the sec
 
 * [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
 * [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1U3dFDQYXZbI9YTnC9T--hYtSIDobhbTU6F3lUBnSkjc/edit#slide=id.p)
-
-## Helpful styling tips
-https://docs.google.com/document/d/1VkeCDf12jokoTdriQycheyfnlfdc-qypDXsxCO5tqNk/edit
-
