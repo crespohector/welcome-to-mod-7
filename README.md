@@ -138,7 +138,7 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 * Projects that the student has already done before in previous modules.
 
 ## NPM Packages
-**Please Note, any NPM packages without your PM's approval is a risk of having to refactor your code**
+**Please Note, any outside curriculum NPM packages implemented without your PM's approval is a risk of having to refactor your code**
 
 * Any NPM package *(outside curriculum)* needs to be approved by your **Project Manager**
 * CSS frameworks *(Bootstrap, MaterialUI, etc.)* are **not allowed**
