@@ -19,7 +19,7 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
 
 Capstone Project is an assessment to test your programming and software engineering skills. The main objective is to build a user-ready MVP *(Minimal Viable Product)* application within these two weeks from planning to having a deployed app. The minimum requirements to pass capstone is to have at least 2 core features with error validations and styling. The expectation is to have a completed MVP application first, then focus on refactoring to include additional features. This approach is known as Agile, whereas the Waterfall approach can be seen as completing one phase at a time before moving onto the next phase. Agile is an iterative approach where we deliver goals in small incremental amounts.
 
-Please note, we want to aim for 4 features *(2 core and 2 bonus /or core)*, however the minimum to pass is **2 core *(CRUD)* features**.
+Please note, we want to aim for 4 features *(2 core and 2 bonus /or core)*, however the minimum to pass is **2 core *(CRUD)* features**. Students should have a clear road map of what should be their MVP first to pass then implement future goals.
 
 [Agile vs Waterfall Link](https://www.ibm.com/cloud/blog/agile-vs-waterfall)
 
@@ -141,7 +141,9 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 **Please Note, any NPM packages without your PM's approval is a risk of having to refactor your code**
 
 * Any NPM package *(outside curriculum)* needs to be approved by your **Project Manager**
-* CSS frameworks *(Bootstrap, MaterialUI, etc.)* are **not allowed** 
+* CSS frameworks *(Bootstrap, MaterialUI, etc.)* are **not allowed**
+
+*Please note, any questions related to third-party API's (AWS, Google Maps, Socket.io, NPM Packages, etc.) that are outside of curriculum is the student's responsibility to debug. TA's may offer advice/guidance but are not expected to help debug.*
 
 ### List of Approved NPM Packages
 **The NPM packages listed below are already approved, free feel to implement these into your projects**
