@@ -39,7 +39,7 @@ Please note, we want to aim for 4 features *(2 core and 2 bonus /or core)*, howe
    - [Workflow Expectations](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#workflow-expectations)
    - [Good Question Template](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#good-question-template)
 - [Phase 2.5 - Peer Review](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-25---peer-review)
-- [Phase 3 - Pregrading](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-3---pregrading--grading)
+- [Phase 3 - Pregrade & Final Grade](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-3---pregrading--final-grading)
    - [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
    - [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1U3dFDQYXZbI9YTnC9T--hYtSIDobhbTU6F3lUBnSkjc/edit#slide=id.p)
 
