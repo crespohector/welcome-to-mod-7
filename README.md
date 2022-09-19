@@ -138,7 +138,7 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 * Projects that the student has already done before in previous modules.
 
 ## NPM Packages
-**Please Note, any outside curriculum NPM packages implemented without your PM's approval is a risk of having to refactor your code**
+**Please Note: Any outside curriculum NPM packages implemented without your PM's approval is a risk of having to refactor your code**
 
 * Any NPM package *(outside curriculum)* needs to be approved by your **Project Manager**
 * CSS frameworks *(Bootstrap, MaterialUI, etc.)* are **not allowed**
@@ -210,7 +210,7 @@ You will have daily stand ups with your Project Manager. Daily standups will tak
 * Utilize creating a KanBan Board on Github to effectively manage your time in completing tasks and objectives.
 * Make sure to push to GitHub daily. *(We want to see that garden green)*
 * You are encouraged to use branches to complete your features and to push to your main branch when you have working functionality.
-   * Please rememeber to test the feature not only on local, but on Production *(Heroku)* as well to ensure it works as expected.
+   * Please remember to test the feature not only on local, but on Production *(Heroku)* as well to ensure it works as expected.
 ---
 
 ## Lecture Questions Emoji System
@@ -324,7 +324,7 @@ Students will receive an email associated with Progress Tracker of their scoreca
 
 *Note- we will do a scorecard demo of how the grading process looks like, two days before pregrading starts*
 
-*Free feel to make a copy of the example scorecard and use it as a reference*
+*Feel free to make a copy of the example scorecard and use it as a reference*
 - [Example Scorecard](https://docs.google.com/spreadsheets/d/12ps73B8JscnRFp0nKv98Y6A2D825qhrvZMUYu5GToRs/edit?usp=sharing)
 
 ### Things to Consider
