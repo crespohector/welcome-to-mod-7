@@ -80,8 +80,8 @@ You must submit the Google Project Proposal form and get an approval from a TA b
 > User stories, Database Schema, Features, Wireframes are _required._
 * [Example User Stories (needed for the first 2 core features)](https://github.com/appacademy/Module-6-Resources/blob/main/group_project_resources/example_project_planning_docs/user_stories.md)
 * [Example Schema (3-6 tables needed for the first 2 core features)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
-* [Example Features (4 CRUD features and 2 Bonus features needs to be defined)](https://github.com/chrisoney/mercenary-review/wiki/MVP-Feature-List)
-* [Example Wireframes (screenshots of the app you're cloning)](https://github.com/chrisoney/mercenary-review/wiki/Wireframes-and-Front-End-Routes)
+* [Example Features (4 CRUD features and 2 Bonus features needs to be defined)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List)
+* [Example Wireframes](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-Wireframes)
 
 *Note- Students that plan to update, add, or remove their user stories during project development needs to be approved by their Project Advisor.*
 
