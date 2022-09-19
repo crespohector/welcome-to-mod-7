@@ -23,6 +23,15 @@ Please note, we want to aim for 4 features *(2 core and 2 bonus /or core)*, howe
 
 [Agile vs Waterfall Link](https://www.ibm.com/cloud/blog/agile-vs-waterfall)
 
+## Mental Health
+Taking care of our mental health is an important aspect in our life. Please make sure to take breaks, meditate, sleep, or go for a walk outside to do what's best for you to reduce stress. Here are resources provided that can be informative.
+
+- [Imposter Syndrome](https://docs.google.com/document/d/1CA5UZwDisg_1WMQIurtDsj4vOkWlZ0cZ/edit)
+- [Programmer Imposter Syndrome](https://drive.google.com/file/d/1A6_x1iHqKi1aOAlKKUsx3f-jkhZUZhpM/view?usp=sharing)
+- [Anxiety](https://drive.google.com/file/d/13BnCXH7XKsJhQOp_xaBH9E2BAwMTTJ2c/view?usp=sharing)
+- [Academic Burnout: How to Prevent it and What to Do](https://drive.google.com/file/d/1oTIKuSqpS6S2bvLWJahQ8xmPDvZeqUqF/view?usp=sharing)
+- [Avoiding Burnout](https://drive.google.com/file/d/1viR9dO-xOJSF6ouLsLs4vqvC5Qhy8dZY/view?usp=sharing)
+
 ## Table of Contents
 - [Module 7 Calendar](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#google-calendar)
 - [Phase 1 - Project Approval](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-1---project-approval)
