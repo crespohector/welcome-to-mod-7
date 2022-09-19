@@ -151,7 +151,7 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 **The NPM packages listed below are already approved, free feel to implement these into your projects**
 
 - Boto3 (AWS)
-- Google Maps
+- Google Maps (@reach/combobox, @react-google-maps/api, use-places-autocomplete...)
 - Moment.js
 - WaveSufer.js
 - Websockets (i.e socket.io)
