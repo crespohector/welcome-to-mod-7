@@ -50,7 +50,7 @@ Taking care of our mental health is an important aspect in our life. Please make
 - [Phase 2.5 - Peer Review](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-25---peer-review)
 - [Phase 3 - Pregrade & Final Grade](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-3---pregrading--final-grading)
    - [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
-   - [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1U3dFDQYXZbI9YTnC9T--hYtSIDobhbTU6F3lUBnSkjc/edit#slide=id.p)
+   - [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 
 ## Google Calendar
 
@@ -353,7 +353,7 @@ Students will receive an email associated with Progress Tracker of their scoreca
     * Check to make sure all the general requirements are met *(Favicon, Readme, About Links, etc)*
     * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
     * TA's will do their best to leave as much feedback as possible on pregrading, however **it is your responsibility to test your app**.
-    * Please review [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1U3dFDQYXZbI9YTnC9T--hYtSIDobhbTU6F3lUBnSkjc/edit#slide=id.p)
+    * Please review [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 
 ## Final Grade
 Students are required to present their capstone project on Heroku on Monday *(w23 d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading students projects. TA's will revoke the shared access on scorecards and will share it again after it is graded. Under the Final Grade tab, students will see the status of their project, either as "pass" or "fail". Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a Slack Message from the Module 7 Lead if their project is "fail". 
@@ -373,4 +373,4 @@ Students are required to present their capstone project on Heroku on Monday *(w2
 ## Passing Capstone Help
 
 * [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
-* [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1U3dFDQYXZbI9YTnC9T--hYtSIDobhbTU6F3lUBnSkjc/edit#slide=id.p)
+* [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
