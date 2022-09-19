@@ -148,7 +148,11 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 ### List of Approved NPM Packages
 **The NPM packages listed below are already approved, free feel to implement these into your projects**
 
-- [react-calendar](https://www.npmjs.com/package/react-calendar)
+- Boto3 (AWS)
+- Google Maps
+- Moment.js
+- WaveSufer.js
+- Websockets (i.e socket.io)
 
 ---
 
