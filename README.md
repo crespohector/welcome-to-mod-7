@@ -145,6 +145,8 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 
 *Please note, any questions related to third-party API's (AWS, Google Maps, Socket.io, NPM Packages, etc.) that are outside of curriculum is the student's responsibility to debug. TA's may offer advice/guidance but are not expected to help debug.*
 
+> Please note: Each Module has their own set of regulations that is specific to its own. NPM packages may have been approved in previous Modules, however some may not be approved in Mod 7. Students can always revisit previous projects after final grade is completed or during Job Search to implement any NPM packages. 
+
 ### List of Approved NPM Packages
 **The NPM packages listed below are already approved, free feel to implement these into your projects**
 
@@ -153,6 +155,8 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 - Moment.js
 - WaveSufer.js
 - Websockets (i.e socket.io)
+- multer
+- aws-sdk
 
 ---
 
