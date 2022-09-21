@@ -362,9 +362,10 @@ Students are required to present their capstone project on Heroku on Monday *(w2
 * Project title
 * Project description *(this can be a few sentences explaining what the app is)*
 * Heroku Live Link
-* Technologies Used *(Frontend and Backend)*
-* MVP features
+* Technologies/Frameworks Used *(Frontend and Backend)*
+* MVP Core features
 * Few screenshots, least *(1-2)*, to highlight the app
+* Future Implementation Goals
 
 [Markdown Guide Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
