@@ -23,17 +23,12 @@ Please note, we want to aim for 4 features *(2 core and 2 bonus /or core)*, howe
 
 [Agile vs Waterfall Link](https://www.ibm.com/cloud/blog/agile-vs-waterfall)
 
-## Mental Health
-Taking care of our mental health is an important aspect in our life. Please make sure to take breaks, meditate, sleep, or go for a walk outside to do what's best for you to reduce stress. Here are resources provided that can be informative.
 
-- [Imposter Syndrome](https://docs.google.com/document/d/1CA5UZwDisg_1WMQIurtDsj4vOkWlZ0cZ/edit)
-- [Programmer Imposter Syndrome](https://drive.google.com/file/d/1A6_x1iHqKi1aOAlKKUsx3f-jkhZUZhpM/view?usp=sharing)
-- [Anxiety](https://drive.google.com/file/d/13BnCXH7XKsJhQOp_xaBH9E2BAwMTTJ2c/view?usp=sharing)
-- [Academic Burnout: How to Prevent it and What to Do](https://drive.google.com/file/d/1oTIKuSqpS6S2bvLWJahQ8xmPDvZeqUqF/view?usp=sharing)
-- [Avoiding Burnout](https://drive.google.com/file/d/1viR9dO-xOJSF6ouLsLs4vqvC5Qhy8dZY/view?usp=sharing)
 
 ## Table of Contents
+- [Mental Health](https://github.com/crespohector/welcome-to-mod-7/edit/main/README.md#mental-health)
 - [Module 7 Calendar](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#google-calendar)
+- [Cheating](https://github.com/crespohector/welcome-to-mod-7/edit/main/README.md#cheating)
 - [Phase 1 - Project Approval](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-1---project-approval)
    - [Capstone Project Proposals](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#capstone-project-proposals)
    - [GitHub Wiki Example Links](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#github-wiki-example-links)
@@ -47,10 +42,20 @@ Taking care of our mental health is an important aspect in our life. Please make
    - [Daily Standups](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#daily-standups)
    - [Workflow Expectations](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#workflow-expectations)
    - [Good Question Template](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#good-question-template)
+   - [Helpful Development Links](https://github.com/crespohector/welcome-to-mod-7/edit/main/README.md#faaqs--frequentlyany-asked-questions)
 - [Phase 2.5 - Peer Review](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-25---peer-review)
 - [Phase 3 - Pregrade & Final Grade](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-3---pregrading--final-grading)
    - [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
    - [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
+
+## Mental Health
+Taking care of our mental health is an important aspect in our life. Please make sure to take breaks, meditate, sleep, or go for a walk outside to do what's best for you to reduce stress. Here are resources provided that can be informative.
+
+- [Imposter Syndrome](https://docs.google.com/document/d/1CA5UZwDisg_1WMQIurtDsj4vOkWlZ0cZ/edit)
+- [Programmer Imposter Syndrome](https://drive.google.com/file/d/1A6_x1iHqKi1aOAlKKUsx3f-jkhZUZhpM/view?usp=sharing)
+- [Anxiety](https://drive.google.com/file/d/13BnCXH7XKsJhQOp_xaBH9E2BAwMTTJ2c/view?usp=sharing)
+- [Academic Burnout: How to Prevent it and What to Do](https://drive.google.com/file/d/1oTIKuSqpS6S2bvLWJahQ8xmPDvZeqUqF/view?usp=sharing)
+- [Avoiding Burnout](https://drive.google.com/file/d/1viR9dO-xOJSF6ouLsLs4vqvC5Qhy8dZY/view?usp=sharing)
 
 ## Google Calendar
 
@@ -65,7 +70,7 @@ Students plagiarising another student's source code will be dismissed. This is a
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-You must submit the Google Project Proposal form and get an approval from a TA before starting on your capstone project. This will be due by Wednesday *(w21 d3)* before lunch. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, project kanban board, etc.)*. Also, the mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal and we will review them based on the order given.
+All students should have a **target website** they will clone. You must submit the Google Project Proposal form and get an approval from a TA before starting on your capstone project. This will be due by Wednesday *(w21 d3)* before lunch. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, project kanban board, etc.)*. Also, the mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal and we will review them based on the order given.
 
 *Note- Any project proposal without all the required wiki documentations will be disapproved and asked to complete it.*
 
@@ -86,7 +91,7 @@ You must submit the Google Project Proposal form and get an approval from a TA b
 *Note- Students that plan to update, add, or remove their user stories during project development needs to be approved by their Project Advisor.*
 
 ### Project Proposal Form
-[Project Proposal Form (May 2022)](https://forms.gle/ts25Nz4UW4X3EcRF7)
+[Project Proposal Form (May 2022)](https://forms.gle/5979F3aCnVVpzGWe9)
 <!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
 
 ---
@@ -154,7 +159,7 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 
 *Please note, any questions related to third-party API's (AWS, Google Maps, Socket.io, NPM Packages, etc.) that are outside of curriculum is the student's responsibility to debug. TA's may offer advice/guidance but are not expected to help debug.*
 
-> Please note: Each Module has their own set of regulations that is specific to its own. NPM packages may have been approved in previous Modules, however some may not be approved in Mod 7. Students can always revisit previous projects after final grade is completed or during Job Search to implement any NPM packages. 
+> Please note: Each Module has their own set of regulations that is specific to its own. NPM packages may have been approved in previous Modules, however some may not be approved in Mod 7. Students can always revisit capstone projects after final grade is completed or during Job Search to implement any NPM packages. 
 
 ### List of Approved NPM Packages
 **The NPM packages listed below are already approved, free feel to implement these into your projects**
