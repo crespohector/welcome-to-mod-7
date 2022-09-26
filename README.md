@@ -91,6 +91,8 @@ All students should have a **target website** they will clone. You must submit t
 *Note- Students that plan to update, add, or remove their user stories during project development needs to be approved by their Project Advisor.*
 
 ### Project Proposal Form
+After the required wiki documentations is completed, submit this project proposal form and respond to the thread on Slack.
+
 [Project Proposal Form (May 2022)](https://forms.gle/5979F3aCnVVpzGWe9)
 <!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
 
