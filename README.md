@@ -341,6 +341,10 @@ Peer Review will start on Friday of the first week of capstone everyday after lu
 ## Pregrading
 Pregrading will start on the **beginning of Thursday** at **9AM PT** on the second week of capstone development. Our grading process will be identical to the final grading process and students will receive pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend! In addition, pre-grading will be a priority over answering questions in the lecture channel. TA's will still check periodically to help answer questions, and free feel to also help your peer's as well!
 
+<!-- 1. Students will fill out their capstone scorecards.
+2. Students will receive a direct messaage from their grader.
+-->
+
 Please note that if the required core features are not deployed to Heroku by Pregrade, then TA's will be unable to leave any feedback. This will be the student's responsibility over the weekend to read the Error validation repo and Instructor Grade Google Slides to properly test the feature.
 
 ## Review Your Pregrade Scorecard
