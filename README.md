@@ -38,6 +38,7 @@ Please note, we want to aim for 4 features *(2 core and 2 bonus /or core)*, howe
    - [Projects that are not allowed](https://github.com/crespohector/welcome-to-mod-7#projects-that-are-not-allowed)
    - [NPM Packages](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#npm-packages)
    - [List of Approved NPM Packages](https://github.com/crespohector/welcome-to-mod-7#list-of-approved-npm-packages)
+   - [Question Asking Template](https://github.com/crespohector/welcome-to-mod-7/edit/main/README.md#lecture-questions-emoji-system)
 - [Phase 2 - Project Development](https://github.com/crespohector/welcome-to-mod-7#phase-2---project-development)
    - [Daily Standups](https://github.com/crespohector/welcome-to-mod-7#daily-standups)
    - [Workflow Expectations](https://github.com/crespohector/welcome-to-mod-7#workflow-expectations)
@@ -182,7 +183,6 @@ When picking your capstone project theme use common sense and think about it fro
 
 * [Project Theme Expectations](https://github.com/tombetthauser/module-7-welcome/blob/main/Project%20Theme%20Expectations%20-%20Student%20Facing%20Discussion.pdf)
 
-
 <!-- ---
 ## Minimul Viable Product / Project
 
@@ -190,6 +190,43 @@ Remember, a minimum viable product is the absolute least you can put out that is
 Remember, a successful capstone project does not need AWS, Google Maps, Web Sockets or more than 2 CRUD features. But the 2 CRUD features that you do build need to feel and function complete to pass. Essentially, this image says it all both for your capstone project and future projects in your career. If image files could be made out of solid gold, it would be. Keep it in mind always.
 
 ![mvps](https://i.imgur.com/vfIpcWn.png) -->
+
+---
+## Lecture Questions Emoji System
+
+Because the TA's are asked to answer all questions asynchronously when possible and because capstone issues can often take hours to address. The TA's will use slack reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
+
+# 👀
+The eyeballs mean the TA's are aware of the question and are looking into it / discussing it in the Staff Room. There may be other questions ahead of yours and it make take time to resolve the question based on the complexity of the problem and how clear the question was, if screenshots or commits were provided etc.
+
+# ✅
+The green check means that a TA or the student has confirmed that the question has been resolved. If this isn't correct tag one of the TA's in the thread or re-post the question.
+
+# ☑️
+The gray or blue check means the question seems to have been resolved by a TA or other student but is awaiting some form of confirmation.
+
+# ⚠️ or ❌
+The alert emoji means the question may not be specific enough or may not show clear evidence of independent student research on AAO, Stack Overflow, Google etc. Please do not interpret this in any negative way. Do not hesitate to ask questions, TA's are here to help and guide in answering questions. Fomulating good questions is a great skill to aquire as a software engineer and it does take practice. So, don't hesitate!
+
+Before the TA's can effectively address the question, the student will need to add more information, screenshots, a description of what you have done so far in terms of research and solution attempts and/or a link to the repo with a recent commit message clearly describing the issue.
+
+Once you have revised the question, tag the TAs or re-post a new version of the question in the lecture questions channel.
+
+### Good Question Template
+
+To ensure the quickest possible response to a question you are encouraged to literally copy, paste and fill this out when asking a question in slack. The Mod 7 team may ask you to do so if it seems like it might help expedite answering your question.
+
+1. What are you working on? (give us some context)
+2. Describe the problem (what are you trying to do? what is it currently doing?)
+3. What error messages do you have? (server/front-end console, *if there is one*)
+4. What have you done to debug? What have you searched/tried? (THIS IS VERY HELPFUL TO DESCRIBE)
+5. Relevant code snippets/screenshots (crop, mark-up, or explain them)
+---
+
+## Capstone Scorecards
+
+All students should have access to the "capstone scorecard" tab in your Google Spreadsheet. Inside that tab, students will fill out the necessary information such as the mvp features and the student name, project repo link, etc. IA's will be utilizing them for future grading purposes.
+
 ---
 
 # Phase 2 - Project Development
@@ -235,39 +272,7 @@ You will have daily stand ups with your Project Manager. Daily standups will tak
 * Make sure to push to GitHub daily. *(We want to see that garden green)*
 * You are encouraged to use branches to complete your features and to push to your main branch when you have working functionality.
    * Please remember to test the feature not only on local, but on Production *(Heroku)* as well to ensure it works as expected.
----
 
-## Lecture Questions Emoji System
-
-Because the TA's are asked to answer all questions asynchronously when possible and because capstone issues can often take hours to address. The TA's will use slack reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
-
-# 👀
-The eyeballs mean the TA's are aware of the question and are looking into it / discussing it in the Staff Room. There may be other questions ahead of yours and it make take time to resolve the question based on the complexity of the problem and how clear the question was, if screenshots or commits were provided etc.
-
-# ✅
-The green check means that a TA or the student has confirmed that the question has been resolved. If this isn't correct tag one of the TA's in the thread or re-post the question.
-
-# ☑️
-The gray or blue check means the question seems to have been resolved by a TA or other student but is awaiting some form of confirmation.
-
-# ⚠️ or ❌
-The alert emoji means the question may not be specific enough or may not show clear evidence of independent student research on AAO, Stack Overflow, Google etc. Please do not interpret this in any negative way. Do not hesitate to ask questions, TA's are here to help and guide in answering questions. Fomulating good questions is a great skill to aquire as a software engineer and it does take practice. So, don't hesitate!
-
-Before the TA's can effectively address the question, the student will need to add more information, screenshots, a description of what you have done so far in terms of research and solution attempts and/or a link to the repo with a recent commit message clearly describing the issue.
-
-Once you have revised the question, tag the TAs or re-post a new version of the question in the lecture questions channel.
-
-### Good Question Template
-
-To ensure the quickest possible response to a question you are encouraged to literally copy, paste and fill this out when asking a question in slack. The Mod 7 team may ask you to do so if it seems like it might help expedite answering your question.
-
-1. What are you working on? (give us some context)
-2. Describe the problem (what are you trying to do? what is it currently doing?)
-3. What error messages do you have? (server/front-end console, *if there is one*)
-4. What have you done to debug? What have you searched/tried? (THIS IS VERY HELPFUL TO DESCRIBE)
-5. Relevant code snippets/screenshots (crop, mark-up, or explain them)
-
----
 
 ## FAAQs | Frequently/Any Asked Questions
 > _An informal and very incomplete list of somewhat common and / or unique problems observed by the Mod 7 TAs during capstone project development._
@@ -341,33 +346,29 @@ Peer Review will start on Friday of the first week of capstone everyday after lu
 ## Pregrading
 Pregrading will start on the **beginning of Thursday** at **9AM PT** on the second week of capstone development. Our grading process will be identical to the final grading process and students will receive pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend! In addition, pre-grading will be a priority over answering questions in the lecture channel. TA's will still check periodically to help answer questions, and free feel to also help your peer's as well!
 
-<!-- 1. Students will fill out their capstone scorecards.
-2. Students will receive a direct messaage from their grader.
--->
-
 Please note that if the required core features are not deployed to Heroku by Pregrade, then TA's will be unable to leave any feedback. This will be the student's responsibility over the weekend to read the Error validation repo and Instructor Grade Google Slides to properly test the feature.
 
 ## Review Your Pregrade Scorecard
-Students will receive an email associated with Progress Tracker of their scorecard after their capstone project is graded. If you did not receive an email by EOD, please reach out to a TA to confirm your email. On Friday, day after Pregrade, please reach out to your grader to ask clarifying questions and to ensure what you need to work on over the weekend. After fixing the corrections from the scorecard, please test on Production to ensure it works as expected.
+Students will receive an email associated with Progress Tracker of their scorecard after their capstone project is graded. If you did not receive an email by EOD, please reach out to a TA to confirm your email. On Friday, day after Pregrade, please reach out to your grader to ask clarifying questions and to ensure what you need to work on over the weekend. Students are responsible to working on all the Evaluator feedback on the pre-grade scorecard. After fixing the corrections from the scorecard, please test on Production to ensure it works as expected.
 
 *Note- we will do a scorecard demo of how the grading process looks like, two days before pregrading starts*
 
 *Feel free to make a copy of the example scorecard and use it as a reference*
-- [Example Scorecard](https://docs.google.com/spreadsheets/d/12ps73B8JscnRFp0nKv98Y6A2D825qhrvZMUYu5GToRs/edit?usp=sharing)
+- [Example Scorecard](https://docs.google.com/spreadsheets/d/1e5LgQ7u5oRDS8C2gr7hIciHSz1Tg6N1AhmErjLTM6JM/edit#gid=0)
 
 ### Things to Consider
-* You DO NOT have to create your own scorecard, your PM will do this for you.
+<!-- * You DO NOT have to create your own scorecard, your PM will do this for you. -->
 * Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as "pregrade" and "final grade".
 * Students are **expected** and **responsible** to test their Heroku app before final grading.
     * Test the CRUD functionality and User Auth on Heroku.
     * Check if the styling is consistent throughout the entire app.
-    * Check to make sure all the general requirements are met *(Favicon, Readme, About Links, etc)*
+   <!-- * Check to make sure all the general requirements are met *(Favicon, Readme, About Links, etc)* -->
     * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
-    * TA's will do their best to leave as much feedback as possible on pregrading, however **it is your responsibility to test your app**.
+    * TA's will do their best to leave as much feedback as possible on pregrading, however **it is your responsibility to test the CRUD functionality on your app to ensure it still works as expected**.
     * Please review [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 
 ## Final Grade
-Students are required to present their capstone project on Heroku on Monday *(w23 d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading students projects. TA's will revoke the shared access on scorecards and will share it again after it is graded. Under the Final Grade tab, students will see the status of their project, either as "pass" or "fail". Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a Slack Message from the Module 7 Lead if their project is "fail". 
+Students are required to present their capstone project on Heroku on Monday *(w23 d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading students projects. <!-- TA's will revoke the shared access on scorecards and will share it again after it is graded. -->Please try to avoid watching an IA live grade as this makes grading awkward, students will receive a direct message from an IA once their project has been graded. Last time to deploy any changes to the project GitHub repo will be before presentations, any changes made during grading will be striked. Under the Final Grade tab, students will see the status of their project, either as "pass", "fail", or "currently grading". All students' capstone projects that is considered to be "fail" will be finalized and confirmed by a PTM. Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a Slack Message from the Module 7 Lead or Cohort Lead to discuss what the deferral process will look like.
 
 ## What's required in the Project ReadMe
 * Project title
