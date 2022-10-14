@@ -235,7 +235,7 @@ All students should have access to the "capstone scorecard" tab in your Google S
 
 ## Daily Standups
 
-You will have daily stand ups with your Project Manager. Daily standups will take place between groups of 3-5 students from your circle. Each student will take roughly 5-10 minutes to screen-share their **deployed app** and **code**. Students are expected to explain what they worked on Heroku and then explain the code and data-flow afterwards. Specific standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team.
+This will **begin on W21D3**. You will have daily stand ups with your Project Manager. Daily standups will take place between groups of 3-5 students from your circle. Each student will take roughly 5-10 minutes to screen-share their **deployed app** and **code**. Students are expected to explain what they worked on Heroku and then explain the code and data-flow afterwards. Specific standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team.
 
 ### Questions For Students:
 
