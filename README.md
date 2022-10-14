@@ -75,6 +75,8 @@ All students should have a **target website** they will clone. You must submit t
 
 *Note- Any project proposal without all the required wiki documentations will be disapproved and asked to complete it.*
 
+IA's will have open office hours during Project Approval Phase to help provide guidance on project proposals.
+
 <!--
 ```txt
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins you are welcome to fill out this form but you will have to fill it out again on Monday / Tuesday officially.
