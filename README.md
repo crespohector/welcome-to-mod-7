@@ -71,7 +71,7 @@ Students plagiarising another student's source code will be dismissed. This is a
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-All students should have a **target website** they will clone. You must submit the Google Project Proposal form and get an approval from a TA before starting on your capstone project. This will be due by Wednesday *(w21 d3)* before lunch. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, project kanban board, etc.)*. Also, the mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal and we will review them based on the order given.
+All students should have a **target website** they will clone. You must submit the Google Project Proposal form and get an approval from a TA before starting on your capstone project. There will be a soft deadline to submit proposals by Tuesday *(w21 d2)* before lunch, and a strict deadline (all proposals) by EOD. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, project kanban board, etc.)*. Also, the mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal, and IA's will review them based on the order given. Students will receive a green checkmark in the thread or a direct message if the project has been approved.
 
 *Note- Any project proposal without all the required wiki documentations will be disapproved and asked to complete it.*
 
@@ -227,7 +227,7 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 ## Capstone Scorecards
 
-All students should have access to the "capstone scorecard" tab in your Google Spreadsheet. Inside that tab, students will fill out the necessary information such as the mvp features and the student name, project repo link, etc. IA's will be utilizing them for future grading purposes.
+All students should have access to the "capstone scorecard" tab in your Google Spreadsheet. Inside that tab, students will fill out Student Name, Project Advisor, Application Name, Github Link, Live Link, Feature 1, Feature 2, and any additional Features. IA's will be utilizing them for future grading purposes.
 
 ---
 
