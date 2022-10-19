@@ -19,11 +19,9 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
 
 Capstone Project is an assessment to test your programming and software engineering skills. The main objective is to build a user-ready MVP *(Minimal Viable Product)* application within these two weeks from planning to having a deployed app. The minimum requirements to pass capstone is to have at least 2 core features with error validations and styling. The expectation is to have a completed MVP application first, then focus on refactoring to include additional features. This approach is known as Agile, whereas the Waterfall approach can be seen as completing one phase at a time before moving onto the next phase. Agile is an iterative approach where we deliver goals in small incremental amounts.
 
-Please note, we want to aim for 4 features *(2 core and 2 bonus /or core)*, however the minimum to pass is **2 core *(CRUD)* features**. Students should have a clear road map of what should be their MVP first to pass then implement future goals.
+Please note, we want to aim for 4 core features and 2 bonus features, however the minimum to pass is **2 core *(CRUD)* features**. Students should have a clear road map of what should be their MVP first to pass then implement future goals.
 
 [Agile vs Waterfall Link](https://www.ibm.com/cloud/blog/agile-vs-waterfall)
-
-
 
 ## Table of Contents
 - [Mental Health](https://github.com/crespohector/welcome-to-mod-7#mental-health)
@@ -227,7 +225,7 @@ To ensure the quickest possible response to a question you are encouraged to lit
 
 ## Capstone Scorecards
 
-All students should have access to the "capstone scorecard" tab in your Google Spreadsheet. Inside that tab, students will fill out Student Name, Project Advisor, Application Name, Github Link, Live Link, Feature 1, Feature 2, and any additional Features. IA's will be utilizing them for future grading purposes.
+All students should have access to their own scorecards. Inside the "capstone tab" in that Google Spreadsheet, students will fill out Student Name, Project Advisor, Application Name, Github Link, Live Link, Feature 1, Feature 2, Feature 3, Feature 4, Feature 5, and Feature 6. Your PM will ensure that the capstone scorecard is filled out accordingly as they will be utilized for future grading purposes.
 
 ---
 
@@ -369,20 +367,7 @@ Students will receive an email associated with Progress Tracker of their scoreca
     * TA's will do their best to leave as much feedback as possible on pregrading, however **it is your responsibility to test the CRUD functionality on your app to ensure it still works as expected**.
     * Please review [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 
-## Final Grade
-Students are required to present their capstone project on Heroku on Monday *(w23 d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading students projects. <!-- TA's will revoke the shared access on scorecards and will share it again after it is graded. -->Please try to avoid watching an IA live grade as this makes grading awkward, students will receive a direct message from an IA once their project has been graded. Last time to deploy any changes to the project GitHub repo will be before presentations, any changes made during grading will be striked. Under the Final Grade tab, students will see the status of their project, either as "pass", "fail", or "currently grading". All students' capstone projects that is considered to be "fail" will be finalized and confirmed by a PTM. Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a Slack Message from the Module 7 Lead or Cohort Lead to discuss what the deferral process will look like.
-
-## Links to Passing Capstone
-
-* [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
-* [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
----
-
-# Future Goals
-
-The journey has only just begun. As you get closer to graduation, students are encourage to continue polishing up their capstone projects. Students can also look at the constructive feedback left in the capstone scorecards to take into consideration to work on. If the capstone project only has two core features completed, I would strongly encourage students to work towards having at least 4 features *(2 core features, 2 core or/ bonus features)*.
-
-## What should be in a Polished ReadMe?
+## What's required in a ReadMe?
 * Project title
 * Project description *(this can be a few sentences explaining what the app is)*
 * Heroku Live Link
@@ -393,10 +378,24 @@ The journey has only just begun. As you get closer to graduation, students are e
 
 [Markdown Guide Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-<!-- [Example of ReadMe](Link goes here) -->
+## Final Grade
+Students are required to present their capstone project on Heroku on Monday *(w23 d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading students projects. <!-- TA's will revoke the shared access on scorecards and will share it again after it is graded. -->Please try to avoid watching an IA live grade, students will receive a direct message from an IA once their project has been graded. Last time to deploy any changes to the project GitHub repo will be before presentations, any changes made during grading will be striked. Under the Final Grade tab, students will see the status of their project, either as "pass", "fail", or "currently grading". All students' capstone projects that is considered to be "fail" will be finalized and confirmed by a PTM. Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a Slack Message from the Module 7 Lead or Cohort Lead to discuss what the deferral process will look like.
 
+## Links to Passing Capstone
+
+* [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
+* [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
+---
+
+## Future Goals After Final Grade
+
+What to do moving forward? Well, the journey has only just begun. As you get closer to graduation, students are encourage to continue polishing up their capstone projects. Students can also look at the constructive feedback left in the capstone scorecards to take into consideration to work on. I would strongly encourage students to work towards having 4 features and 2 bonus features. "To become a better software engineer, is through repetition." The more features you continue to build, the more practice, the more repetition, the better you will become at building features quicker.
+
+<!-- [Example of ReadMe](Link goes here) -->
+<!--
 ## Favicon
 Make sure to have a favicon uploaded to all projects.
 
 ## About Links
 Make sure to have the GitHub and LinkedIn links in all projects.
+-->
