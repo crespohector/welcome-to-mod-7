@@ -98,7 +98,10 @@ After the required wiki documentations is completed, submit this project proposa
 <!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
 
 ---
-Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate. Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
+Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
+
+Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
+Rule of thumb- we want to diversify our project portfolio. If you already did a social media clone, then maybe we want to try working on a traveling app or E-commerce app.
 
 ## Projects We've Seen Go Well
 * Etsy
