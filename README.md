@@ -177,6 +177,7 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 - Websockets (i.e socket.io)
 - multer
 - aws-sdk
+- Faker
 
 ---
 
