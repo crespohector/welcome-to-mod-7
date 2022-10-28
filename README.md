@@ -178,6 +178,7 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 - multer
 - aws-sdk
 - Faker *(Use the older versions before 6.6)*
+- React Drag and Drop *(https://github.com/atlassian/react-beautiful-dnd)*
 
 ---
 
