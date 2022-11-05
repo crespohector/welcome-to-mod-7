@@ -354,9 +354,9 @@ Pregrading will start on the **beginning of Thursday** at **9AM PT** on the seco
 Please note that if the required core features are not deployed to Heroku by Pregrade, then TA's will be unable to leave any feedback. This will be the student's responsibility over the weekend to read the Error validation repo and Instructor Grade Google Slides to properly test the feature.
 
 ## Review Your Pregrade Scorecard
-Students will receive an email associated with Progress Tracker of their scorecard after their capstone project is graded. If you did not receive an email by EOD, please reach out to a TA to confirm your email. On Friday, day after Pregrade, please reach out to your grader to ask clarifying questions and to ensure what you need to work on over the weekend. Students are responsible to working on all the Evaluator feedback on the pre-grade scorecard. After fixing the corrections from the scorecard, please test on Production to ensure it works as expected.
+<!-- Students will receive an email associated with Progress Tracker of their scorecard after their capstone project is graded. If you did not receive an email by EOD, please reach out to a TA to confirm your email. -->On Friday, day after Pregrade, please reach out to your grader to ask clarifying questions and to ensure what you need to work on over the weekend. Students are responsible to working on all the Evaluator feedback on the pre-grade scorecard. After fixing the corrections from the scorecard, please test on Production to ensure it works as expected.
 
-*Note- we will do a scorecard demo of how the grading process looks like, two days before pregrading starts*
+<!-- *Note- we will do a scorecard demo of how the grading process looks like, two days before pregrading starts* -->
 
 *Feel free to make a copy of the example scorecard and use it as a reference*
 - [Example Scorecard](https://docs.google.com/spreadsheets/d/1e5LgQ7u5oRDS8C2gr7hIciHSz1Tg6N1AhmErjLTM6JM/edit#gid=0)
