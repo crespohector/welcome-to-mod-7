@@ -46,14 +46,14 @@ Projects must have a minimum of **2 working CRUD features** and **base requireme
 
 ![Scorecard](https://user-images.githubusercontent.com/76798385/206231772-dc23dd10-72fa-4ea6-be20-66db7d9fcfe4.png)
 
-Ex.) Project: Airbnb
-Users (Auth): Create, Read 
-1.) Listings: Create, Read, Update, Destroy
-2.) Bookings: Create, Read, Destroy (Not Editable)
-3.) Reviews: Create, Read, Update, Destroy
-4.) Ratings: Create, Read (Not Editable, Destroyed with Reviews)
-Bonus 1.) Search: Backend Fetch w/ Params (ideal), Frontend filtering. 
-Bonus 2.) Google API: Integration
+**Ex. Project: Airbnb**
+- Users (Auth): Create, Read 
+1. Listings: Create, Read, Update, Destroy
+2. Bookings: Create, Read, Destroy (Not Editable)
+3. Reviews: Create, Read, Update, Destroy
+4. Ratings: Create, Read (Not Editable, Destroyed with Reviews)
+5. *Bonus* Search: Backend Fetch w/ Params (ideal), Frontend filtering. 
+6. *Bonus* Google API: Integration
 
 First feature has to be **full** CRUD. and the second feature can be **3/4** CRUD or full CRUD. In the example above, the bookings feature has create, read, and Delete. Ideally, update and delete performs the same action so this feature would be considered 3/4 CRUD.
 
