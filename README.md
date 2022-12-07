@@ -173,7 +173,8 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 **Please Note: Any external packages implemented without your PM's approval is a risk of having to refactor your code**
 
 * Any package *(outside curriculum)* needs to be approved by your **Project Manager**
-* CSS frameworks *(Bootstrap, MaterialUI, etc.)* are **not allowed**
+* CSS frameworks *(Tailwind, Bootstrap, MaterialUI, etc.)* are **not allowed**
+* No Copying and Pasting CSS code
 
 *Any questions related to third-party API's (AWS, Google Maps, Socket.io, NPM Packages, etc.) that are outside of curriculum is the student's responsibility to debug. TA's may offer advice/guidance but are not expected to help debug.*
 
