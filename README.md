@@ -16,7 +16,8 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
 ```
 
 ## Table of Contents
-- [Capstone Project Requirements]()
+- [Capstone Project Requirements](https://github.com/crespohector/welcome-to-mod-7#capstone-project-requirements)
+- [The Big Picture](https://github.com/crespohector/welcome-to-mod-7#the-big-picture)
 - [Mental Health](https://github.com/crespohector/welcome-to-mod-7#mental-health)
 - [Module 7 Calendar](https://github.com/crespohector/welcome-to-mod-7#google-calendar)
 - [Cheating](https://github.com/crespohector/welcome-to-mod-7#cheating)
@@ -45,14 +46,14 @@ Projects must have a minimum of **2 working CRUD features** and **base requireme
 
 ![Scorecard](https://user-images.githubusercontent.com/76798385/206231772-dc23dd10-72fa-4ea6-be20-66db7d9fcfe4.png)
 
-Ex. Project: Airbnb
+Ex.) Project: Airbnb
 Users (Auth): Create, Read 
-1. Listings: Create, Read, Update, Destroy
-2. Bookings: Create, Read, Destroy (Not Editable)
-3. Reviews: Create, Read, Update, Destroy
-4. Ratings: Create, Read (Not Editable, Destroyed with Reviews)
-Bonus 1. Search: Backend Fetch w/ Params (ideal), Frontend filtering. 
-Bonus 2. Google API: Integration
+1.) Listings: Create, Read, Update, Destroy
+2.) Bookings: Create, Read, Destroy (Not Editable)
+3.) Reviews: Create, Read, Update, Destroy
+4.) Ratings: Create, Read (Not Editable, Destroyed with Reviews)
+Bonus 1.) Search: Backend Fetch w/ Params (ideal), Frontend filtering. 
+Bonus 2.) Google API: Integration
 
 First feature has to be **full** CRUD. and the second feature can be **3/4** CRUD or full CRUD. In the example above, the bookings feature has create, read, and Delete. Ideally, update and delete performs the same action so this feature would be considered 3/4 CRUD.
 
