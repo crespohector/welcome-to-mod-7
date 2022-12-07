@@ -7,23 +7,16 @@
 <!-- ![house](https://i.pinimg.com/originals/21/a0/48/21a048683eac0167afde15a1dae633e0.gif) -->
 <!-- ![welcome](https://gifimage.net/wp-content/uploads/2017/09/animated-welcome-gif-12.gif) -->
 <!-- ![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1) -->
-# Module 7 Welcome Pack
+# Module 7: Welcome Starter Pack
 
-Welcome to Module 7! This repo is meant to hold convenient links for you to use during your capstone projects. In addition, this repo will also contain what to expect during the first two weeks of capstone projects. Note this is a living document, things will be continuously changed and updated as needed but capstone requirements WILL NOT change.
+Welcome to Module 7! This repo is meant to hold convenient links for you to use during your capstone projects, and to give a summarize compilation of project requirements. Note this is a living document, things will be continuously changed and updated as needed but capstone requirements WILL NOT change.
 
 ```txt
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins please make sure you are keeping your pre-capstone project your top priority. All of this should be considered secondary until that project is done.
 ```
 
-## The Big Picture
-
-Capstone Project is an assessment to test your programming and software engineering skills. The main objective is to build a user-ready MVP *(Minimal Viable Product)* application within these two weeks from planning to having a deployed app. The minimum requirements to pass capstone is to have at least 2 core features with error validations and styling. The expectation is to have a completed MVP application first, then focus on refactoring to include additional features. This approach is known as Agile, whereas the Waterfall approach can be seen as completing one phase at a time before moving onto the next phase. Agile is an iterative approach where we deliver goals in small incremental amounts.
-
-Please note, we want to aim for 4 core features and 2 bonus features, however the minimum to pass is **2 core *(CRUD)* features**. Students should have a clear road map of what should be their MVP first to pass then implement future goals.
-
-[Agile vs Waterfall Link](https://www.ibm.com/cloud/blog/agile-vs-waterfall)
-
 ## Table of Contents
+- [Capstone Project Requirements]()
 - [Mental Health](https://github.com/crespohector/welcome-to-mod-7#mental-health)
 - [Module 7 Calendar](https://github.com/crespohector/welcome-to-mod-7#google-calendar)
 - [Cheating](https://github.com/crespohector/welcome-to-mod-7#cheating)
@@ -47,8 +40,36 @@ Please note, we want to aim for 4 core features and 2 bonus features, however th
    - [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
    - [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 
+## Capstone Project Requirements
+Projects must have a minimum of **2 working CRUD features** and **base requirements** completed by final grade *(W23 D1)*. Only the live site will be used for grading. 
+
+![Scorecard](https://user-images.githubusercontent.com/76798385/206231772-dc23dd10-72fa-4ea6-be20-66db7d9fcfe4.png)
+
+Ex. Project: Airbnb
+Users (Auth): Create, Read 
+1. Listings: Create, Read, Update, Destroy
+2. Bookings: Create, Read, Destroy (Not Editable)
+3. Reviews: Create, Read, Update, Destroy
+4. Ratings: Create, Read (Not Editable, Destroyed with Reviews)
+Bonus 1. Search: Backend Fetch w/ Params (ideal), Frontend filtering. 
+Bonus 2. Google API: Integration
+
+First feature has to be **full** CRUD. and the second feature can be **3/4** CRUD or full CRUD. In the example above, the bookings feature has create, read, and Delete. Ideally, update and delete performs the same action so this feature would be considered 3/4 CRUD.
+
+## The Big Picture
+
+Capstone Project is an assessment to test your programming and software engineering skills. The main objective is to build a user-ready MVP *(Minimal Viable Product)* application within these two weeks from planning to having a deployed app. The ideal expectation is to have a completed MVP application done before pregrade, then have the remaining time to focus on refactoring to include additional features. 
+
+We want to make sure we are completing ONE FEATURE before moving on to the next. This feature-driven approach is known as an **agile** workflow, whereas the **waterfall** approach can be seen as completing one phase at a time before moving onto the next phase. Agile is an iterative approach where we deliver goals in small incremental amounts. An example of a waterfall workflow would be working on the entire backend first for all features then working on the frontend. 
+
+[Agile vs Waterfall Link](https://www.ibm.com/cloud/blog/agile-vs-waterfall)
+
+Students should have a clear road map during the planning phase of what should be their MVP's first to pass the minimum requirements then implement future goals. 
+
+> The end goal is to have 4 features working. After graduation, to be greenlit you will need to have 4 features and the general requirements done.
+
 ## Mental Health
-Taking care of our mental health is an important aspect in our life. Please make sure to take breaks, meditate, sleep, or go for a walk outside to do what's best for you to reduce stress. Here are resources provided that can be informative.
+Taking care of our mental health is an important aspect in our life. Please make sure to take breaks, meditate, sleep, or go for a walk outside to do what's best for you to reduce stress. Here are some resources provided that can be informative.
 
 - [Imposter Syndrome](https://docs.google.com/document/d/1CA5UZwDisg_1WMQIurtDsj4vOkWlZ0cZ/edit)
 - [Programmer Imposter Syndrome](https://drive.google.com/file/d/1A6_x1iHqKi1aOAlKKUsx3f-jkhZUZhpM/view?usp=sharing)
@@ -69,39 +90,34 @@ Students plagiarising another student's source code will be dismissed. This is a
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-All students should have a **target website** they will clone. You must submit the Google Project Proposal form and get an approval from a TA before coding anything for the features on your capstone project. There will be a soft deadline to submit proposals by Tuesday *(w21 d2)* before lunch, and a strict deadline (all proposals) by EOD. If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project, set up your github repo, project kanban board, etc.)*. Also, the mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal, and IA's will review them based on the order given. Students will receive a green checkmark in the thread or a direct message if the project has been approved.
+All students should have a **target website** they will clone. You must submit the Google Project Proposal form and get an approval from a TA before coding anything for the features on your capstone project. There will be a soft deadline to submit proposals by Tuesday *(w21 d2)* before lunch, and a strict deadline (all proposals) by 6PM EST / 3PM PT. 
+
+If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project + deploy starter, set up your github repo, project kanban board, etc.)*. Also, the mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal, and IA's will review them based on the order given. Students will receive a green checkmark in the thread or a direct message if the project has been approved.
 
 *Note- Any project proposal without all the required wiki documentations will be disapproved and asked to complete it.*
 
-IA's will have open office hours during Project Approval Phase to help provide guidance on project proposals.
-
-<!--
-```txt
-⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins you are welcome to fill out this form but you will have to fill it out again on Monday / Tuesday officially.
-```
--->
+IA's will have open office hours during **Project Approval Phase** to help provide guidance on project proposals.
 
 ---
-## Github Wiki Example Links
-> User stories, Database Schema, Features, Wireframes are _required._
-* [Example User Stories (needed for the first 2 core features)](https://github.com/appacademy/Module-6-Resources/blob/main/group_project_resources/example_project_planning_docs/user_stories.md)
-* [Example Schema (3-6 tables needed for the first 2 core features)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
+## Github Wiki Documentation Example Links
+> User stories, Database Schema, MVP Features, Wireframes are _required._
+* [Example User Stories (only first 2 features needs to be completed)](https://github.com/appacademy/Module-6-Resources/blob/main/group_project_resources/example_project_planning_docs/user_stories.md)
+* [Example Schema (3-6 tables only for first 2 features needs to be completed)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
 * [Example Features (4 CRUD features and 2 Bonus features needs to be defined)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List)
-* [Example Wireframes](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-Wireframes)
+* [Example Wireframes (Wireframes need)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-Wireframes)
 
 *Note- Students that plan to update, add, or remove their user stories during project development needs to be approved by their Project Advisor.*
 
 ### Project Proposal Form
-After the required wiki documentations is completed, submit this project proposal form and respond to the thread on Slack.
+After the required wiki documentations are completed on GitHub, submit this project proposal form and respond to the thread on Slack.
 
-[Project Proposal Form](https://forms.gle/xFhYE9P4WiyneDKfA)
-<!-- [user stories requirements](https://docs.google.com/document/d/1LzfYEuvd-WcHkGVycn1d95kXgoIbvrAyzAkcR9C8z2g/edit) -->
+[Project Proposal Form](https://forms.gle/7zJjvXKFh7sJNENM9)
 
 ---
 Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
 
 Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
-Rule of thumb- we want to diversify our project portfolio. If you already did a social media clone, then maybe we want to try working on a traveling app or E-commerce app.
+> We want to diversify our project portfolio. If you already did a social media clone, then maybe try working on a traveling app or E-commerce app.
 
 ## Projects We've Seen Go Well
 * Etsy
@@ -128,7 +144,7 @@ Rule of thumb- we want to diversify our project portfolio. If you already did a 
 
 ### Projects that we strongly suggest have AWS:
 
-* E-commerce sites where users upload “products”, *(Etsy, Fiverr, Ebay)* <!-- (Products & Reviews suggested; if choosing Orders/Purchases, Cart can’t be a MVP core CRUD) example sites: Etsy, Fiverr, Ebay, etc… -->
+* E-commerce sites where users upload “products”, *(Etsy, Fiverr, Ebay)*
 * Pinterest
 * Flikr
 * FaceBook
@@ -146,26 +162,21 @@ Rule of thumb- we want to diversify our project portfolio. If you already did a 
 * E-commerce sites that need Cart & Orders/Purchases
 * Slack (w/ Websockets)
 
-<!-- ## E-Commerce Apps
-E-commerce websites *(Ebay, Etsy, etc.)* where users upload “products” will require Products & Orders as first two core features.
-Other E-commerce apps *(Amazon, any brand sites, etc)* where users don't upload "products" will require Reviews & Orders/Purchases as core features. Shopping cart
-can not be its own core CRUD feature, this can be a bonus feature that ties together with the Orders feature. Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)* -->
-
 ## Projects that are not allowed
 * Instagram
 * Twitter
 * Discord
 * Projects that the student has already done before in previous modules.
 
-## NPM Packages
-**Please Note: Any outside curriculum NPM packages implemented without your PM's approval is a risk of having to refactor your code**
+## Using External Packages (NPM / PIP)
+**Please Note: Any external packages implemented without your PM's approval is a risk of having to refactor your code**
 
-* Any NPM package *(outside curriculum)* needs to be approved by your **Project Manager**
+* Any package *(outside curriculum)* needs to be approved by your **Project Manager**
 * CSS frameworks *(Bootstrap, MaterialUI, etc.)* are **not allowed**
 
-*Please note, any questions related to third-party API's (AWS, Google Maps, Socket.io, NPM Packages, etc.) that are outside of curriculum is the student's responsibility to debug. TA's may offer advice/guidance but are not expected to help debug.*
+*Any questions related to third-party API's (AWS, Google Maps, Socket.io, NPM Packages, etc.) that are outside of curriculum is the student's responsibility to debug. TA's may offer advice/guidance but are not expected to help debug.*
 
-> Please note: Each Module has their own set of regulations that is specific to its own. NPM packages may have been approved in previous Modules, however some may not be approved in Mod 7. Students can always revisit capstone projects after final grade is completed or during Job Search to implement any NPM packages. 
+> Please note: Each Module has their own set of regulations that is specific to its own. NPM packages may have been approved in previous Modules, however some may not be approved in Mod 7. 
 
 ### List of Approved NPM Packages
 **The NPM packages listed below are already approved, free feel to implement these into your projects**
@@ -179,12 +190,13 @@ can not be its own core CRUD feature, this can be a bonus feature that ties toge
 - aws-sdk
 - Faker *(Use the older versions before 6.6)*
 - React Drag and Drop *(https://github.com/atlassian/react-beautiful-dnd)*
+- Rich Text Editor's
 
 ---
 
 ## Appropriate Project Themes
 
-When picking your capstone project theme use common sense and think about it from the perspective of a recruiter and your future job coach. Our goal is not to censor your creativity or discourage you but we do have an official policy on appropriate project themes linked below and we encourage you all to check it out. Recently the most common issues are with projects related to weed / cannabis. We can't approve projects related to these themes because of federal legality, but that doesn't mean you can't pursue these projects after capstones.
+When picking your capstone project theme use common sense and think about it from the perspective of a recruiter and your future job coach. Our goal is not to censor your creativity or discourage you but we do have an official policy on appropriate project themes linked below. Recently, the most common issues are with projects related to weed / cannabis. We can't approve projects related to these themes because of federal legality, but that doesn't mean you can't pursue these projects after capstones.
 
 * [Project Theme Expectations](https://github.com/tombetthauser/module-7-welcome/blob/main/Project%20Theme%20Expectations%20-%20Student%20Facing%20Discussion.pdf)
 
@@ -193,13 +205,11 @@ When picking your capstone project theme use common sense and think about it fro
 
 Remember, a minimum viable product is the absolute least you can put out that is also a usable product. For your capstone project this means 2 fully functional CRUD features with validation error messages that are unequivocally intuitive and simple to use by someone who has never seen the app before.
 Remember, a successful capstone project does not need AWS, Google Maps, Web Sockets or more than 2 CRUD features. But the 2 CRUD features that you do build need to feel and function complete to pass. Essentially, this image says it all both for your capstone project and future projects in your career. If image files could be made out of solid gold, it would be. Keep it in mind always.
-
-![mvps](https://i.imgur.com/vfIpcWn.png) -->
-
+-->
 ---
 ## Lecture Questions Emoji System
 
-Because the TA's are asked to answer all questions asynchronously when possible and because capstone issues can often take hours to address. The TA's will use slack reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
+Because TA's are asked to answer all questions asynchronously when possible and because capstone issues can often take hours to address. The TA's will use slack reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
 
 # 👀
 The eyeballs mean the TA's are aware of the question and are looking into it / discussing it in the Staff Room. There may be other questions ahead of yours and it make take time to resolve the question based on the complexity of the problem and how clear the question was, if screenshots or commits were provided etc.
@@ -239,20 +249,22 @@ All students should have access to their own scorecards. Inside the "capstone ta
 ## Daily Standups
 
 This will **begin on W21D3**. You will have daily stand ups with your Project Manager. Daily standups will take place between groups of 3-5 students from your circle. <!-- Each student will take roughly 5-10 minutes to screen-share their **deployed app** and **code**. Students are expected to explain what they worked on Heroku and then explain the code and data-flow afterwards. Specific standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team. -->
-Each student will take 2-3 minutes to screen-share their deployed app. Standups times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team.
+Each student will take 2-3 minutes to screen-share their deployed app. Standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team.
 
 ### Questions For Students:
 
-*Please note that all work must be shown on Heroku, not localhost. We can not determine the progression of your project based on localhost alone*
+*Please note that all work must be shown on the deployed website, not localhost. We can not determine the progression of your project based on localhost alone*
+
 * What progress did you make on your goal from yesterday?
 * What is your goal for today that you plan to complete before next standup? 
-* Can you walkthrough the code base of the feature you worked on?
+* Do you foresee any potential blockers?
 
 ### Additional Questions That May Be Asked For Students:
 * When did you last deploy?
 * Is all the code you are showing deployed?
 * Does your Project Manager approve of the goal?
 * What is your project status in terms of user stories?
+* Can you demo any CRUD of the feature on the UI?
 
 ### Other Standup Notes
 
@@ -271,14 +283,13 @@ Each student will take 2-3 minutes to screen-share their deployed app. Standups 
 ### CSS Styling
 * Do not leave any default styling for HTML elements such as buttons, inputs, textareas, etc.
 * CSS must look as if you have made a valiant effort. You are not expected to be a designer, but attention to spacing, font, layout must be apparent.
-* Your site must be intuitive to the user. User must not have to hunt and guess how to navigate and use your app.
+* Your site must be intuitive to the user. Users must not have to hunt and guess how to navigate and use your app.
 
 ### GitHub 
 * Utilize creating a KanBan Board on Github to effectively manage your time in completing tasks and objectives.
 * Make sure to push to GitHub daily. *(We want to see that garden green)*
 * You are encouraged to use branches to complete your features and to push to your main branch when you have working functionality.
-   * Please remember to test the feature not only on local, but on Production *(Heroku)* as well to ensure it works as expected.
-
+   * Please remember to test the feature not only on local, but on Production as well to ensure it works as expected.
 
 ## FAAQs | Frequently/Any Asked Questions
 > _An informal and very incomplete list of somewhat common and / or unique problems observed by the Mod 7 TAs during capstone project development._
@@ -289,27 +300,19 @@ https://docs.google.com/document/d/1VkeCDf12jokoTdriQycheyfnlfdc-qypDXsxCO5tqNk/
 
 ## Some Useful Development Links
 
-<!-- * [Module 7 Expectations](https://hackmd.io/@jwarren/Sycd24fId) -->
-<!-- * [Example Project Wiki (doesn't include readme or user stories)](https://github.com/chrisoney/mercenary-review/wiki) -->
-<!-- * [Asking Good Questions](https://hackmd.io/@jwarren/Hkt6Ew9S_) -->
-<!-- * [Flask Project Starter (from module 6)](https://github.com/appacademy-starters/python-project-starter)
-* [Express Project Starter (authenticate me)](https://drive.google.com/file/d/16wNaP57ICFULb1F3YeZ4MH80hWrUZO8-/view) -->
+* [Flask Project Starter](https://github.com/appacademy/practice-for-week-19-python-project-skeleton)
+* [Express Project Starter (authenticate me)](https://github.com/appacademy/practice-for-sprint-15-react-redux-authenticate-me-for-render-deployment)
 * [Flask-SQLAlchemy Quick Reference](https://hackmd.io/@app-academy/flask-sqlalchemy-reference)
 * [Flask AWS S3 for Image Uploads](https://hackmd.io/4yEAJpBXSWCZmI16J5ID1Q)
 * [Flask Websockets for Chat Features](https://hackmd.io/oTn-ZTjcQRO5Ghbv9tO9ug)
-* [Helpful Heroku Tips](https://github.com/whitnessme/helpful-heroku-tips)
+* <!-- [Helpful Heroku Tips](https://github.com/whitnessme/helpful-heroku-tips) -->
 * [Easy Modals Using React Context!](https://github.com/whitnessme/context-modal-instructions)
-* [HAWA: easy wiki doc generation for Routes and User Stories](https://hawa-beta.herokuapp.com/)
-<!-- * [Free Development Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-photos) -->
-
-<!-- [New Asking Questions Guide with Emojis](https://docs.google.com/document/d/1LMgYJ0TgZBdbE-D7rEQLAXyRWesSJl5aR_H2KPUJhCQ/edit#) -->
-<!-- [Leah's Module 6 Link](https://docs.google.com/spreadsheets/d/1GyViJX0PZxBcgtkcurtHMGEgI08YitHX1M_vpHmV1rU/edit#gid=0) -->
-
+* 
 ---
 
 # Phase 2.5 - Peer Review
 
-Peer Review will start on Friday of the first week of capstone everyday after lunch, at 12:30 PT / 3:30 EST. This can also be viewed on the [Mod 7 Online Google Calender](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles) as well. Students will get assigned a pair, posted to Slack everyday, to review each other's code. Below are guidelines to help illustrate how peer review will work. Please note, during this hour, instructors will not be available for questions on Slack.
+Peer Review will start on Thursday of the first week of capstone everyday after lunch, at 12:30 PT / 3:30 EST. This can also be viewed on the [Mod 7 Online Google Calender](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles) as well. Students will get assigned a pair, posted to Slack everyday, to review each other's code. Below are guidelines to help illustrate how peer review will work. Please note, during this hour, instructors will not be available for questions on Slack.
 
 *Note- We will also do an EOD demo the day before peer review starts.*
 
@@ -363,20 +366,18 @@ Please note that if the required core features are not deployed to Heroku by Pre
 - [Example Scorecard](https://docs.google.com/spreadsheets/d/1e5LgQ7u5oRDS8C2gr7hIciHSz1Tg6N1AhmErjLTM6JM/edit#gid=0)
 
 ### Things to Consider
-<!-- * You DO NOT have to create your own scorecard, your PM will do this for you. -->
 * Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as "pregrade" and "final grade".
-* Students are **expected** and **responsible** to test their Heroku app before final grading.
-    * Test the CRUD functionality and User Auth on Heroku.
+* Students are **expected** and **responsible** to test their deployed app before final grading.
+    * Test the CRUD functionality and User Auth.
     * Check if the styling is consistent throughout the entire app.
-   <!-- * Check to make sure all the general requirements are met *(Favicon, Readme, About Links, etc)* -->
     * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
     * TA's will do their best to leave as much feedback as possible on pregrading, however **it is your responsibility to test the CRUD functionality on your app to ensure it still works as expected**.
     * Please review [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 
-## What's required in a ReadMe?
+## What Should Be In a ReadMe?
 * Project title
 * Project description *(this can be a few sentences explaining what the app is)*
-* Heroku Live Link
+* Deployed Live Link
 * Technologies/Frameworks Used *(Frontend and Backend)*
 * MVP Core features
 * Few screenshots, least *(1-2)*, to highlight the app
@@ -395,13 +396,6 @@ Students are required to present their capstone project on Heroku on Monday *(w2
 
 ## Future Goals After Final Grade
 
-What to do moving forward? Well, the journey has only just begun. As you get closer to graduation, students are encourage to continue polishing up their capstone projects. Students can also look at the constructive feedback left in the capstone scorecards to take into consideration to work on. I would strongly encourage students to work towards having 4 features and 2 bonus features. "To become a better software engineer, is through repetition." The more features you continue to build, the more practice, the more repetition, the better you will become at building features quicker.
+What to do moving forward? Well, the journey has only just begun. As you get closer to graduation, students are encourage to continue polishing up their capstone project. Students can also look at the constructive feedback left in the capstone scorecards to take into consideration to work on. Get ahead of the game, in order to be greenlit after graduation you will need to have 4 features in your projects and have the general requirements *(favicon, readme, About Me Links, etc)* be completed.
 
-<!-- [Example of ReadMe](Link goes here) -->
-<!--
-## Favicon
-Make sure to have a favicon uploaded to all projects.
-
-## About Links
-Make sure to have the GitHub and LinkedIn links in all projects.
--->
+> "To become a better software engineer, is through repetition." The more features you continue to build, the more practice, the more repetition, the better you will become at building features quicker.
