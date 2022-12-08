@@ -17,7 +17,7 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
 
 ## Table of Contents
 - [Capstone Project Requirements](https://github.com/crespohector/welcome-to-mod-7#capstone-project-requirements)
-   - [Capstone Minimum Required Error Messages]()
+   - [Capstone Minimum Required Error Messages](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#error-validations)
    - [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 - [The Big Picture](https://github.com/crespohector/welcome-to-mod-7#the-big-picture)
 - [Mental Health](https://github.com/crespohector/welcome-to-mod-7#mental-health)
