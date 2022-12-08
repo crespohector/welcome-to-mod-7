@@ -76,7 +76,7 @@ Please refer to the Error Validations Repo for more examples.
 
 ## The Big Picture
 
-Capstone Project is an assessment to test your programming and software engineering skills. The main objective is to build a user-ready MVP *(Minimal Viable Product)* application within these two weeks from planning to having a deployed app. The ideal expectation is to have a completed MVP application done before pregrade, then have the remaining time to focus on refactoring to include additional features. 
+Capstone Project is an assessment to test your programming and software engineering skills. The main objective is to build a user-ready MVP *(Minimal Viable Product)* application within these two weeks from planning to having a deployed app. The ideal expectation is to have a completed MVP application done before feature review, then have the remaining time to focus on refactoring to include additional features. 
 
 We want to make sure we are completing ONE FEATURE before moving on to the next. This feature-driven approach is known as an **agile** workflow, whereas the **waterfall** approach can be seen as completing one phase at a time before moving onto the next phase. Agile is an iterative approach where we deliver goals in small incremental amounts. An example of a waterfall workflow would be working on the entire backend first for all features then working on the frontend. 
 
