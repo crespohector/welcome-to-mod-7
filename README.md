@@ -386,17 +386,6 @@ On Friday, please reach out to your grader to ask clarifying questions and to en
     * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
     * TA's will do their best to leave as much feedback as possible, however **it is your responsibility to test the functionality on your app to ensure it still works as expected**.
 
-## What Should Be In a ReadMe?
-* Project title
-* Project description *(this can be a few sentences explaining what the app is)*
-* Deployed Live Link
-* Technologies/Frameworks Used *(Frontend and Backend)*
-* MVP Core features
-* Few screenshots, least *(1-2)*, to highlight the app
-* Future Implementation Goals
-
-[Markdown Guide Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
 ## Final Grade
 Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as "Feature Review" and "final grade". Students are required to present their capstone project on their deployed website on Monday *(w23 d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading students projects. <!-- TA's will revoke the shared access on scorecards and will share it again after it is graded. -->Please try to avoid watching an IA live grade, students will receive a direct message from an IA once their project has been graded. Last time to deploy any changes to the project GitHub repo will be before presentations, any changes made during grading will be **striked**.
 
@@ -412,3 +401,17 @@ Under the Final Grade tab, students will see the status of their project, either
 What to do moving forward? Well, the journey has only just begun. As you get closer to graduation, students are encourage to continue polishing up their capstone project. Students can also look at the constructive feedback left in the capstone scorecards to take into consideration to work on. Get ahead of the game, in order to be greenlit after graduation you will need to have 4 features in your projects and have the general requirements *(favicon, readme, About Me Links, etc)* be completed.
 
 > "To become a better software engineer, is through repetition." The more features you continue to build, the more practice, the more repetition, the better you will become at building features quicker.
+
+## What Should Be In a ReadMe?
+* Project title
+* Project description *(this can be a few sentences explaining what the app is)*
+* Deployed Live Link
+* Technologies/Frameworks Used *(Frontend and Backend)*
+* MVP Core features
+* Few screenshots, least *(1-2)*, to highlight the app
+* Future Implementation Goals
+
+[Markdown Guide Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## About Links
+Github and LinkedIn links should be located somewhere in the footer, splash page, navigation/header. Please refrain from trying to place these links in creative places or as “Easter Eggs”. 
