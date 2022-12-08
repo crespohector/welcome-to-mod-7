@@ -20,7 +20,7 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
    - [Capstone Minimum Required Error Messages](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#error-validations)
    - [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 - [The Big Picture](https://github.com/crespohector/welcome-to-mod-7#the-big-picture)
-- [Mental Health](https://github.com/crespohector/welcome-to-mod-7#mental-health)
+- [Mental Health Resources](https://github.com/crespohector/welcome-to-mod-7#mental-health)
 - [Module 7 Calendar](https://github.com/crespohector/welcome-to-mod-7#google-calendar)
 - [Cheating](https://github.com/crespohector/welcome-to-mod-7#cheating)
 - [Phase 1 - Project Approval](https://github.com/crespohector/welcome-to-mod-7#phase-1---project-approval)
@@ -86,7 +86,7 @@ Students should have a clear road map during the planning phase of what should b
 
 > The end goal is to have 4 features working. After graduation, to be greenlit you will need to have 4 features and the general requirements done.
 
-## Mental Health
+## Mental Health Resources
 Taking care of our mental health is an important aspect in our life. Please make sure to take breaks, meditate, sleep, or go for a walk outside to do what's best for you to reduce stress. Here are some resources provided that can be informative.
 
 - [Imposter Syndrome](https://docs.google.com/document/d/1CA5UZwDisg_1WMQIurtDsj4vOkWlZ0cZ/edit)
