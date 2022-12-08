@@ -20,7 +20,7 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
    - [Capstone Minimum Required Error Messages](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#error-validations)
    - [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 - [The Big Picture](https://github.com/crespohector/welcome-to-mod-7#the-big-picture)
-- [Mental Health Resources](https://github.com/crespohector/welcome-to-mod-7#mental-health)
+- [Mental Health Resources](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#mental-health-resources)
 - [Module 7 Calendar](https://github.com/crespohector/welcome-to-mod-7#google-calendar)
 - [Cheating](https://github.com/crespohector/welcome-to-mod-7#cheating)
 - [Phase 1 - Project Approval](https://github.com/crespohector/welcome-to-mod-7#phase-1---project-approval)
