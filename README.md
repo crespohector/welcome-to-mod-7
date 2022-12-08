@@ -17,6 +17,8 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
 
 ## Table of Contents
 - [Capstone Project Requirements](https://github.com/crespohector/welcome-to-mod-7#capstone-project-requirements)
+   - [Capstone Minimum Required Error Messages]()
+   - [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 - [The Big Picture](https://github.com/crespohector/welcome-to-mod-7#the-big-picture)
 - [Mental Health](https://github.com/crespohector/welcome-to-mod-7#mental-health)
 - [Module 7 Calendar](https://github.com/crespohector/welcome-to-mod-7#google-calendar)
@@ -38,8 +40,8 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
    - [Helpful Development Links](https://github.com/crespohector/welcome-to-mod-7#some-useful-development-links)
 - [Phase 2.5 - Peer Review](https://github.com/crespohector/welcome-to-mod-7#phase-25---peer-review)
 - [Phase 3 - Pregrade & Final Grade](https://github.com/crespohector/welcome-to-mod-7#phase-3---pregrading--final-grading)
-   - [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
-   - [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
+   - [Feature Review]()
+   - [Review Your Pregrade Scorecard](https://github.com/crespohector/welcome-to-mod-7#review-your-pregrade-scorecard)
 
 ## Capstone Project Requirements
 Projects must have a minimum of **2 working CRUD features** and **base requirements** completed by final grade *(W23 D1)*. Only the live site will be used for grading. 
@@ -56,6 +58,16 @@ Projects must have a minimum of **2 working CRUD features** and **base requireme
 6. *Bonus* Google API: Integration
 
 First feature has to be **full** CRUD. and the second feature can be **3/4** CRUD or full CRUD. In the example above, the bookings feature has create, read, and Delete. Ideally, update and delete performs the same action so this feature would be considered 3/4 CRUD.
+
+For more resources, please reference the Instructor Grading Slides: [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/)
+
+### Error Validations
+A User should **NOT** be allowed to update or submit a form with blank or null input fields that are assumed to be required. All input fields within a form are assumed to be required and tested as such. If certain fields within a form are not required, then all required fields must be marked by a different CSS style or an asterisk *(*)* next to the label to indicate a required field.
+
+Please refer to the Error Validations Repo for more examples.
+[Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
+
+---
 
 ## The Big Picture
 
@@ -354,27 +366,23 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 
 # Phase 3 - Pregrading / Final Grading
 
-## Pregrading
+## Feature Reviews
 Pregrading will start on the **beginning of Thursday** at **9AM PT** on the second week of capstone development. Our grading process will be identical to the final grading process and students will receive pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend! In addition, pre-grading will be a priority over answering questions in the lecture channel. TA's will still check periodically to help answer questions, and free feel to also help your peer's as well!
 
 Please note that if the required core features are not deployed to Heroku by Pregrade, then TA's will be unable to leave any feedback. This will be the student's responsibility over the weekend to read the Error validation repo and Instructor Grade Google Slides to properly test the feature.
 
-## Review Your Pregrade Scorecard
-<!-- Students will receive an email associated with Progress Tracker of their scorecard after their capstone project is graded. If you did not receive an email by EOD, please reach out to a TA to confirm your email. -->On Friday, day after Pregrade, please reach out to your grader to ask clarifying questions and to ensure what you need to work on over the weekend. Students are responsible to working on all the Evaluator feedback on the pre-grade scorecard. After fixing the corrections from the scorecard, please test on Production to ensure it works as expected.
+## Review Your Scorecard
+On Friday, please reach out to your grader to ask clarifying questions and to ensure what you need to work on over the weekend. This is optional if you don't have any questions and understand what to work on. Students are responsible for working on all the Evaluator feedback on the pre-grade scorecard. After fixing the corrections from the scorecard, **please test on Production** to ensure it works as expected. Feel free to make a copy of the example scorecard and use it as a reference.
 
-<!-- *Note- we will do a scorecard demo of how the grading process looks like, two days before pregrading starts* -->
+- [Example Scorecard Link](https://docs.google.com/spreadsheets/d/1e5LgQ7u5oRDS8C2gr7hIciHSz1Tg6N1AhmErjLTM6JM/edit#gid=0)
 
-*Feel free to make a copy of the example scorecard and use it as a reference*
-- [Example Scorecard](https://docs.google.com/spreadsheets/d/1e5LgQ7u5oRDS8C2gr7hIciHSz1Tg6N1AhmErjLTM6JM/edit#gid=0)
-
-### Things to Consider
-* Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as "pregrade" and "final grade".
+### Test Test Test The Features
 * Students are **expected** and **responsible** to test their deployed app before final grading.
-    * Test the CRUD functionality and User Auth.
+    * Test the CRUD functionality of all implemented features.
+    * Test the User Auth (login, sign up, error validations, demo user, logout).
     * Check if the styling is consistent throughout the entire app.
     * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
-    * TA's will do their best to leave as much feedback as possible on pregrading, however **it is your responsibility to test the CRUD functionality on your app to ensure it still works as expected**.
-    * Please review [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
+    * TA's will do their best to leave as much feedback as possible, however **it is your responsibility to test the CRUD functionality on your app to ensure it still works as expected**.
 
 ## What Should Be In a ReadMe?
 * Project title
@@ -388,10 +396,11 @@ Please note that if the required core features are not deployed to Heroku by Pre
 [Markdown Guide Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Final Grade
-Students are required to present their capstone project on Heroku on Monday *(w23 d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading students projects. <!-- TA's will revoke the shared access on scorecards and will share it again after it is graded. -->Please try to avoid watching an IA live grade, students will receive a direct message from an IA once their project has been graded. Last time to deploy any changes to the project GitHub repo will be before presentations, any changes made during grading will be striked. Under the Final Grade tab, students will see the status of their project, either as "pass", "fail", or "currently grading". All students' capstone projects that is considered to be "fail" will be finalized and confirmed by a PTM. Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a Slack Message from the Module 7 Lead or Cohort Lead to discuss what the deferral process will look like.
+Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as "Feature Review" and "final grade". Students are required to present their capstone project on their deployed website on Monday *(w23 d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading students projects. <!-- TA's will revoke the shared access on scorecards and will share it again after it is graded. -->Please try to avoid watching an IA live grade, students will receive a direct message from an IA once their project has been graded. Last time to deploy any changes to the project GitHub repo will be before presentations, any changes made during grading will be **striked**.
 
-## Links to Passing Capstone
+Under the Final Grade tab, students will see the status of their project, either as "pass", "fail", or "currently grading". All students' capstone projects that is considered to be "fail" will be finalized and confirmed by a PTM. Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a Slack Message from the Module 7 Lead or Cohort Lead to discuss what the deferral process will look like.
 
+## Resources to Passing Capstone
 * [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
 * [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 ---
