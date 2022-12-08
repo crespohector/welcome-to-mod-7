@@ -25,12 +25,12 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
 - [Cheating](https://github.com/crespohector/welcome-to-mod-7#cheating)
 - [Phase 1 - Project Approval](https://github.com/crespohector/welcome-to-mod-7#phase-1---project-approval)
    - [Capstone Project Proposals](https://github.com/crespohector/welcome-to-mod-7#capstone-project-proposals)
-   - [GitHub Wiki Example Links](https://github.com/crespohector/welcome-to-mod-7#github-wiki-example-links)
+   - [GitHub Wiki Documnetation Example Links](https://github.com/crespohector/welcome-to-mod-7#github-wiki-documentation-example-links)
    - [Project Proposal Form](https://github.com/crespohector/welcome-to-mod-7#project-proposal-form)
    - [Projects We've Seen Go Well](https://github.com/crespohector/welcome-to-mod-7#projects-weve-seen-go-well)
    - [Project We've Seen Students Struggle With](https://github.com/crespohector/welcome-to-mod-7#projects-weve-seen-students-struggle-with)
    - [Projects that are not allowed](https://github.com/crespohector/welcome-to-mod-7#projects-that-are-not-allowed)
-   - [NPM Packages](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#npm-packages)
+   - [Using External Packages](https://github.com/crespohector/welcome-to-mod-7#using-external-packages-npm--pip)
    - [List of Approved NPM Packages](https://github.com/crespohector/welcome-to-mod-7#list-of-approved-npm-packages)
    - [Question Asking Template](https://github.com/crespohector/welcome-to-mod-7/edit/main/README.md#lecture-questions-emoji-system)
 - [Phase 2 - Project Development](https://github.com/crespohector/welcome-to-mod-7#phase-2---project-development)
@@ -324,9 +324,8 @@ https://docs.google.com/document/d/1VkeCDf12jokoTdriQycheyfnlfdc-qypDXsxCO5tqNk/
 * [Flask-SQLAlchemy Quick Reference](https://hackmd.io/@app-academy/flask-sqlalchemy-reference)
 * [Flask AWS S3 for Image Uploads](https://hackmd.io/4yEAJpBXSWCZmI16J5ID1Q)
 * [Flask Websockets for Chat Features](https://hackmd.io/oTn-ZTjcQRO5Ghbv9tO9ug)
-* <!-- [Helpful Heroku Tips](https://github.com/whitnessme/helpful-heroku-tips) -->
+<!-- [Helpful Heroku Tips](https://github.com/whitnessme/helpful-heroku-tips) -->
 * [Easy Modals Using React Context!](https://github.com/whitnessme/context-modal-instructions)
-* 
 ---
 
 # Phase 2.5 - Peer Review
@@ -372,12 +371,12 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 # Phase 3 - Feature Reviews / Final Grading
 
 ## Feature Reviews
-Pregrading will start on the **beginning of Thursday** at **9AM PT** on the second week of capstone development. Our grading process will be identical to the final grading process and students will receive pregrading scorecards. There are no requirements associated with pre-grading and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help make your project passing the following Monday when projects are due. And if your project passes at pregrading all you'll have to do is not break your site over the weekend! In addition, pre-grading will be a priority over answering questions in the lecture channel. TA's will still check periodically to help answer questions, and free feel to also help your peer's as well!
+Feature Reviews will start on the **beginning of Thursday** at **9AM PT** on the second week of capstone development. There are no requirements associated with Feature Reviews and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help prepare for the following Monday when projects are due. And if your project passes, all you'll have to do is not break your site over the weekend! In addition, during this time, reviewing projects will be a priority over answering questions in the lecture channel. TA's will still check periodically to help answer questions, but also free feel to also help your peer's as well!
 
-Please note that if the required core features are not deployed to Heroku by Pregrade, then TA's will be unable to leave any feedback. This will be the student's responsibility over the weekend to read the Error validation repo and Instructor Grade Google Slides to properly test the feature.
+Please note that if the required minimum features are not deployed, then TA's will be unable to leave any feedback. This will be the student's responsibility over the weekend to **test** the User Auth and all features to ensure it works as expected.
 
 ## Review Your Scorecard
-On Friday, please reach out to your grader to ask clarifying questions and to ensure what you need to work on over the weekend. This is optional if you don't have any questions and understand what to work on. Students are responsible for working on all the Evaluator feedback on the pre-grade scorecard. After fixing the corrections from the scorecard, **please test on Production** to ensure it works as expected. Feel free to make a copy of the example scorecard and use it as a reference.
+On Friday, please reach out to your grader to ask clarifying questions and to ensure what you need to work on over the weekend. This is optional if you don't have any questions and understand what to work on. Students are responsible for working on all the Evaluator feedback on the feature review scorecard. After fixing the corrections from the scorecard, **please test on Production** to ensure it works as expected.
 
 ### Test Test Test Your Features
 * Students are **expected** and **responsible** to test their deployed app before final grading.
