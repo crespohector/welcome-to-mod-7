@@ -139,7 +139,6 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 
 ## Projects We've Seen Go Well
 * Etsy
-* Facebook
 * Quora
 * AirBnB
 * Reddit
@@ -179,6 +178,7 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 * Disney + (AWS optional / CRUD features are tricky)
 * E-commerce sites that need Cart & Orders/Purchases
 * Slack (w/ Websockets)
+* Facebook
 
 ## Projects that are not allowed
 * Instagram
