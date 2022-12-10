@@ -64,7 +64,7 @@ First feature has to be **full** CRUD. and the second feature can be **3/4** CRU
 
 [Example Scorecard Link](https://docs.google.com/spreadsheets/d/1e5LgQ7u5oRDS8C2gr7hIciHSz1Tg6N1AhmErjLTM6JM/edit#gid=0)
 
-For more resources, please reference the Instructor Grading Slides: [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/)
+Any questions about grading requirements, **please reference** the Instructor Grading Slides: [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/)
 
 ### Error Validations
 A User should **NOT** be allowed to update or submit a form with blank or null input fields that are assumed to be required. All input fields within a form are assumed to be required and tested as such. If certain fields within a form are not required, then all required fields must be marked by a different CSS style or an asterisk *(*)* next to the label to indicate a required field.
