@@ -41,7 +41,7 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
 - [Phase 2.5 - Peer Review](https://github.com/crespohector/welcome-to-mod-7#phase-25---peer-review)
 - [Phase 3 - Feature Reviews & Final Grade](https://github.com/crespohector/welcome-to-mod-7#phase-3---pregrading--final-grading)
    - [Feature Reviews](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#feature-reviews)
-   - [Review Your Pregrade Scorecard](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#review-your-scorecard)
+   - [Review Your Scorecard](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#review-your-scorecard)
    - [Test Test Test Your Features](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#test-test-test-the-features)
    - [What Should Be In A Readme](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#what-should-be-in-a-readme)
    - [Final Grade](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#final-grade)
