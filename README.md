@@ -43,8 +43,10 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
    - [Feature Reviews](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#feature-reviews)
    - [Review Your Scorecard](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#review-your-scorecard)
    - [Test Test Test Your Features](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#test-test-test-your-features)
-   - [What Should Be In A Readme](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#what-should-be-in-a-readme)
    - [Final Grade](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#final-grade)
+- [Future Goals After Capstone](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#future-goals-after-final-grade)
+   - [What Should Be In A Readme](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#what-should-be-in-a-readme)
+   - [About Me Links](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#about-links)
 
 ## Capstone Project Requirements
 Projects must have a minimum of **2 working CRUD features** and **base requirements** *(User Auth)* completed by final grade *(W23 D1)*. Only the live site will be used for grading. 
