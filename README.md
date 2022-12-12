@@ -111,7 +111,7 @@ Students plagiarising another student's source code will be dismissed. This is a
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-All students should have a **target website** they will clone. You must submit the Google Project Proposal form and get an approval from a TA before coding anything for the features on your capstone project. There will be a soft deadline to submit proposals by Tuesday *(w21 d2)* before lunch, and a strict deadline (all proposals) by 6PM EST / 3PM PT. 
+All students should have a **target website** they will clone. You must submit the Google Project Proposal form and get an approval from a TA before coding anything for the features on your capstone project. There will be a soft deadline to submit proposals by Tuesday *(w21 d2)* before lunch, and a **strict deadline (all proposals) by 6PM EST / 3PM PT**. 
 
 If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project + deploy starter, set up your github repo, project kanban board, etc.)*. Also, the mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal, and IA's will review them based on the order given. Students will receive a green checkmark in the thread or a direct message if the project has been approved.
 
