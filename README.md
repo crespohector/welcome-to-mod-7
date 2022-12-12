@@ -253,7 +253,7 @@ Once you have revised the question, tag the TAs or re-post a new version of the 
 
 To ensure the quickest possible response to a question you are encouraged to literally copy, paste and fill this out when asking a question in slack. The Mod 7 team may ask you to do so if it seems like it might help expedite answering your question.
 
-1. What are you working on? (give us some context)
+1. What feature/task are you working on? (modals, API routes, React components, Reducer, etc)
 2. Describe the problem (what are you trying to do? what is it currently doing?)
 3. What error messages do you have? (server/front-end console, *if there is one*)
 4. What have you done to debug? What have you searched/tried? (THIS IS VERY HELPFUL TO DESCRIBE)
@@ -271,7 +271,7 @@ All students should have access to their own scorecards. Inside the "capstone ta
 ## Daily Standups
 
 This will **begin on W21D3**. You will have daily stand ups with your Project Manager. Daily standups will take place between groups of 3-5 students from your circle. <!-- Each student will take roughly 5-10 minutes to screen-share their **deployed app** and **code**. Students are expected to explain what they worked on Heroku and then explain the code and data-flow afterwards. Specific standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team. -->
-Each student will take 2-3 minutes to screen-share their deployed app. Standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team.
+Each student will take 2-5 minutes to screen-share their deployed app and potentially demo any deployed feature. Standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team.
 
 ### Questions For Students:
 
@@ -363,11 +363,12 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
      - Mistakes, things you missed, things you want to change, etc...
 2. Pay attention to the way your partner has coded things.
     - Seeing how others code can give new ideas! Or solve a problem you already have!
-3. Please use code-centric instead of human-centric language. _(refer back to AOO Week 2 Day 2 “Empathetic Communication” for a refresher!)_
+3. Please use code-centric instead of human-centric language. _(refer back to AOO, W2, HW for Wednesday, “Empathetic Communication” for a refresher!)_
 4. Ask clarifying questions of your partner when they are explaining.
 5. Take notice on how your partner read and understood your code so that you could gauge your work’s readability. 
 6. If your partner did have a hard time reading a line/snippet of code, be sure to add comments to those to help you understand your code in the future. 
 7. Take feedback as something constructive and helpful for improvement.(On the flip side, be aware of how you present constructive feedback)
+8. Go through the starter project code *(user auth)* if you finish early. 
 
 ---
 
