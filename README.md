@@ -104,7 +104,10 @@ This calendar is a great resource to know what the day to day basis will look li
 - [Module 7 Calendar Link](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles)
 
 ## Cheating
-Students plagiarising another student's source code will be dismissed. This is an assessment to utilize the knowledge gained from the previous modules to build what you have learned. 
+Students plagiarising another student's source code will be dismissed. This is an assessment to utilize the knowledge gained from the previous modules to build what you have learned.
+
+## Camera Etiquacy
+Students **MUST** have their cameras on during live lectures in Module 7, including during the Career Quest. Students who have their cameras off or are afk/not present <!--, or does not show the full face in the camera view --> , will receive a **strike**. Students who may need to be cameras off for any special circumstance, please reach out to the Module 7 Staff. 
 
 ---
 
