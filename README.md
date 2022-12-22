@@ -216,6 +216,8 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 - Faker *(Use the older versions before 6.6)*
 - React Drag and Drop *(https://github.com/atlassian/react-beautiful-dnd)*
 - Rich Text Editor's
+- React star ratings
+- Carousel packages
 
 ---
 
