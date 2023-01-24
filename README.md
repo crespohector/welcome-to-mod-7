@@ -9,7 +9,7 @@
 <!-- ![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1) -->
 # Module 7: Welcome Starter Pack
 
-Welcome to Module 7! This repo is meant to hold convenient links for you to use during your capstone projects, and to give a summarize compilation of project requirements. Note this is a living document, things will be continuously changed and updated as needed but capstone requirements WILL NOT change.
+Welcome to Module 7! This repo is meant to hold convenient links for you to use during your capstone projects, and to give a summarize compilation of project requirements. Note this is a living document, things will be continuously changed and updated as needed but capstone requirements WILL NOT change. test
 
 ```txt
 ⚠️ IMPORTANT NOTE: If you are checking this out before your first capstone week officially begins please make sure you are keeping your pre-capstone project your top priority. All of this should be considered secondary until that project is done.
