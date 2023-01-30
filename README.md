@@ -40,7 +40,7 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
    - [Good Question Template](https://github.com/crespohector/welcome-to-mod-7#good-question-template)
    - [Helpful Development Links](https://github.com/crespohector/welcome-to-mod-7#some-useful-development-links)
 - [Phase 2.5 - Peer Review](https://github.com/crespohector/welcome-to-mod-7#phase-25---peer-review)
-- [Phase 3 - Feature Reviews & Final Grade](https://github.com/crespohector/welcome-to-mod-7#phase-3---pregrading--final-grading)
+- [Phase 3 - Feature Reviews & Final Grade](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-3---feature-reviews--final-grading)
    - [Feature Reviews](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#feature-reviews)
    - [Review Your Scorecard](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#review-your-scorecard)
    - [Test Test Test Your Features](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#test-test-test-your-features)
