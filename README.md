@@ -424,4 +424,4 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 Github and LinkedIn links should be located somewhere in the footer, splash page, navigation/header. Please refrain from trying to place these links in creative places or as “Easter Eggs”. 
 
 ## How to ping your website
-Your websites will "fall asleep" when their user activity. Here is a GitHub repo to ping your Render projects. https://github.com/mjshuff23/seeker-resources/blob/main/google-sheets-script.md
+Your websites will "fall asleep" when there is no user activity. Here is a GitHub repo to ping your Render projects. https://github.com/mjshuff23/seeker-resources/blob/main/google-sheets-script.md
