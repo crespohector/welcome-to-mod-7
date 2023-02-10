@@ -425,3 +425,5 @@ Github and LinkedIn links should be located somewhere in the footer, splash page
 
 ## How to ping your website
 Your websites will "fall asleep" when there is no user activity. Here is a GitHub repo to ping your Render projects. https://github.com/mjshuff23/seeker-resources/blob/main/google-sheets-script.md
+
+[Render Documentation for free tier](https://render.com/docs/free)
