@@ -104,6 +104,9 @@ This calendar is a great resource to know what the day to day basis will look li
 ## Cheating
 Students plagiarising another student's source code will be dismissed. This is an assessment to utilize the knowledge gained from the previous modules to build what you have learned.
 
+## Clobbering
+Clobbering is the process of "updating" an entry in the database by deleting the old entry and creating a new one. Not only is this a slower process for your application due to having to perform 2 actions instead of 1, this also does not accurately demonstrate your ability to fully CRUD in a feature. While developing your application, make sure that you are editing the existing entry in the database instead of clobbering.
+
 ## Camera Etiquacy
 Students **MUST** have their cameras on during live lectures in Module 7, including during the Career Quest. Students who have their cameras off or are afk/not present <!--, or does not show the full face in the camera view --> , will receive a **strike**. Students who need to step away from the camera for a brief moment, please use the coffee reaction emoji on Zoom that says "I'm away". Students who need to be away from the camera for more than 15 minutes, please communicate with the staff. Students who may need to be cameras off for any special circumstance, please reach out to the Module 7 Staff. 
 
