@@ -119,7 +119,7 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 ## Capstone Project Proposals
 All students should have a **target website** they will clone. You must submit the Google Project Proposal form and get an approval from a TA before coding anything for the features on your capstone project. The deadline for all project proposals will have to be submitted by **end of lunch** on W21D2. 
 
-If you're currently waiting for a TA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project + deploy starter, set up your github repo, project kanban board, etc.)*. Also, the mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal, and IA's will review them based on the order given. Students will receive a green checkmark in the thread or a direct message if the project has been approved.
+If you're currently waiting for a IA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project + deploy starter, set up your github repo, project kanban board, etc.)*. Also, the Mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal, and IA's will review them based on the order given. Students will receive a green checkmark in the thread or a direct message if the project has been approved.
 
 *Note- Any project proposal without all the required wiki documentations will be disapproved and asked to complete it.*
 
@@ -141,7 +141,7 @@ After the required wiki documentations are completed on GitHub, submit this proj
 [Project Proposal Form](https://forms.gle/7zJjvXKFh7sJNENM9)
 
 ---
-Here are some capstone project ideas that tend to be associated with success in the observations of the TAs, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
+Here are some capstone project ideas that tend to be associated with success in the observations of the IA's, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
 
 Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
 > We want to diversify our project portfolio. If you already did a social media clone, then maybe try working on a traveling app or E-commerce app.
@@ -226,7 +226,7 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 
 ## Appropriate Project Themes
 
-When picking your capstone project theme use common sense and think about it from the perspective of a recruiter and your future job coach. Our goal is not to censor your creativity or discourage you but we do have an official policy on appropriate project themes linked below. Recently, the most common issues are with projects related to weed / cannabis. We can't approve projects related to these themes because of federal legality, but that doesn't mean you can't pursue these projects after capstones.
+When picking your capstone project theme use common sense and think about it from the perspective of a recruiter and your future career coach. Our goal is not to censor your creativity or discourage you but we do have an official policy on appropriate project themes linked below. Recently, the most common issues are with projects related to weed / cannabis. We can't approve projects related to these themes because of federal legality, but that doesn't mean you can't pursue these projects after capstones.
 
 * [Project Theme Expectations](https://github.com/tombetthauser/module-7-welcome/blob/main/Project%20Theme%20Expectations%20-%20Student%20Facing%20Discussion.pdf)
 
@@ -239,23 +239,23 @@ Remember, a successful capstone project does not need AWS, Google Maps, Web Sock
 ---
 ## Lecture Questions Emoji System
 
-Because TA's are asked to answer all questions asynchronously when possible and because capstone issues can often take hours to address. The TA's will use slack reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
+Because IA's are asked to answer all questions asynchronously when possible and because capstone issues can often take hours to address, the IA's will use slack reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
 
 # 👀
-The eyeballs mean the TA's are aware of the question and are looking into it / discussing it in the Staff Room. There may be other questions ahead of yours and it make take time to resolve the question based on the complexity of the problem and how clear the question was, if screenshots or commits were provided etc.
+The eyeballs mean the IA's are aware of the question and are looking into it / discussing it in the Staff Room. There may be other questions ahead of yours and it make take time to resolve the question based on the complexity of the problem and how clear the question was, if screenshots or commits were provided, etc.
 
 # ✅
-The green check means that a TA or the student has confirmed that the question has been resolved. If this isn't correct tag one of the TA's in the thread or re-post the question.
+The green check means that an IA or the student has confirmed that the question has been resolved. If this isn't correct, tag one of the IA's in the thread or re-post the question.
 
 # ☑️
-The gray or blue check means the question seems to have been resolved by a TA or other student but is awaiting some form of confirmation.
+The gray or blue check means the question seems to have been resolved by an IA or other student but is awaiting some form of confirmation.
 
 # ⚠️ or ❌
-The alert emoji means the question may not be specific enough or may not show clear evidence of independent student research on AAO, Stack Overflow, Google etc. Please do not interpret this in any negative way. Do not hesitate to ask questions, TA's are here to help and guide in answering questions. Fomulating good questions is a great skill to aquire as a software engineer and it does take practice. So, don't hesitate!
+The alert emoji means the question may not be specific enough or may not show clear evidence of independent student research on AAO, Stack Overflow, Google etc. Please do not interpret this in any negative way. Do not hesitate to ask questions, IA's are here to help and guide in answering questions. Fomulating good questions is a great skill to aquire as a software engineer and it does take practice. So, don't hesitate!
 
-Before the TA's can effectively address the question, the student will need to add more information, screenshots, a description of what you have done so far in terms of research and solution attempts and/or a link to the repo with a recent commit message clearly describing the issue.
+Before the IA's can effectively address the question, the student will need to add more information, screenshots, a description of what you have done so far in terms of research and solution attempts and/or a link to the repo with a recent commit message clearly describing the issue.
 
-Once you have revised the question, tag the TAs or re-post a new version of the question in the lecture questions channel.
+Once you have revised the question, tag the IAs or re-post a new version of the question in the lecture questions channel.
 
 ### Good Question Template
 
@@ -265,7 +265,7 @@ To ensure the quickest possible response to a question you are encouraged to lit
 2. Describe the problem (what are you trying to do? what is it currently doing?)
 3. What error messages do you have? (server/front-end console, *if there is one*)
 4. What have you done to debug? What have you searched/tried? (THIS IS VERY HELPFUL TO DESCRIBE)
-5. Relevant code snippets/screenshots (crop, mark-up, or explain them)
+5. Relevant code snippets/screenshots (crop, mark-up, or explain them, but make sure that line numbers are visible)
 ---
 
 ## Capstone Scorecards
@@ -278,12 +278,12 @@ All students should have access to their own scorecards. Inside the "capstone ta
 
 ## Daily Standups
 
-This will **begin on W21D3**. You will have daily stand ups with your Project Manager. Daily standups will take place between groups of 3-5 students from your circle. <!-- Each student will take roughly 5-10 minutes to screen-share their **deployed app** and **code**. Students are expected to explain what they worked on Heroku and then explain the code and data-flow afterwards. Specific standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team. -->
-Each student will take 3-6 minutes to screen-share their deployed app and potentially demo any deployed feature. Standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team.
+This will **begin on W21D3**. You will have daily stand ups with your Project Manager (PM). Daily standups will take place between groups of 3-5 students from your circle. <!-- Each student will take roughly 5-10 minutes to screen-share their **deployed app** and **code**. Students are expected to explain what they worked on Heroku and then explain the code and data-flow afterwards. Specific standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team. -->
+Each student will take 3-6 minutes to screen-share their deployed app and potentially demo any deployed feature. Standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the Mod 7 team.
 
 ### Questions For Students:
 
-*Please note that all work must be shown on the deployed website, not localhost. We can not determine the progression of your project based on localhost alone*
+*Please note that all work must be shown on the deployed website, not localhost. We can not determine the progression of your project based on localhost alone.*
 
 * What progress did you make on your goal from yesterday?
 * What is your goal for today that you plan to complete before next standup? 
@@ -299,8 +299,8 @@ Each student will take 3-6 minutes to screen-share their deployed app and potent
 ### Other Standup Notes
 
 * If **technical questions come up**, your PM will ask you to put them in the lecture questions channel as we will not have time to debug during standups.
-* TA notes will include whether you met yesterdays goal fully / partially / not at all.
-* TA notes will also include 3-5 word description of your goal for tomorrow.
+* IA notes will include whether you met yesterdays goal fully / partially / not at all.
+* IA notes will also include 3-5 word description of your goal for tomorrow.
 
 ## Workflow Expectations
 
@@ -322,7 +322,7 @@ Each student will take 3-6 minutes to screen-share their deployed app and potent
    * Please remember to test the feature not only on local, but on Production as well to ensure it works as expected.
 
 ## FAAQs | Frequently/Any Asked Questions
-> _An informal and very incomplete list of somewhat common and / or unique problems observed by the Mod 7 TAs during capstone project development._
+> _An informal and very incomplete list of somewhat common and / or unique problems observed by the Mod 7 IA's during capstone project development._
 * [Capstone FAAQs](https://github.com/tombetthauser/fullstack-faqs)
 
 ## Helpful styling tips
@@ -349,7 +349,7 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 
 ## Steps:
 
-1. Choose who goes first. You each get 30 minutes and have a timer set up.
+1. Choose who goes first. You each get 30 minutes and should have a timer set up.
 2. Find a part of your code to walk through.
     - Could be a part you are proud of, something new, your redux store, your routes, your components, your CSS, etc...
     - Could be something you are only partially done making and then go into some basic "pseudocode" of what your next steps will be.
@@ -364,6 +364,7 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 3. Students are responsible to give and receive constructive feedback and commit to the exercise.
 4. IA’s will be jumping in rooms periodically to check progress and could possibly ask questions! 
 5. Students will receive strikes if not commited to the exercise *(webcam is off, no discussions, etc)*
+6. If you finish the section of code you had planned to go over early, pick another file and continue to walk through your code. If you are lost on what code to share, you can always go through the starter code!
 
 ## Tips:
 
@@ -383,23 +384,24 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 # Phase 3 - Feature Reviews / Final Grading
 
 ## Feature Reviews
-Feature Reviews will start on the **beginning of Thursday** at **9AM PT** on the second week of capstone development. There are no requirements associated with Feature Reviews and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help prepare for the following Monday when projects are due. And if your project passes, all you'll have to do is not break your site over the weekend! In addition, during this time, reviewing projects will be a priority over answering questions in the lecture channel. TA's will still check periodically to help answer questions, but also free feel to also help your peer's as well!
+Feature Reviews will start on the Monday of the second week of capstone development (W22D1) and go through Thursday (W22D4). There are no requirements associated with Feature Reviews and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help prepare for the following Monday when projects are due. Whenever you feel like your project is at a point that it is Feature Review ready, reach out to your Project Manager about getting your Feature Review done. After receiving your Feature Review, your priority will be fixing any notes left on the scorecard and then continuing to develop more features for your project. If you receive a Feature Review on either Monday or Tuesday, you are allowed to ask for a 2nd Feature Review on Wednesday/Thursday to test any new features you have added.
 
-Please note that if the required minimum features are not deployed, then TA's will be unable to leave any feedback. This will be the student's responsibility over the weekend to **test** the User Auth and all features to ensure it works as expected.
+**Note that Thursday is the final day to request a Feature Review. If you do not request one by the EOD on Thursday, you will not receive a Feature Review for your project and it will be up to you to thoroughly test all of your features before Final Grading.**
 
 ## Review Your Scorecard
-On Friday, please reach out to your grader to ask clarifying questions and to ensure what you need to work on over the weekend. This is optional if you don't have any questions and understand what to work on. Students are responsible for working on all the Evaluator feedback on the feature review scorecard. After fixing the corrections from the scorecard, **please test on Production** to ensure it works as expected.
+After receiving your Feature Review, please reach out to your grader to ask clarifying questions and to ensure what you need to work on. This is optional if you don't have any questions and understand what to work on. Students are responsible for working on all the Evaluator feedback on the Feature Review scorecard. After fixing the corrections from the scorecard, **please test on Production** to ensure it works as expected.
 
 ### Test Test Test Your Features
 * Students are **expected** and **responsible** to test their deployed app before final grading.
     * Test the CRUD functionality of all implemented features.
     * Test the User Auth (login, sign up, error validations, demo user, logout).
+    * Make sure that your site works for new users as well as the Demo/seeded users.
     * Check if the styling is consistent throughout the entire app.
     * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
-    * TA's will do their best to leave as much feedback as possible, however **it is your responsibility to test the functionality on your app to ensure it still works as expected**.
+    * IA's will do their best to leave as much feedback as possible, however **it is your responsibility to test the functionality on your app to ensure it still works as expected**.
 
 ## Final Grade
-Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as "Feature Review" and "final grade". Students are required to present their capstone project on their deployed website on Monday *(w23 d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading students projects. <!-- TA's will revoke the shared access on scorecards and will share it again after it is graded. -->Please try to avoid watching an IA live grade, students will receive a direct message from an IA once their project has been graded. Last time to deploy any changes to the project GitHub repo will be before presentations, any changes made during grading will be **striked**.
+Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as "Feature Review" and "Final Grade". Students are required to present their capstone project on their deployed website on Monday *(w23d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading student's projects. <!-- TA's will revoke the shared access on scorecards and will share it again after it is graded. -->Please try to avoid watching an IA live grade, students will receive a direct message from an IA once their project has been graded. Last time to deploy any changes to the project GitHub repo will be before presentations, any changes made during grading will be **striked**.
 
 Under the Final Grade tab, students will see the status of their project, either as "pass", "fail", or "currently grading". All students' capstone projects that is considered to be "fail" will be finalized and confirmed by a PTM. Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a Slack Message from the Module 7 Lead or Cohort Lead to discuss what the deferral process will look like.
 
@@ -410,7 +412,7 @@ Under the Final Grade tab, students will see the status of their project, either
 
 ## Future Goals After Final Grade
 
-What to do moving forward? Well, the journey has only just begun. As you get closer to graduation, students are encourage to continue polishing up their capstone project. Students can also look at the constructive feedback left in the capstone scorecards to take into consideration to work on. Get ahead of the game, in order to be greenlit after graduation you will need to have 4 features in your projects and have the general requirements *(favicon, readme, About Me Links, etc)* be completed.
+What to do moving forward? Well, the journey has only just begun. As you get closer to graduation, students are encouraged to continue polishing up their capstone project. Students can also look at the constructive feedback left in the capstone scorecards for more considerations on what to work on. Get ahead of the game, in order to be greenlit after graduation you will need to have 4 features in your projects and have the general requirements *(favicon, readme, About Me Links, etc)* be completed.
 
 > "To become a better software engineer, is through repetition." The more features you continue to build, the more practice, the more repetition, the better you will become at building features quicker.
 
@@ -420,7 +422,7 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 * Deployed Live Link
 * Technologies/Frameworks Used *(Frontend and Backend)*
 * MVP Core features
-* Few screenshots, least *(1-2)*, to highlight the app
+* Screenshots, at least *(1-2)*, to highlight the app
 * Future Implementation Goals
 
 [Markdown Guide Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
