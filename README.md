@@ -400,6 +400,7 @@ On Friday, please reach out to your grader to ask clarifying questions and to en
 Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as "Feature Review" and "final grade". Students are required to present their capstone project on their deployed website on Monday *(w23 d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations is over, students will transition to Career Quest, and the Mod 7 team will begin final grading students projects. <!-- TA's will revoke the shared access on scorecards and will share it again after it is graded. -->Please try to avoid watching an IA live grade, students will receive a direct message from an IA once their project has been graded. Last time to deploy any changes to the project GitHub repo will be before presentations, any changes made during grading will be **striked**.
 
 Under the Final Grade tab, students will see the status of their project, either as "pass", "fail", or "currently grading". All students' capstone projects that is considered to be "fail" will be finalized and confirmed by a PTM. Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a Slack Message from the Module 7 Lead or Cohort Lead to discuss what the deferral process will look like.
+
 ---
 
 ## Future Goals After Final Grade
