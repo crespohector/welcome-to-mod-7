@@ -40,7 +40,7 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
    - [Good Question Template](https://github.com/crespohector/welcome-to-mod-7#good-question-template)
    - [Helpful Development Links](https://github.com/crespohector/welcome-to-mod-7#some-useful-development-links)
 - [Phase 2.5 - Peer Review](https://github.com/crespohector/welcome-to-mod-7#phase-25---peer-review)
-- [Phase 3 - Feature Reviews & Final Grade](https://github.com/crespohector/welcome-to-mod-7#phase-3---pregrading--final-grading)
+- [Phase 3 - Feature Reviews & Final Grade](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#phase-3---feature-reviews--final-grading)
    - [Feature Reviews](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#feature-reviews)
    - [Review Your Scorecard](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#review-your-scorecard)
    - [Test Test Test Your Features](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#test-test-test-your-features)
@@ -66,8 +66,6 @@ Projects must have a minimum of **2 working CRUD features** and **base requireme
 First feature has to be **full** CRUD. and the second feature can be **3/4** CRUD or full CRUD. In the example above, the bookings feature has create, read, and Delete. Ideally, update and delete performs the same action so this feature would be considered 3/4 CRUD.
 
 [Example Scorecard Link](https://docs.google.com/spreadsheets/d/1e5LgQ7u5oRDS8C2gr7hIciHSz1Tg6N1AhmErjLTM6JM/edit#gid=0)
-
-Any questions about grading requirements, **please reference** the Instructor Grading Slides: [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/)
 
 ### Error Validations
 A User should **NOT** be allowed to update or submit a form with blank or null input fields that are assumed to be required. All input fields within a form are assumed to be required and tested as such. If certain fields within a form are not required, then all required fields must be marked by a different CSS style or an asterisk (*) next to the label to indicate a required field.
@@ -384,6 +382,7 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 # Phase 3 - Feature Reviews / Final Grading
 
 ## Feature Reviews
+
 Feature Reviews will start on the Monday of the second week of capstone development (W22D1) and go through Thursday (W22D4). There are no requirements associated with Feature Reviews and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help prepare for the following Monday when projects are due. Whenever you feel like your project is at a point that it is Feature Review ready, reach out to your Project Manager about getting your Feature Review done. After receiving your Feature Review, your priority will be fixing any notes left on the scorecard and then continuing to develop more features for your project. If you receive a Feature Review on either Monday or Tuesday, you are allowed to ask for a 2nd Feature Review on Wednesday/Thursday to test any new features you have added.
 
 **Note that Thursday is the final day to request a Feature Review. If you do not request one by the EOD on Thursday, you will not receive a Feature Review for your project and it will be up to you to thoroughly test all of your features before Final Grading.**
@@ -405,9 +404,6 @@ Upon final grading, you should see two tabs at the bottom of the scorecard Googl
 
 Under the Final Grade tab, students will see the status of their project, either as "pass", "fail", or "currently grading". All students' capstone projects that is considered to be "fail" will be finalized and confirmed by a PTM. Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a Slack Message from the Module 7 Lead or Cohort Lead to discuss what the deferral process will look like.
 
-## Resources to Passing Capstone
-* [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
-* [Instructor Notes on Project Grading](https://docs.google.com/presentation/d/1-kVQflM_bbgn1iUexymWY9z_imWYeqYCTcZlmsiFdmU/edit#slide=id.p)
 ---
 
 ## Future Goals After Final Grade
@@ -429,3 +425,8 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 
 ## About Links
 Github and LinkedIn links should be located somewhere in the footer, splash page, navigation/header. Please refrain from trying to place these links in creative places or as “Easter Eggs”. 
+
+## How to ping your website
+Your websites will "fall asleep" when there is no user activity. Here is a GitHub repo to ping your Render projects. https://github.com/mjshuff23/seeker-resources/blob/main/google-sheets-script.md
+
+[Render Documentation for free tier](https://render.com/docs/free)
