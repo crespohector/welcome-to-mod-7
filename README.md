@@ -121,6 +121,7 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 * [Express AWS S3 for Image Uploads](https://github.com/jdrichardsappacad/aws-s3-pern-demo)
 * [Flask Websockets for Chat Features](https://hackmd.io/oTn-ZTjcQRO5Ghbv9tO9ug)
 * [Easy Modals Using React Context!](https://github.com/whitnessme/context-modal-instructions)
+* [Using the spread operator](https://dev.to/mlgvla/javascript-using-the-spread-operator-with-nested-objects-2e7l#:~:text=The%20spread%20operator%20only,a%20true%20value%20copy.)
 <!-- [Helpful Heroku Tips](https://github.com/whitnessme/helpful-heroku-tips) -->
 ---
 
