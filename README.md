@@ -171,22 +171,17 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 * New York Times Recipes
 * Untapped
 * Trello
-* AirBnB
 * Medium
 * Evernote
 * HipCamp
-* Eventbrite
-* Yelp
 
 ### Projects that we strongly suggest have AWS:
-
 * E-commerce sites where users upload “products”, *(Etsy, Fiverr, Ebay)*
 * Pinterest
 * Flikr
 * FaceBook
 
 ### Projects We've Seen Students Struggle With:
-
 * Soundcloud (AWS strongly suggested)
 * Spotify (AWS strongly suggested)
 * Venmo (AWS optional / CRUD features are tricky)
