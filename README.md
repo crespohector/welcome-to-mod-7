@@ -127,9 +127,9 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-All students should have a **target website** they will clone. You must submit the Google Project Proposal form and get an approval from a TA before coding anything for the features on your capstone project. The deadline for all project proposals will have to be submitted by **end of lunch** on W21D2. 
+All students should have a **target website** they will clone. You must submit the Google Project Proposal form and get an approval from a IA before coding anything for the features on your capstone project. The deadline for all project proposals will have to be submitted by **end of lunch** on W21D2. 
 
-If you're currently waiting for a IA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project + deploy starter, set up your github repo, project kanban board, etc.)*. Also, the Mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal, and IA's will review them based on the order given. Students will receive a green checkmark in the thread or a direct message if the project has been approved.
+If you're currently waiting for a IA to review your project proposal, please utilize the time appropriately and continue to be productive *(initalize your project + deploy skeleton starter, set up your github repo, project kanban board, etc.)*. Also, the Mod 7 staff will post a thread in the Online Slack Channel. Please respond to the thread once you have submitted your project proposal, and IA's will review them based on the order given. Students will receive a green checkmark in the thread or a direct message if the project has been approved.
 
 *Note- Any project proposal without all the required wiki documentations will be disapproved and asked to complete it.*
 
