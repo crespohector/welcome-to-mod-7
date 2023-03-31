@@ -49,9 +49,9 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
    - [About Me Links](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#about-links)
 
 ## Capstone Project Requirements
-Projects must have a minimum of **2 working CRUD features** and **base requirements** *(User Auth)* completed by final grade *(W23 D1)*. Only the live site will be used for grading. 
+Projects must have a minimum of **2 working CRUD features** and **base requirements** *(User Auth)* completed by final grade *(W23 D1)*. Only the live site will be used for grading.
 
-![Scorecard](https://user-images.githubusercontent.com/76798385/206231772-dc23dd10-72fa-4ea6-be20-66db7d9fcfe4.png)
+![scorecard](https://user-images.githubusercontent.com/76798385/229187286-ba7411c1-5369-4756-9228-e9d3a8234005.png)
 
 **Ex. Project: Airbnb**
 - Users (Auth): Create, Read 
@@ -64,7 +64,7 @@ Projects must have a minimum of **2 working CRUD features** and **base requireme
 
 First feature has to be **full** CRUD. and the second feature can be **3/4** CRUD or full CRUD. In the example above, the bookings feature has create, read, and Delete. Ideally, update and delete performs the same action so this feature would be considered 3/4 CRUD.
 
-[Example Scorecard Link](https://docs.google.com/spreadsheets/d/1e5LgQ7u5oRDS8C2gr7hIciHSz1Tg6N1AhmErjLTM6JM/edit#gid=0)
+[Example Scorecard Link](https://docs.google.com/spreadsheets/d/1koN-rcsiGkHTLgI1H7SLbGqohdotLh2ed-0ybl60eVk/edit#gid=1184667675)
 
 ### Error Validations
 A User should **NOT** be allowed to update or submit a form with blank or null input fields that are assumed to be required. All input fields within a form are assumed to be required and tested as such. If certain fields within a form are not required, then all required fields must be marked by a different CSS style or an asterisk (*) next to the label to indicate a required field.
