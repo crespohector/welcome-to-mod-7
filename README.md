@@ -76,7 +76,7 @@ Please refer to the Error Validations Repo for more examples.
 
 ## The Big Picture
 
-Capstone Project is an assessment to test your programming and software engineering skills. The main objective is to build a user-ready MVP *(Minimal Viable Product)* application within these two weeks from planning to having a deployed app. The ideal expectation is to have a completed MVP application done before feature review, then have the remaining time to focus on refactoring to include additional features. 
+Capstone Project is an assessment to test your programming and software engineering skills. The main objective is to build a user-ready MVP *(Minimal Viable Product)* application within these two weeks. The ideal expectation is to have a completed MVP application done by W22D1, then use the remaining time to focus on refactoring to include additional features and polish the User Interface.
 
 Remember, a minimum viable product (MVP) is the absolute least you can put out that is also a usable product. For your capstone project this means 2 fully functional CRUD features with validation error messages that are unequivocally intuitive and simple to use by someone who has never seen the app before.
 Remember, a successful capstone project does not need AWS, Google Maps, Web Sockets or more than 2 CRUD features. But the 2 CRUD features that you do build need to feel and function complete to pass.
