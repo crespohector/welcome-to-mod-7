@@ -415,6 +415,7 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 * MVP Core features
 * Screenshots, at least *(1-2)*, to highlight the app
 * Future Implementation Goals
+* Links to contact you *(LinkedIn)*
 
 [Example of a ReadMe](https://github.com/itsmaica/Remotebnb)
 
