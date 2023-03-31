@@ -416,6 +416,8 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 * Screenshots, at least *(1-2)*, to highlight the app
 * Future Implementation Goals
 
+[Example of a ReadMe](https://github.com/itsmaica/Remotebnb)
+
 [Markdown Guide Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## About Links
