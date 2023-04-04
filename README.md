@@ -232,6 +232,8 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 - React star ratings
 - Carousel packages
 
+**Please note that some packages require you to add information to your environment variables. Adding these to your local .env does *NOT* affect your Render deployment. You will need to be sure to also add that information to your Render Environment variables.**
+
 ---
 
 ## Appropriate Project Themes
