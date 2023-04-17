@@ -426,7 +426,14 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 ## About Links
 Github and LinkedIn links should be located somewhere in the footer, splash page, navigation/header. Please refrain from trying to place these links in creative places or as “Easter Eggs”. 
 
-## How to ping your website
-Your websites will "fall asleep" when there is no user activity. Here is a GitHub repo to ping your Render projects. https://github.com/mjshuff23/seeker-resources/blob/main/google-sheets-script.md
+## How to keep your website alive (this will require scheduled GET requests)
+
+### The Google Docs Method
+Your websites will "fall asleep" when there is no user activity. Here is a GitHub repo to ping (not to be confused with the "ping" utility) your Render projects. https://github.com/mjshuff23/seeker-resources/blob/main/google-sheets-script.md
+
+### The Render CronJob Way (JavaScript Example)
+If you prefer to use a Cron Job, you'll need to write a program to make these GET requests to your site(s). Place it into a desired folder in your project and set that folder's relative path to the 'Root Directory' value in the Cron Job settings. Additionally, you'll need to set the 'Command' and 'Build Command' settings for the Cron Job and adjust the value in 'Schedule' to your liking. Also note that Render will want your credit card information to set up a cron job and may charge a fee of $1 per month for this service. Please see the file 'genericKeepAlive.js' in this repo for an example script.
+
+
 
 [Render Documentation for free tier](https://render.com/docs/free)
