@@ -273,9 +273,9 @@ To ensure the quickest possible response to a question, you are encouraged to li
 
 ---
 
-## Capstone Scorecards
+<!-- ## Capstone Scorecards
 
-All students should have access to their own scorecards. Inside the "capstone tab" in that Google Spreadsheet, students will fill out Student Name, Application Name, Github Link, Live Link, Feature 1, Feature 2, Feature 3, Feature 4, Feature 5, and Feature 6. Your PM will ensure that the capstone scorecard is filled out accordingly as they will be utilized for future grading purposes.
+All students should have access to their own scorecards. Inside the "capstone tab" in that Google Spreadsheet, students will fill out Student Name, Application Name, Github Link, Live Link, Feature 1, Feature 2, Feature 3, Feature 4, Feature 5, and Feature 6. Your PM will ensure that the capstone scorecard is filled out accordingly as they will be utilized for future grading purposes. -->
 
 ---
 
@@ -398,7 +398,7 @@ After receiving your Feature Review, please reach out to your grader to ask clar
     * IA's will do their best to leave as much feedback as possible, however **it is your responsibility to test the functionality on your app to ensure it still works as expected**.
 
 ## Final Grade
-Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as "Feature Review" and "Final Grade". Students are required to present their capstone project on their deployed website on Monday *(w23d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations are over, students will transition to Career Quest, and the Mod 7 team will begin final grading student's projects. <!-- TA's will revoke the shared access on scorecards and will share it again after it is graded. -->Please try to avoid watching an IA live grade, your priority will be to focus on any lectures being given during Career Quest. Once all projects have been graded, the staff will announce it in the Slack channel. Last time to deploy any changes to the project GitHub repo will be before presentations, any changes made during grading will be **considered cheating and handled appropriately**.
+Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as **"Feature Review"** and **"Capstone"**. Students are required to present their capstone project on their deployed website on Monday *(w23d1)*. Students will have about 5-6 minutes to share their features and accomplishments. After presentations are over, students will transition to Career Quest, and the Mod 7 team will begin final grading student's projects. <!-- TA's will revoke the shared access on scorecards and will share it again after it is graded. -->Please try to avoid watching an IA live grade, your priority will be to focus on any lectures being given during Career Quest. Once all projects have been graded, the staff will announce it in the Slack channel. Last time to deploy any changes to the project GitHub repo will be before presentations, any changes made during grading will be **considered cheating and handled appropriately**.
 
 Under the Final Grade tab, students will see the status of their project, either as "pass", "fail", or "currently grading". All students' capstone projects that are considered to be "fail" will be finalized and confirmed by a PTM. Any project that is marked as "fail", will take a capstone academic deferral. Please do not view it as a negative outcome, but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. Students will receive a message from the Student Resource Coodinator and the Module 7 Lead to discuss what the deferral process will look like.
 
