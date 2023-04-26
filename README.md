@@ -70,11 +70,11 @@ First feature has to be **full** CRUD. and the second feature can be **3/4** CRU
 ### Error Validations
 A User should **NOT** be allowed to update or submit a form with blank or null input fields that are assumed to be required. All input fields within a form are assumed to be required and tested as such. If certain fields within a form are not required, then all required fields must be marked by a different CSS style or an asterisk (*) next to the label to indicate a required field.
 
-### Prepopulating Data For the Update Form
-When a User goes to Edit/Update something, the edit form must be prepopulated with the previous data. Using the "placeholder" attribute will **not** be accepted. This is to eliminate having to fill out the same information twice for your form submitters and creating a smoother user experience. Also from a grading perspective, the idea is that we should be able to click Edit, and then immediately submit the form with no errors. This is not possible if the placeholder is what is being prepopulated.
-
 Please refer to the Error Validations Repo for more examples.
 [Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
+
+### Prepopulating Data For the Update Form
+When a User goes to Edit/Update a resource, the edit form must be prepopulated with the previous data. Using the "placeholder" attribute will **not** be accepted. This is to eliminate having to fill out the same information twice for your form submitters and creating a smoother user experience. Also from a grading perspective, the idea is that we should be able to click Edit, and then immediately submit the form with no errors. This is not possible if the placeholder is what is being prepopulated.
 
 ---
 
