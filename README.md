@@ -223,6 +223,7 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 - Google Maps (@reach/combobox, @react-google-maps/api, use-places-autocomplete...)
 - Moment.js
 - WaveSufer.js
+- react-player
 - Websockets (i.e socket.io)
 - multer
 - aws-sdk
