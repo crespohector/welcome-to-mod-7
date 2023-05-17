@@ -334,8 +334,8 @@ Each student will take 3-6 minutes to screen-share their deployed app and potent
 > _An informal and very incomplete list of somewhat common and / or unique problems observed by the Mod 7 IA's during capstone project development._
 * [Capstone FAAQs](https://github.com/tombetthauser/fullstack-faqs)
 
-## Helpful styling tips
-https://docs.google.com/document/d/1VkeCDf12jokoTdriQycheyfnlfdc-qypDXsxCO5tqNk/edit
+<!-- ## Helpful styling tips -->
+<!-- https://docs.google.com/document/d/1VkeCDf12jokoTdriQycheyfnlfdc-qypDXsxCO5tqNk/edit -->
 
 ---
 
