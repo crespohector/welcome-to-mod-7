@@ -423,11 +423,13 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 * Screenshots, at least *(1-2)*, to highlight the app
 * Future Implementation Goals
 * Links to contact you *(LinkedIn)*
-* Endpoints *(e.g. POST /api/my/feature_creation Return: {...My POJO...})*
+<img width="983" alt="MarkdownEndpointsExample" src="https://github.com/crespohector/welcome-to-mod-7/assets/107947798/c80e52df-478f-4eb5-a034-45393e170078">
 
 [Example of a ReadMe](https://github.com/itsmaica/Remotebnb)
 
 [Markdown Guide Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Making Tables in Markdown Tutorial](https://www.makeuseof.com/tag/learning-markdown-write-web-faster/)
 
 ## About Links
 Github and LinkedIn links should be located somewhere in the footer, splash page, navigation/header. Please refrain from trying to place these links in creative places or as “Easter Eggs”. 
