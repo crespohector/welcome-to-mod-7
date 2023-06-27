@@ -423,6 +423,7 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 * Screenshots, at least *(1-2)*, to highlight the app
 * Future Implementation Goals
 * Links to contact you *(LinkedIn)*
+* Endpoints (See example below)*
 <img width="983" alt="MarkdownEndpointsExample" src="https://github.com/crespohector/welcome-to-mod-7/assets/107947798/c80e52df-478f-4eb5-a034-45393e170078">
 
 [Example of a ReadMe](https://github.com/itsmaica/Remotebnb)
