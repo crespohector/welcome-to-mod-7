@@ -154,7 +154,7 @@ IA's will have open office hours during **Project Approval Phase** to help provi
 ### Project Proposal Form
 After the required wiki documentations are completed on GitHub, submit this project proposal form and respond to the thread on Slack.
 
-[Project Proposal Form](https://forms.gle/pdWn7wexBHATkd468)
+[Project Proposal Form](https://forms.gle/79L6VDqmgwY87SvA7)
 
 ---
 
