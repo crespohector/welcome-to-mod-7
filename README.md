@@ -168,7 +168,6 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 ## Projects We've Seen Go Well
 * Etsy
 * Quora
-* AirBnB
 * Yelp
 * Eventbrite
 * Medium
@@ -203,9 +202,9 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 
 ## Projects that are not allowed
 * Instagram
-* Twitter
 * Discord
 * Projects that the student has already done before in previous modules.
+* Mod 4/5 projects (AirBnB, Meetup)
 
 ## Using External Packages (NPM / PIP)
 **Please Note: Any external packages implemented without your Project Manager's approval is a risk of having to refactor your code**
