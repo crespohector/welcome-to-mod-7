@@ -121,7 +121,7 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 * [Flask Project Starter](https://github.com/appacademy/practice-for-week-19-python-project-skeleton)
 * [Express Project Starter (authenticate me)](https://github.com/appacademy/practice-for-sprint-15-react-redux-authenticate-me-for-render-deployment)
 * [Flask-SQLAlchemy Quick Reference](https://hackmd.io/@app-academy/flask-sqlalchemy-reference)
-* [Flask AWS S3 for Image Uploads](https://hackmd.io/4yEAJpBXSWCZmI16J5ID1Q)
+* [Flask AWS S3 for Image Uploads](https://github.com/appacademy/Modular-Curriculum/tree/master/content/module-06/week-19/topics/AWS-S3)
 * [Express AWS S3 for Image Uploads](https://github.com/jdrichardsappacad/aws-s3-pern-demo)
 * [Flask Websockets for Chat Features](https://hackmd.io/oTn-ZTjcQRO5Ghbv9tO9ug)
 * [Easy Modals Using React Context!](https://github.com/whitnessme/context-modal-instructions)
