@@ -119,7 +119,8 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 ## Some Useful Development Links
 
 * [Flask Project Starter](https://github.com/appacademy/practice-for-week-19-python-project-skeleton)
-* [Express Project Starter (authenticate me)](https://github.com/appacademy/practice-for-sprint-15-react-redux-authenticate-me-for-render-deployment)
+* [Express Project Starter Frontend (authenticate me)](https://github.com/appacademy/practice-for-sprint-15-react-redux-authenticate-me-for-render-deployment)
+* [Express Project Starter Backend (authenticate me)](https://github.com/appacademy/practice-for-sprint-12-authenticate-me-for-render-deployment)
 * [Flask-SQLAlchemy Quick Reference](https://hackmd.io/@app-academy/flask-sqlalchemy-reference)
 * Flask AWS S3 for Image Uploads - a/a Open --> Week 21 Career Quest I --> Solo Project --> AWS s3 (Recall: Python-Flask) 
 * [Express AWS S3 for Image Uploads](https://github.com/jdrichardsappacad/aws-s3-pern-demo)
