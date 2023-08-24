@@ -439,14 +439,15 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 ## About Links
 Github and LinkedIn links should be located somewhere in the footer, splash page, navigation/header. Please refrain from trying to place these links in creative places or as “Easter Eggs”. 
 
-## How to keep your website alive (this will require scheduled GET requests)
+## How to keep your Render Web Application "Alive" Using CRON Jobs
 
-### The Google Docs Method
-Your websites will "fall asleep" when there is no user activity. Here is a GitHub repo to ping (not to be confused with the "ping" utility) your Render projects. https://github.com/crespohector/welcome-to-mod-7/blob/main/GOOGLE_SCRIPT.md
+### *Option 1* Console.cron-job.org/
+This is the recommeded way of setting up CRON jobs to ping your websites, [console.cron-job.org/signup](https://console.cron-job.org/signup). This can also be found in Week 23 D3 Homework For Thursday.
 
-### The Render CronJob Way (JavaScript Example)
-If you prefer to use a Cron Job, you'll need to write a program to make these GET requests to your site(s). Place it into a desired folder in your project and set that folder's relative path to the 'Root Directory' value in the Cron Job settings. Additionally, you'll need to set the 'Command' and 'Build Command' settings for the Cron Job and adjust the value in 'Schedule' to your liking. Also note that Render will want your credit card information to set up a cron job and may charge a fee of $1 per month for this service. Please see the file 'genericKeepAlive.js' in this repo for an example script.
+### *Option 2* The Google Scripts Method
+Here is a GitHub repo to ping (not to be confused with the "ping" utility) your Render projects using Google Scripts. https://github.com/crespohector/welcome-to-mod-7/blob/main/GOOGLE_SCRIPT.md
 
-
+### *Option 3* The Render CronJob Way (JavaScript Example)
+If you prefer to use a Cron Job on Render, you'll need to write a program to make these GET requests to your site(s). Place it into a desired folder in your project and set that folder's relative path to the 'Root Directory' value in the Cron Job settings. Additionally, you'll need to set the 'Command' and 'Build Command' settings for the Cron Job and adjust the value in 'Schedule' to your liking. Also note that Render will want your credit card information to set up a cron job and may charge a fee of $1 per month for this service. Please see the file 'genericKeepAlive.js' in this repo for an example script.
 
 [Render Documentation for free tier](https://render.com/docs/free)
