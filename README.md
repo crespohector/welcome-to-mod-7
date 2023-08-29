@@ -127,6 +127,7 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 * [Flask Websockets for Chat Features](https://hackmd.io/oTn-ZTjcQRO5Ghbv9tO9ug)
 * [Easy Modals Using React Context!](https://github.com/whitnessme/context-modal-instructions)
 * [Using the spread operator](https://dev.to/mlgvla/javascript-using-the-spread-operator-with-nested-objects-2e7l#:~:text=The%20spread%20operator%20only,a%20true%20value%20copy.)
+* [low level and high level wireframes](https://www.justinmind.com/wireframe/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead)
 <!-- [Helpful Heroku Tips](https://github.com/whitnessme/helpful-heroku-tips) -->
 ---
 
@@ -146,11 +147,11 @@ IA's will have open office hours during **Project Approval Phase** to help provi
 ---
 
 ## Github Wiki Documentation Example Links
-> User stories, Database Schema, MVP Features, Wireframes are _required._
-* [Example User Stories (only first 2 features needs to be completed)](https://github.com/appacademy/Module-6-Resources/blob/main/group_project_resources/example_project_planning_docs/user_stories.md)
+> User stories w/ Future Implementations and Bonus Features, Database Schema, and Wireframes are _required._
+* [Example User Stories + Future Implementations + Bonus Features](https://github.com/appacademy/Module-6-Resources/blob/main/group_project_resources/example_project_planning_docs/user_stories.md)
 * [Example Schema (3-6 tables only for first 2 features needs to be completed)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
-* [Example Features (4 CRUD features and 2 Bonus features needs to be defined)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List)
-* [Example Wireframes (Wireframes needed for first 2 features minimum. Need Splash page, signup, and login)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-Wireframes)
+<!-- * [Example Features (4 CRUD features and 2 Bonus features needs to be defined)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List) -->
+* [Example Wireframes (Low level wireframes only for Splash page + Create/Update Form 1st feature + Create/Update Form 2nd feature)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-Wireframes)
 
 *Note- Students that plan to update, add, or remove their user stories during project development needs to be approved by their Project Advisor.*
 
