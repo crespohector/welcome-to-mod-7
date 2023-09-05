@@ -393,9 +393,9 @@ Peer Review will start on Thursday of the first week of capstone everyday after 
 
 ## Feature Reviews
 
-Feature Reviews will start on the Monday of the second week of capstone development (W22D1) and go through Thursday (W22D4). There are no requirements associated with Feature Reviews and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help prepare you for the following Monday when projects are due. You can reach out to your project manager when your project is ready for a feature review. After receiving your Feature Review, your priority should be fixing any bugs listed in the bug chart. If you requested a Feature Review on either Monday or Tuesday, you are allowed to ask for a 2nd Feature Review on Wednesday/Thursday.
+Feature Reviews will start on the Monday of the second week of capstone development (W22D1) and go through Wednesday (W22D3). There are no requirements associated with Feature Reviews and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs / corrections that will help prepare you for the following Monday when projects are due. You can reach out to your project manager when your project is ready for a feature review. After receiving your Feature Review, your priority should be fixing any bugs listed in the bug chart.
 
-**Note that Thursday is the final day to request a Feature Review. If you do not request one by the EOD on Thursday, you will not receive a Feature Review for your project and it will be up to you to thoroughly test all of your features before Final Grading.**
+**Note that Wednesday is the final day to request a Feature Review. If you do not request one by the EOD on Wednesday, you may not receive a Feature Review for your project and it will be up to you to thoroughly test all of your features before Final Grading.**
 
 ## Review Your Scorecard
 After receiving your Feature Review, please reach out to your grader to ask clarifying questions and to ensure what you need to work on. This is also optional if you don't have any questions and understand what to work on. After fixing the corrections from the scorecard, **please test on Production** to ensure it works as expected.
