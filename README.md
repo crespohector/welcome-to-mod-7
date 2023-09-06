@@ -147,8 +147,9 @@ IA's will have open office hours during **Project Approval Phase** to help provi
 ---
 
 ## Required Github Wiki Documentation Example Links
-> User stories w/ Future Implementations and Bonus Features, Database Schema, and Wireframes are _required._
-* [Example User Stories w/ Future Implementations and Bonus Features](https://github.com/crespohector/welcome-to-mod-7/wiki/User-Stories-and-Future-Implementations)
+> User stories, Future Implementations, Database Schema, and Wireframes are _required._
+* [Example User Stories (Only for first two features)](https://github.com/crespohector/welcome-to-mod-7/wiki/User-Stories-and-Future-Implementations)
+* [Example Future Implementations](https://github.com/crespohector/welcome-to-mod-7/wiki/Future-Implementations)
 * [Example Schema (3-6 tables only for first 2 features needs to be completed)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
 * [Example Wireframes (Low level wireframes only for Splash page + Create/Update Form 1st feature + Create/Update Form 2nd feature)](https://github.com/AppBK/Sweetwafer/wiki/Wireframes)
      * [Figma App](https://figma.com)
