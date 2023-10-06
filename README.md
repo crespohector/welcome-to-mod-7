@@ -158,10 +158,10 @@ IA's will have open office hours during **Project Approval Phase** to help provi
 <!-- * [Example Wireframes (Low level wireframes only for Splash page + Create/Update Form 1st feature + Create/Update Form 2nd feature)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-Wireframes) -->
 <!-- * [Example Features (4 CRUD features and 2 Bonus features need to be defined)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List) -->
 
-*Note- Students that plan to update, add, or remove their user stories during project development needs to be approved by their Project Advisor.*
+*Note- Students who plan to update, add, or remove their user stories during project development need to be approved by their Project Advisor.*
 
 ### Project Proposal Form
-After the required wiki documentation are completed on GitHub, submit this project proposal form and respond to the thread on Slack.
+After the required wiki documentation is completed on GitHub, submit this project proposal form and respond to the thread on Slack.
 
 [Project Proposal Form](https://forms.gle/79L6VDqmgwY87SvA7)
 
@@ -209,6 +209,7 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 
 ## Projects that are not allowed
 * Instagram
+* Twitter
 * Discord
 * Projects that the student has already done before in previous modules.
 * Mod 4/5 projects (AirBnB, Meetup)
