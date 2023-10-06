@@ -167,7 +167,7 @@ After the required wiki documentation is completed on GitHub, submit this projec
 
 ---
 
-Here are some capstone project ideas that tend to be associated with success in the observations of the IA's, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate.
+Here are some capstone project ideas that tend to be associated with success in the observations of the IA's, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate. Also, you can reference additional project ideas in the App Academy Open in Week 20.
 
 Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
 > We want to diversify our project portfolio. If you already did a social media clone, then maybe try working on a traveling app or E-commerce app.
@@ -177,22 +177,17 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 * Quora
 * Yelp
 * Eventbrite
-* Medium
-
-### Projects that can look fantastic without AWS:
-* TodoList (Remember the Milk but with a more modern UI)
 * New York Times Recipes
 * Untapped
-* Trello
 * Medium
 * Evernote
 * HipCamp
-
-### Projects that we strongly suggest have AWS:
-* E-commerce sites where users upload “products”, *(Etsy, Fiverr, Ebay)*
 * Pinterest
 * Flikr
-* FaceBook
+* Tumblr
+* StackOverflow
+* Habitica
+* Bandcamp
 
 ### Projects We've Seen Students Struggle With:
 * Soundcloud (AWS strongly suggested)
@@ -424,16 +419,31 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 > "To become a better software engineer, is through repetition." The more features you continue to build, the more practice, the more repetition, and the better you will become at building features quickly.
 
 ## What Should Be In a ReadMe?
-* Project title
-* Project Description *(this can be a few sentences explaining what the app is)*
-* Deployed Live Link
-* Technologies/Frameworks Used *(Frontend and Backend)*
-* MVP Core features
-* Screenshots, at least *(1-2)*, to highlight the app
-* Future Implementation Goals
+* Name of the project
+* Link to live site
+* *Optional* Link to your backend repo if you have a separate one
+* Summary of what the project is and what it does
+* Screenshots of your app in action (once completed)
+* Instructions on how to build/run the project (installation instructions)
+* List of techs/languages/plugins/APIs used
+* To-dos/future features
+* Technical implementation details
+   * Anything you had to stop and think about before building
+   * Descriptions of particular challenges
+   * Snippets or links to see code for these
 * Links to contact you *(LinkedIn)*
 * Endpoints (See example below)*
 <img width="983" alt="MarkdownEndpointsExample" src="https://github.com/crespohector/welcome-to-mod-7/assets/107947798/c80e52df-478f-4eb5-a034-45393e170078">
+
+### Best Practices
+* Divide your README into distinct sections
+* List the technologies used at the top of your README for increased visibility
+* Include nice screenshots or GIFs to show and demonstrate the features of your application
+* Include code snippets
+* Include a link to the live site
+* Provide instructions for how to install the project (if applicable)
+* Include a list of technologies used in the project
+* Include a list of any third-party APIs you used in the project
 
 [Example of a ReadMe](https://github.com/AppBK/Sweetwafer)
 
