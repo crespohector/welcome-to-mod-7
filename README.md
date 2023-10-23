@@ -241,14 +241,6 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 
 ---
 
-## Appropriate Project Themes
-
-When picking your capstone project theme use common sense and think about it from the perspective of a recruiter and your future career coach. Our goal is not to censor your creativity or discourage you but we do have an official policy on appropriate project themes linked below. Recently, the most common issues have been with projects related to weed/cannabis. We can't approve projects related to these themes because of federal legality, but that doesn't mean you can't pursue these projects after capstones.
-
-* [Project Theme Expectations](https://github.com/tombetthauser/module-7-welcome/blob/main/Project%20Theme%20Expectations%20-%20Student%20Facing%20Discussion.pdf)
-
----
-
 ## Lecture Questions Emoji System
 
 Because IA's are asked to answer all questions asynchronously when possible and because capstone issues can often take hours to address, the IA's will use slack reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
