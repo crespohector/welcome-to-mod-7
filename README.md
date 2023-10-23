@@ -461,3 +461,6 @@ Here is a GitHub repo to ping (not to be confused with the "ping" utility) your 
 If you prefer to use a Cron Job on Render, you'll need to write a program to make these GET requests to your site(s). Place it into a desired folder in your project and set that folder's relative path to the 'Root Directory' value in the Cron Job settings. Additionally, you'll need to set the 'Command' and 'Build Command' settings for the Cron Job and adjust the value in 'Schedule' to your liking. Also, note that Render will want your credit card information to set up a cron job and may charge a fee of $1 per month for this service. Please see the file 'genericKeepAlive.js' in this repo for an example script.
 
 [Render Documentation for free tier](https://render.com/docs/free)
+
+# Additional Resource: Oauth
+[Oauth Repo]https://github.com/bkieselEducational/Oauth
