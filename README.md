@@ -170,6 +170,9 @@ After the required wiki documentation is completed on GitHub, submit this projec
 Here are some capstone project ideas that tend to be associated with success in the observations of the IA's, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate. Also, you can reference additional project ideas in the App Academy Open in Week 20.
 
 Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
+
+*Please do not reference the exact name of the target website as this will be flagged by Google for being deceptive.*
+
 > We want to diversify our project portfolio. If you already did a social media clone, then maybe try working on a traveling app or E-commerce app.
 
 ## Projects We've Seen Go Well
