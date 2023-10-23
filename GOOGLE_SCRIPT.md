@@ -45,6 +45,6 @@ function myFunction() {
 7. On the bottom right part of the page, click `+ Add Trigger`
 8. For the `event source`, select `Time-driven`
 9. For the `type of time based trigger`, select `Minutes timer`
-10. For the `select minute interval`, select `Every 30 minutes`
+10. For the `select minute interval`, select `Every 15 minutes`
 11. Click save at the bottom of the screen
 12. Profit
