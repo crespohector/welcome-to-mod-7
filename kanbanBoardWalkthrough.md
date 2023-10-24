@@ -27,6 +27,9 @@ You will need to create a GitHub repository. Click on the Projects tab and creat
 Give it a project name, in this case, it should be the name of your project. You can create a new task by clicking on the “Add Item” and dragging it depending on the status.
 
 ### Step-by-step to creating a Kanban board
+![kanban-gif-1](https://github.com/crespohector/welcome-to-mod-7/assets/76798385/abc2e73d-e44a-464c-9e87-a08b8cee6b6e)
 
 
-![kanban-board](https://github.com/crespohector/welcome-to-mod-7/assets/76798385/328edbcb-afe9-47d0-bf1d-bb0498eccbd9)
+![kanban-gif-2](https://github.com/crespohector/welcome-to-mod-7/assets/76798385/64d20fc9-f49a-4918-8d3b-c7cd07bb652f)
+
+
