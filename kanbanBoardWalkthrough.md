@@ -1,35 +1,27 @@
-# Objective
-Provide project management resources on creating a GitHub issue and a KanBan board.
+# Kanban boards
 
-## GitHub issues
+## Purpose
+Kanban board is an agile project management tool that helps visualize the status of the tasks. This will help to prepare for project standups to have action items ready to discuss.
 
-### Purpose
-Based on GitHub Issue documentation, issues will assist with tracking ideas, feedback, tasks, or bugs for your portfolio projects. This will help to achieve greenlight status for the portfolio projects early on by following good practices on organizing tasks and reporting bugs.
+Here are some key takeaways for using a Kanban board.
+- Most distinguised feature is the visualization of the workflow.
+- Increased productivity
+- Improved collaboration
+- Enhances flexibility
 
-### How to create a GitHub issue
-GitHub Docs provides thorough documentation on creating GitHub issues, GitHub Issues Doc.
-Upon filling in the information for the GH issue, you want to be as descriptive as possible. The title should explain quickly what the issue is mainly about. The body description should explain more in-depthly what the purpose of the issue is.
+## Example of using a Kanban board
+There are different implementations on using Kanban boards based on the team's requirements and workflow. The example below provides a simple template based on the user story perspective on how you can organize your Kanban board for your capstone project. This template is recommended to follow for capstone projects or should at least assist with inspiring ways to improve your own version of a Kanban board.
 
+[Example of a Kanban board](https://github.com/users/crespohector/projects/13/views/2)
 
+## How to create a Kanban board
 
+1. In the project repo, click "Projects."
+2. Click "New Project" and select "Board."
+4. Optionally, you can give the project a name.
+5. Click Create.
 
-In the scope of adding GH Issues for the portfolio projects, you will want to start by creating a GH issue for each feature in the scorecard. It can be helpful to break down large issues into smaller tasks such as adding a new feature. You will want to create a new task inside the body field for each user action in the scope of CRUD functionality. You will check off each task once it has been completed and resolve the issue when all tasks have been checked.
-
-
-## Kanban boards
-
-### Purpose
-Kanban board is an agile project management tool that helps visualize the status of the tasks. https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects
-How to create a kanban board
-You will need to create a GitHub repository. Click on the Projects tab and create a new project. There are different options to choose from, we’ll choose the “Board”.
-
-
-Give it a project name, in this case, it should be the name of your project. You can create a new task by clicking on the “Add Item” and dragging it depending on the status.
-
-### Step-by-step to creating a Kanban board
 ![kanban-gif-1](https://github.com/crespohector/welcome-to-mod-7/assets/76798385/abc2e73d-e44a-464c-9e87-a08b8cee6b6e)
 
-
 ![kanban-gif-2](https://github.com/crespohector/welcome-to-mod-7/assets/76798385/64d20fc9-f49a-4918-8d3b-c7cd07bb652f)
-
 
