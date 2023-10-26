@@ -110,8 +110,8 @@ This calendar is a great resource to know what the day-to-day basis will look li
 ## Cheating
 Students plagiarising another student's source code will be dismissed. This is an assessment to utilize the knowledge gained from the previous modules to build what you have learned.
 
-## Clobbering
-Clobbering is the process of "updating" an entry in the database by deleting the old entry and creating a new one. Not only is this a slower process for your application due to having to perform 2 actions instead of 1, this also does not accurately demonstrate your ability to fully CRUD in a feature. While developing your application, make sure that you are editing the existing entry in the database instead of clobbering.
+<!-- ## Clobbering
+Clobbering is the process of "updating" an entry in the database by deleting the old entry and creating a new one. Not only is this a slower process for your application due to having to perform 2 actions instead of 1, but this also does not accurately demonstrate your ability to fully CRUD in a feature. While developing your application, make sure that you are editing the existing entry in the database instead of clobbering. -->
 
 ## Camera Etiquacy
 Students **MUST** have their cameras on during live lectures in Module 7, including during the Career Quest. Students who have their cameras off, are AFK/not present, or do not show their full face in the camera view, will receive a **strike**. Students who need to step away from the camera for a brief moment, please use the coffee reaction emoji on Zoom that says "I'm away". Students who need to be away from the camera for more than 15 minutes, please communicate with the staff. Students who may need to be cameras off for any special circumstance, please reach out to the Module 7 Staff. 
@@ -141,24 +141,24 @@ If you're currently waiting for an IA to review your project proposal, please ut
 
 The Mod 7 staff will review your GitHub repo wiki documents based on the submission order. You can view the queue to see when your project is being reviewed in the Capstone Project Proposal Responses Google Spreadsheet. [Link to Proposal Responses](https://docs.google.com/spreadsheets/d/1IQRF8uHx02x1EKzJdWgfhUK-4E_5mYNkGvNoqVazwBg/edit?resourcekey#gid=1923666222)
 
-*Note- Any project proposal without all the required wiki documentation will be disapproved and asked to complete it.*
+*Note- Any project proposal without all the required wiki documentation will be disapproved and asked to complete.*
 
-IA's will have open office hours during **Project Approval Phase** to help provide guidance on project proposals.
+IA's will have open office hours during the **Project Approval Phase** to help provide guidance on project proposals.
 
 ---
 
 ## Required Github Wiki Documentation Example Links
-> User stories, Future Implementations, Database Schema, and Wireframes are _required._
-* [Example User Stories (Only for first two features)](https://github.com/crespohector/welcome-to-mod-7/wiki/User-Stories)
+> Kanban board, User stories, Future Implementations, Database Schema, and Wireframes are _required._
+* [Example of a Kanban board. (Only for the first two features.)](https://github.com/users/crespohector/projects/13)
+   * [Walkthrough on how to create a Kanban board](https://github.com/crespohector/welcome-to-mod-7/blob/main/kanbanBoardWalkthrough.md) 
+* [Example User Stories (Only for the first two features)](https://github.com/crespohector/welcome-to-mod-7/wiki/User-Stories)
 * [Example Future Implementations](https://github.com/crespohector/welcome-to-mod-7/wiki/Future-Implementations)
 * [Example Schema (3-6 tables only for first 2 features needs to be completed)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
 * [Example Wireframes (Low level wireframes only for Splash page + Create/Update Form 1st feature + Create/Update Form 2nd feature)](https://github.com/AppBK/Sweetwafer/wiki/Wireframes)
      * [Figma App](https://figma.com)
      * [DrawIO](https://app.diagrams.net)
-<!-- * [Example Wireframes (Low level wireframes only for Splash page + Create/Update Form 1st feature + Create/Update Form 2nd feature)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-Wireframes) -->
 <!-- * [Example Features (4 CRUD features and 2 Bonus features need to be defined)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List) -->
 
-*Note- Students who plan to update, add, or remove their user stories during project development need to be approved by their Project Advisor.*
 
 ### Project Proposal Form
 After the required wiki documentation is completed on GitHub, submit this project proposal form and respond to the thread on Slack.
@@ -169,9 +169,14 @@ After the required wiki documentation is completed on GitHub, submit this projec
 
 Here are some capstone project ideas that tend to be associated with success in the observations of the IA's, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate. Also, you can reference additional project ideas in the App Academy Open in Week 20.
 
-Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
+## Important Notes
+- Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
 
-*Please do not reference the exact name of the target website as this will be flagged by Google for being deceptive.*
+- *Please do not reference the **exact name** of the target website as this will be flagged by Google for being deceptive.*
+
+- *If your feature includes an image or video upload, then you MUST include AWS s3 buckets for file uploads.*
+
+- *Students who plan to update, add, or remove their user stories during project development need to be approved by their Project Manager.*
 
 > We want to diversify our project portfolio. If you already did a social media clone, then maybe try working on a traveling app or E-commerce app.
 
@@ -191,6 +196,7 @@ Please note that **multiple user types are not allowed**. *(Ex- Business owner a
 * StackOverflow
 * Habitica
 * Bandcamp
+* Amazon
 
 ### Projects We've Seen Students Struggle With:
 * Soundcloud (AWS strongly suggested)
