@@ -4,7 +4,7 @@
 Kanban board is an agile project management tool that helps visualize the status of the tasks. This will help to prepare for project standups to have action items ready to discuss.
 
 Here are some key takeaways for using a Kanban board.
-- Most distinguished feature is the visualization of the workflow.
+- The most distinguished feature is the visualization of the workflow.
 - Increased productivity
 - Improved collaboration
 - Enhances flexibility
