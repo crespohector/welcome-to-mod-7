@@ -10,7 +10,7 @@ Here are some key takeaways for using a Kanban board.
 - Enhances flexibility
 
 ## Example of using a Kanban board
-There are different implementations of using Kanban boards based on the team's requirements and workflow. The example below provides a simple template based on the user story perspective on how you can organize your Kanban board for your capstone project. This template is recommended to follow for capstone projects or should at least assist with inspiring ways to improve your own version of a Kanban board.
+There are different implementations of using Kanban boards based on the team's requirements and workflow. The example below provides a simple template based on the user story perspective on how you can organize your Kanban board for your capstone project. This template is recommended to follow for capstone projects or should at least inspire ways to improve your own version of a Kanban board.
 
 [Example of a Kanban board](https://github.com/users/crespohector/projects/13/views/2)
 
