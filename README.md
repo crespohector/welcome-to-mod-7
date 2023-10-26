@@ -238,7 +238,7 @@ Here are some capstone project ideas that tend to be associated with success in 
 - WaveSufer.js
 - react-player
 - Websockets (i.e socket.io)
-- multer
+- Multer
 - AWS-SDK
 - Faker *(Use the older versions before 6.6)*
 - React Drag and Drop *(https://github.com/atlassian/react-beautiful-dnd)*
@@ -293,7 +293,7 @@ All students should have access to their own scorecards. Inside the "capstone ta
 ## Daily Standups
 
 This will **begin on W21D3**. You will have daily stand-ups with your Project Manager (PM). Daily standups will take place between groups of 3-5 students from your circle. <!-- Each student will take roughly 5-10 minutes to screen-share their **deployed app** and **code**. Students are expected to explain what they worked on Heroku and then explain the code and data-flow afterwards. Specific standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the module 7 team as well as the PTMs and the Career Quest team. -->
-Each student will take 3-6 minutes to screen-share their deployed app and potentially demo any deployed features. Standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the Mod 7 team.
+Each student will take roughly 1-5 minutes to screen-share their Kanban board to discuss their plan for the day. Standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the Mod 7 team.
 
 >**Please note: you will receive strikes for missing standups!**
 
