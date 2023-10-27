@@ -341,9 +341,9 @@ Each student will take roughly 1-5 minutes to screen-share their Kanban board to
 * You are encouraged to use branches to complete your features and to push to your main branch when you have working functionality.
    * Please remember to test the feature not only on local but on Production as well to ensure it works as expected.
 
-## FAAQs | Frequently/Any Asked Questions
+<!-- ## FAAQs | Frequently/Any Asked Questions
 > _An informal and very incomplete list of somewhat common and/or unique problems observed by the Mod 7 IA's during capstone project development._
-* [Capstone FAAQs](https://github.com/tombetthauser/fullstack-faqs)
+* [Capstone FAAQs](https://github.com/tombetthauser/fullstack-faqs) --> 
 
 <!-- ## Helpful styling tips -->
 <!-- https://docs.google.com/document/d/1VkeCDf12jokoTdriQycheyfnlfdc-qypDXsxCO5tqNk/edit -->
@@ -356,15 +356,14 @@ Peer Review will start on Thursday of the first week of capstone every day after
 
 *Note- We will also do a short demo the morning of the day peer review starts.*
 
-> This exercise is helpful to practice remembering what your code does when an interviewer or coworker asks you to explain parts of your code. Also, this helps you practice _articulating_ your code which will **majorly** help you in interviews and on the job!
+> This exercise is helpful to practice communicating what your code does when an interviewer or coworker asks you to explain parts of your code.
 
 ## Steps:
 
 1. Choose who goes first. You each get 20 minutes and should have a timer set up.
-2. Your partner will choose a specific file for you to read from.
-    - Could be a part you are proud of, something new, your redux store, your routes, your components, your CSS, etc...
-    - Could be something you are only partially done making and then go into some basic "pseudocode" of what your next steps will be.
-3. Begin walking line by line, explaining the workflow of their code.
+2. Your **partner** will choose a specific file for you to read from.
+    - Could be something you are proud of, something new, your redux store, your routes, your React components, your CSS, your API routes, etc...
+3. You will begin reading your partner's code file line by line, explaining the workflow of their code.
    
 ## Things to consider:
 
@@ -381,7 +380,7 @@ Peer Review will start on Thursday of the first week of capstone every day after
      - Mistakes, things you missed, things you want to change, etc...
 2. Pay attention to the way your partner has coded things.
     - Seeing how others' code can give new ideas! Or solve a problem you already have!
-3. Please use code-centric instead of human-centric language. _(refer back to AOO, W2, HW for Wednesday, “Empathetic Communication” for a refresher!)_
+3. Use code-centric instead of human-centric language. _(refer back to AOO, W2, HW for Wednesday, “Empathetic Communication” for a refresher!)_
 4. Ask clarifying questions.
 5. Take notice of how your partner read and understood your code so that you can gauge your work’s readability. 
 6. If your partner did have a hard time reading a line/snippet of code, be sure to add comments to those to help you understand your code in the future. 
@@ -394,9 +393,9 @@ Peer Review will start on Thursday of the first week of capstone every day after
 
 ## Feature Reviews
 
-Feature Reviews will start on the Monday of the second week of capstone development (W22D1) and go through Wednesday (W22D3). There are no requirements associated with Feature Reviews and it is expected that your project will not yet be passing but it is ideal for you to have your project nearly completed so we can point out as many bugs/corrections that will help prepare you for the following Monday when projects are due. You can reach out to your project manager when your project is ready for a feature review. After receiving your Feature Review, your priority should be fixing any bugs listed in the bug chart.
+Requesting Feature Reviews will begin on Monday of the second week of capstone development (W22D1) and go through until the end of Wednesday (W22D3). There are no requirements associated with requesting a Feature Review but it is ideal that your project is nearly completed so we can point out as many bugs/corrections that will help prepare you for the final grading when projects are due. You can reach out to your project manager when your project is ready for a feature review. After receiving your Feature Review, your priority should be fixing any bugs listed in the bug chart.
 
-**Note that Wednesday is the final day to request a Feature Review. If you do not request one by the EOD on Wednesday, you may not receive a Feature Review for your project and it will be up to you to thoroughly test all of your features before Final Grading.**
+**Note that Wednesday is the final day to request a Feature Review.**
 
 ## Review Your Scorecard
 After receiving your Feature Review, please reach out to your grader to ask clarifying questions and to ensure what you need to work on. This is also optional if you don't have any questions and understand what to work on. After fixing the corrections from the scorecard, **please test on Production** to ensure it works as expected.
