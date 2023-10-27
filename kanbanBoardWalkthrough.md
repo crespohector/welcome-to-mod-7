@@ -10,7 +10,7 @@ Here are some key takeaways for using a Kanban board.
 - Enhances flexibility
 
 ## Example of using a Kanban board
-There are different implementations of using Kanban boards based on the team's requirements and workflow. The example below provides a simple template based on the user story perspective on how you can organize your Kanban board for your capstone project. This template is recommended to follow for capstone projects or should at least inspire ways to improve your own version of a Kanban board.
+There are different implementations of using Kanban boards based on the team's requirements and workflow. The link below provides a simple template on how you can organize your Kanban board for your capstone project. Note that each card item inside the column can be clicked, and will have checkboxes based in the form of user stories. You can also convert the card item into a GitHub issue. This template is recommended to follow for capstone projects or should at least inspire ways to improve your own version of a Kanban board.
 
 [Example of a Kanban board](https://github.com/users/crespohector/projects/13/views/2)
 
@@ -25,3 +25,6 @@ There are different implementations of using Kanban boards based on the team's r
 
 ![kanban-gif-2](https://github.com/crespohector/welcome-to-mod-7/assets/76798385/64d20fc9-f49a-4918-8d3b-c7cd07bb652f)
 
+6. How to create a new item.
+   
+![ezgif com-video-to-gif](https://github.com/crespohector/welcome-to-mod-7/assets/76798385/cd2fe500-22ea-4e06-9513-a37e185f140d)
