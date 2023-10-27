@@ -74,24 +74,30 @@ Please refer to the Error Validations Repo for more examples.
 [Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
 
 ### Prepopulating Data For the Update Form
-When a User goes to Edit/Update a resource, the edit form must be prepopulated with the previous data. Using the "placeholder" attribute will **not** be accepted. This is to eliminate having to fill out the same information twice for your form submitters and create a smoother user experience. Also from a grading perspective, the idea is that we should be able to click Edit, and then immediately submit the form with no errors. This is not possible if the placeholder is what is being prepopulated.
+When a User goes to Edit/Update a resource, the edit form must be prepopulated with the previous data. Using the "placeholder" attribute will **not** be accepted by itself. You must be able to dynamically update the value of the input field. This will create a smoother UX for recruiters to look at.
 
 ---
 
 ## The Big Picture
 
-The Capstone Project is an assessment to test your programming and software engineering skills. The main objective is to build a user-ready MVP *(Minimal Viable Product)* application within these two weeks. The ideal expectation is to have a completed MVP application done by W22D1, then use the remaining time to focus on refactoring to include additional features and polish the User Interface. You want to present your best work to a recruiter, so treat this like a precious gem.
+The Capstone Project is an assessment to test your programming and software engineering skills. The ideal expectation is to have a completed MVP (minimum viable product) application done by W22D2, then use the remaining time to refactor to include additional features and/or polish the user interface and improve the user experience. The long-term goal is to present our best work to recruiters to demonstrate our technical abilities.
 
 Remember, a minimum viable product (MVP) is the absolute least you can put out that is also a usable product. For your capstone project, this means 2 fully functional CRUD features with validation error messages that are intuitive and simple to use by someone who has never seen the app before.
-Remember, a successful capstone project does not need AWS, Google Maps, Web Sockets, or more than 2 CRUD features. But the 2 CRUD features that you do build need to feel and function completely to pass.
 
-We want to make sure we are completing ONE FEATURE before moving on to the next. This feature-driven approach is known as an **agile** workflow, whereas the **waterfall** approach can be seen as completing one phase at a time before moving on to the next phase. Agile is an iterative approach where we deliver goals in small incremental amounts. An example of a waterfall workflow would be working on the entire backend first for all features then working on the frontend. 
+We want to make sure we are completing ONE FEATURE before moving on to the next. This feature-driven approach can be seen as an **agile** workflow, whereas the **waterfall** approach can be seen as completing one phase at a time before moving on to the next phase. Agile is an iterative approach where we deliver goals in small incremental amounts. An example of a waterfall workflow would be working on the entire backend first for all features then working on the frontend. 
 
 [Agile vs Waterfall Link](https://www.ibm.com/cloud/blog/agile-vs-waterfall)
 
-Students should have a clear road map during the planning phase of what should be their MVPs first to pass the minimum requirements and then implement future goals. 
+Students should have a clear road map during the planning phase of what should be the MVPs for their capstone project.
 
-> The end goal is to have 4 features working. After graduation, to be greenlit you will need to have 4 features and the general requirements done.
+> The end goal is to have 4 features working. After graduation, to be greenlit you will need to have at least 3 features and the Greenlit requirements done in the scorecard. You will have additional time to work on your projects during post-graduation however, it is ideal to shoot for completing the Greenlit requirements early on.
+
+### A Quick Overview of Project Development Expectations
+
+Based on the pie chart below is a rough estimation of what a typical day for a software developer can look like. This can vary based on the company and the role, but ideally, you may be spending less than half a day on solely coding. The typical day-to-day basis during capstone weeks will be attending morning standups, engaging in peer reviews, and coding.
+
+![image (10)](https://github.com/crespohector/welcome-to-mod-7/assets/76798385/51825481-a876-413b-be6a-525b18b1d13a)
+
 
 ## Mental Health Resources
 Taking care of our mental health is an important aspect of our life. Please make sure to take breaks, meditate, sleep, or go for a walk outside to do what's best for you to reduce stress. Here are some resources provided that can be informative.
@@ -135,7 +141,7 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-All students should have a **target website** they will clone or use for inspiration. You must submit the Google Project Proposal form and get approval from an IA before implementing the features. The deadline for all project proposals will have to be submitted by **end of lunch** on W21D2. 
+All students should have a **target website** they will clone or use for inspiration. You must submit the Google Project Proposal form and get approval from an IA before implementing the features. The deadline for all project proposals will have to be submitted by the **end of lunch** on W21D2. 
 
 If you're currently waiting for an IA to review your project proposal, please utilize the time appropriately and continue to be productive *(initialize your project + deploy skeleton starter, set up your GitHub repo, project kanban board, etc.)*. 
 
@@ -144,6 +150,11 @@ The Mod 7 staff will review your GitHub repo wiki documents based on the submiss
 *Note- Any project proposal without all the required wiki documentation will be disapproved and asked to complete.*
 
 IA's will have open office hours during the **Project Approval Phase** to help provide guidance on project proposals.
+
+### Project Proposal Form
+After the required wiki documentation is completed on GitHub, submit this project proposal form and respond to the thread on Slack.
+
+[Project Proposal Form](https://forms.gle/79L6VDqmgwY87SvA7)
 
 ---
 
@@ -160,10 +171,7 @@ IA's will have open office hours during the **Project Approval Phase** to help p
 <!-- * [Example Features (4 CRUD features and 2 Bonus features need to be defined)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List) -->
 
 
-### Project Proposal Form
-After the required wiki documentation is completed on GitHub, submit this project proposal form and respond to the thread on Slack.
 
-[Project Proposal Form](https://forms.gle/79L6VDqmgwY87SvA7)
 
 ---
 
