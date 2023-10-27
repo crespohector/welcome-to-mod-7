@@ -9,8 +9,6 @@
 <!-- ![marathon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.lowgif.com%2Fmedium%2F843ae510cfd8baba-ellen-gordon-cpas-4-a-cause-5k-run-walk.gif&f=1&nofb=1) -->
 # Module 7: Welcome Starter Pack
 
-123
-
 Welcome to Module 7! This repo is meant to hold convenient links for you to use during your capstone projects, and to give a summarized compilation of project requirements. Note this is a living document, things will be continuously changed and updated as needed but capstone requirements WILL NOT change.
 
 ```txt
@@ -172,9 +170,6 @@ After the required wiki documentation is completed on GitHub, submit this projec
      * [DrawIO](https://app.diagrams.net)
 <!-- * [Example Features (4 CRUD features and 2 Bonus features need to be defined)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List) -->
 
-
-
-
 ---
 
 Here are some capstone project ideas that tend to be associated with success in the observations of the IA's, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate. Also, you can reference additional project ideas in the App Academy Open in Week 20.
@@ -209,17 +204,16 @@ Here are some capstone project ideas that tend to be associated with success in 
 * Amazon
 
 ### Projects We've Seen Students Struggle With:
-* Soundcloud (AWS strongly suggested)
-* Spotify (AWS strongly suggested)
-* Venmo (AWS optional / CRUD features are tricky)
-* Robinhood (AWS optional / CRUD features are tricky)
-* YouTube (AWS strongly suggested)
-* Netflix (AWS optional / CRUD features are tricky)
-* Game Apps (AWS optional / CRUD features are tricky)
-* Disney + (AWS optional / CRUD features are tricky)
-* E-commerce sites that need Carts & Orders/Purchases
+* Soundcloud (AWS)
+* Spotify (AWS)
+* Venmo (AWS / CRUD features are tricky)
+* Robinhood (AWS / WebSockets / CRUD features are tricky)
+* YouTube (AWS)
+* Netflix (AWS/ CRUD features are tricky)
+* Game Apps (CRUD features are tricky)
+* Disney+ (AWS / CRUD features are tricky)
 * Slack (w/ Websockets)
-* Facebook
+* Facebook (CSS can be challenging)
 
 ## Projects that are not allowed
 * Instagram
