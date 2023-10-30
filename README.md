@@ -146,7 +146,7 @@ All students should have a **target website** they will clone or use for inspira
 
 If you're currently waiting for an IA to review your project proposal, please utilize the time appropriately and continue to be productive *(initialize your project + deploy skeleton starter, set up your GitHub repo, project kanban board, etc.)*. 
 
-The Mod 7 staff will review your GitHub repo wiki documents based on the submission order. You can view the queue to see when your project is being reviewed in the Capstone Project Proposal Responses Google Spreadsheet. [Link to Proposal Responses](https://docs.google.com/spreadsheets/d/1IQRF8uHx02x1EKzJdWgfhUK-4E_5mYNkGvNoqVazwBg/edit?resourcekey#gid=1923666222)
+The Mod 7 staff will review your GitHub repo wiki documents based on the submission order. You can view the queue to see when your project is being reviewed in the Capstone Project Proposal Responses Google Spreadsheet. [Link to Proposal Responses](https://docs.google.com/spreadsheets/d/1CkUpeCLUL0x7Oo8aVzzRiR3Kj55GHgHGbTXtsPoapp4/edit?resourcekey#gid=640829555)
 
 *Note- Any project proposal without all the required wiki documentation will be disapproved and asked to complete.*
 
