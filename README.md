@@ -135,6 +135,7 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 * [Using the spread operator](https://dev.to/mlgvla/javascript-using-the-spread-operator-with-nested-objects-2e7l#:~:text=The%20spread%20operator%20only,a%20true%20value%20copy.)
 * [low-level and high-level wireframes](https://www.justinmind.com/wireframe/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead)
 * [Serialization Volume 1: JSON vs Multipart](https://github.com/bkieselEducational/Serialization)
+* [Considerations for a Pleasant User Experience (including pre-population of Edit Form when using image uploads)](https://github.com/bkieselEducational/Considerations-for-User-Experience-in-Web-Development/blob/main/README.md)
 <!-- [Helpful Heroku Tips](https://github.com/whitnessme/helpful-heroku-tips) -->
 ---
 
