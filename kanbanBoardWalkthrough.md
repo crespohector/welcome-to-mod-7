@@ -28,3 +28,5 @@ There are different implementations of using Kanban boards based on the team's r
 6. How to create a new item.
    
 ![ezgif com-video-to-gif](https://github.com/crespohector/welcome-to-mod-7/assets/76798385/cd2fe500-22ea-4e06-9513-a37e185f140d)
+
+7. Set visibility to public in the settings
