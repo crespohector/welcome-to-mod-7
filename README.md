@@ -184,6 +184,8 @@ Here are some capstone project ideas that tend to be associated with success in 
 
 - *Students who plan to update, add, or remove their user stories during project development need to be approved by their Project Manager.*
 
+- Avoid using copyright resources for seed data.
+
 > We want to diversify our project portfolio. If you already did a social media clone, then maybe try working on a traveling app or E-commerce app.
 
 ## Projects We've Seen Go Well
