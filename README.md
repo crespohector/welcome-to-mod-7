@@ -242,7 +242,7 @@ Here are some capstone project ideas that tend to be associated with success in 
 - Boto3 (AWS)
 - Google Maps (@reach/combobox, @react-google-maps/api, use-places-autocomplete...)
 - Moment.js
-- WaveSufer.js
+- WaveSurfer.js
 - react-player
 - Websockets (i.e socket.io)
 - Multer
