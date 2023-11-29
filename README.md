@@ -153,7 +153,7 @@ The Mod 7 staff will review your GitHub repo wiki documents based on the submiss
 IA's will have open office hours during the **Project Approval Phase** to help provide guidance on project proposals.
 
 ### Project Proposal Form
-After the required wiki documentation is completed on GitHub, submit this project proposal form and respond to the thread on Slack.
+After the required wiki documentation is completed on GitHub, submit this Google project proposal form.
 
 [Project Proposal Form](https://forms.gle/fH7qaiyEokWGvaE26)
 
@@ -161,12 +161,12 @@ After the required wiki documentation is completed on GitHub, submit this projec
 
 ## Required Github Wiki Documentation Example Links
 > Kanban board, User stories, Future Implementations, Database Schema, and Wireframes are _required._
-* [Example of a Kanban board. (Only for the first two features.)](https://github.com/users/crespohector/projects/13)
+1. [Example of a Kanban board. (Only for the first two features.)](https://github.com/users/crespohector/projects/13)
    * [Walkthrough on how to create a Kanban board](https://github.com/crespohector/welcome-to-mod-7/blob/main/kanbanBoardWalkthrough.md) 
-* [Example User Stories (Only for the first two features)](https://github.com/crespohector/welcome-to-mod-7/wiki/User-Stories)
-* [Example Future Implementations](https://github.com/crespohector/welcome-to-mod-7/wiki/Future-Implementations)
-* [Example Schema (3-6 tables only for first 2 features needs to be completed)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
-* [Example Wireframes (Low level wireframes only for Splash page + Create/Update Form 1st feature + Create/Update Form 2nd feature)](https://github.com/AppBK/Sweetwafer/wiki/Wireframes)
+2. [Example User Stories (Only for the first two features)](https://github.com/crespohector/welcome-to-mod-7/wiki/User-Stories)
+3. [Example Future Implementations](https://github.com/crespohector/welcome-to-mod-7/wiki/Future-Implementations)
+4. [Example Schema (3-6 tables only for first 2 features needs to be completed)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
+5. [Example Wireframes (Low-level wireframes only for Splash page + Create/Update Form 1st feature + Create/Update Form 2nd feature)](https://github.com/AppBK/Sweetwafer/wiki/Wireframes)
      * [Figma App](https://figma.com)
      * [DrawIO](https://app.diagrams.net)
 <!-- * [Example Features (4 CRUD features and 2 Bonus features need to be defined)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List) -->
@@ -176,7 +176,7 @@ After the required wiki documentation is completed on GitHub, submit this projec
 Here are some capstone project ideas that tend to be associated with success in the observations of the IA's, but of course they are not a guarantee of success. Please note ***these are in no particular order*** and you are absolutely ***not required to choose one of these*** projects. This list may guide your thought process as much or as little as you feel is appropriate. Also, you can reference additional project ideas in the App Academy Open in Week 20.
 
 ## Important Notes
-- Please note that **multiple user types are not allowed**. *(Ex- Business owner and customers)*
+- Please note that **multiple user types upon sign-up creation are not allowed**. *(Ex- Business owner and customers)*
 
 - *Please do not reference the **exact name** of the target website as this will be flagged by Google for being deceptive.*
 
@@ -234,8 +234,6 @@ Here are some capstone project ideas that tend to be associated with success in 
 
 *Any questions related to third-party APIs (AWS, Google Maps, Socket.io, NPM Packages, etc.) that are outside of the curriculum are the student's responsibility to debug. IA's may offer advice/guidance but are not expected to help debug.*
 
-> Please note: Each Module has its own set of regulations that is specific to its own. NPM packages may have been approved in previous Modules, however, some may not be approved in Mod 7. 
-
 ### List of Approved NPM Packages
 **The NPM packages listed below are already approved, free feel to implement these into your projects**
 
@@ -271,15 +269,15 @@ The green check means that an IA or the student has confirmed that the question 
 The gray or blue check means the question seems to have been resolved by an IA or other student but is awaiting some form of confirmation.
 
 # ⚠️ or ❌
-The alert emoji means the question may not be specific enough or may not show clear evidence of independent student research on AAO, Stack Overflow, Google, etc. Please do not interpret this in any negative way. Do not hesitate to ask questions, IA's are here to help and guide you in answering questions. Formulating good questions is a great skill to acquire as a software engineer and it does take practice. So, don't hesitate!
+The alert emoji means the question may not be specific enough or may not show clear evidence of independent student research on AAO, Stack Overflow, Google, etc.
 
-Before the IA's can effectively address the question, the student will need to add more information, screenshots, a description of what you have done so far in terms of research and solution attempts, and/or a link to the repo with a recent commit message clearly describing the issue.
+Before the IA's can effectively address the question, the student will need to add more information, screenshots, and a description of what you have done so far in terms of research and solution attempts.
 
 Once you have revised the question, tag the IAs or re-post a new version of the question in the lecture questions channel.
 
 ### Good Question Template
 
-To ensure the quickest possible response to a question, you are encouraged to literally copy, paste, and fill this out when asking a question in Slack. The Mod 7 team may ask you to do so if it seems like it might help expedite answering your question.
+To ensure the quickest possible response to a question, you are encouraged to literally copy, paste, and fill this out when asking a question in Slack.
 
 1. What feature/task are you working on? (modals, API routes, React components, Reducer, etc)
 2. Describe the problem (what are you trying to do? What is it currently doing?)
