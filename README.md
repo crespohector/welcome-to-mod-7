@@ -124,7 +124,7 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 
 ## Some Useful Development Links
 
-* [Flask Project Starter](https://github.com/appacademy/practice-for-week-19-python-project-skeleton)
+* [Flask Project Starter](https://github.com/appacademy/aa19-python-group-project/tree/main)
 * [Express Project Starter Frontend (authenticate me)](https://github.com/appacademy/practice-for-sprint-15-react-redux-authenticate-me-for-render-deployment)
 * [Express Project Starter Backend (authenticate me)](https://github.com/appacademy/practice-for-sprint-12-authenticate-me-for-render-deployment)
 * [Flask-SQLAlchemy Quick Reference](https://hackmd.io/@app-academy/flask-sqlalchemy-reference)
