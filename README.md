@@ -164,7 +164,7 @@ After the required wiki documentation is completed on GitHub, submit this Google
 1. [Example of a Kanban board. (Only for the first two features.)](https://github.com/users/crespohector/projects/13)
    * [Walkthrough on how to create a Kanban board](https://github.com/crespohector/welcome-to-mod-7/blob/main/kanbanBoardWalkthrough.md) 
 2. [Example User Stories (Only for the first two features)](https://github.com/crespohector/welcome-to-mod-7/wiki/User-Stories)
-3. [Example MVP's Feature List](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List)
+3. [Example MVP's Feature List](https://github.com/crespohector/welcome-to-mod-7/wiki/MVP's-Feature-List)
 4. [Example Schema (3-6 tables only for first 2 features needs to be completed)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
 5. [Example Wireframes (Minimum 3 Low-level wireframes. One for Splash page + 1st feature + 2nd feature)](https://github.com/AppBK/Sweetwafer/wiki/Wireframes)
      * [Figma App](https://figma.com)
