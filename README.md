@@ -142,7 +142,7 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-All students should have a **target website** they will clone or use for inspiration. You must submit the [Google Project Proposal Form](https://forms.gle/fH7qaiyEokWGvaE26) and get approval from an IA before implementing the features. The deadline for all project proposals will have to be submitted by the **end of lunch** on W21D2. 
+All students should have a **target website** they will clone or use for inspiration. You must submit the [Google Project Proposal Form](https://forms.gle/VfwHSR88QZo73jUt5) and get approval from an IA before implementing the features. The deadline for all project proposals will have to be submitted by the **end of lunch** on W21D2. 
 
 If you're currently waiting for an IA to review your project proposal, please utilize the time appropriately and continue to be productive *(initialize your project + deploy skeleton starter, set up your GitHub repo, project kanban board, etc.)*. 
 
@@ -155,7 +155,7 @@ IA's will have open office hours during the **Project Approval Phase** to help p
 ### Project Proposal Form
 After the required wiki documentation is completed on GitHub, submit this Google project proposal form.
 
-[Project Proposal Form](https://forms.gle/fH7qaiyEokWGvaE26)
+[Project Proposal Form](https://forms.gle/VfwHSR88QZo73jUt5)
 
 ---
 
