@@ -160,16 +160,15 @@ After the required wiki documentation is completed on GitHub, submit this Google
 ---
 
 ## Required Github Wiki Documentation Example Links
-> Kanban board, User stories, Future Implementations, Database Schema, and Wireframes are _required._
+> Kanban board, User stories, MVP's Feature List, Database Schema, and Wireframes are _required._
 1. [Example of a Kanban board. (Only for the first two features.)](https://github.com/users/crespohector/projects/13)
    * [Walkthrough on how to create a Kanban board](https://github.com/crespohector/welcome-to-mod-7/blob/main/kanbanBoardWalkthrough.md) 
 2. [Example User Stories (Only for the first two features)](https://github.com/crespohector/welcome-to-mod-7/wiki/User-Stories)
-3. [Example Future Implementations](https://github.com/crespohector/welcome-to-mod-7/wiki/Future-Implementations)
+3. [Example MVP's Feature List](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List)
 4. [Example Schema (3-6 tables only for first 2 features needs to be completed)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
-5. [Example Wireframes (Low-level wireframes only for Splash page + Create/Update Form 1st feature + Create/Update Form 2nd feature)](https://github.com/AppBK/Sweetwafer/wiki/Wireframes)
+5. [Example Wireframes (Minimum 3 Low-level wireframes. One for Splash page + 1st feature + 2nd feature)](https://github.com/AppBK/Sweetwafer/wiki/Wireframes)
      * [Figma App](https://figma.com)
      * [DrawIO](https://app.diagrams.net)
-<!-- * [Example Features (4 CRUD features and 2 Bonus features need to be defined)](https://github.com/crespohector/welcome-to-mod-7/wiki/Example-MVP-Feature-List) -->
 
 ---
 
@@ -394,7 +393,7 @@ Peer Review will start on Thursday of the first week of capstone every day after
 
 ## Feature Reviews
 
-Requesting Feature Reviews will begin on Monday of the second week of capstone development (W22D1) and go through until the end of Wednesday (W22D3). There are no requirements associated with requesting a Feature Review but it is ideal that your project is nearly completed so we can point out as many bugs/corrections that will help prepare you for the final grading when projects are due. You can reach out to your project manager when your project is ready for a feature review. After receiving your Feature Review, your priority should be fixing any bugs listed in the bug chart.
+Requesting Feature Reviews will begin on Monday of the second week of capstone development (W22D1) and go through until the end of Wednesday (W22D3). Ideally, your project should be nearly completed before submitting a feature review so we can point out as many bugs/corrections that will help prepare you for the final grading when projects are due. You can reach out to your project manager when your project is ready for a feature review. After receiving your Feature Review, your priority should be fixing any bugs listed in the bug chart.
 
 **Note that Wednesday is the final day to request a Feature Review.**
 
