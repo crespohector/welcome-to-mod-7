@@ -158,6 +158,9 @@ After the required wiki documentation is completed on GitHub, submit this Google
 [Project Proposal Form](https://forms.gle/VfwHSR88QZo73jUt5)
 
 ---
+## The Purpose of User Stories
+
+---
 
 ## Required Github Wiki Documentation Example Links
 > Kanban board, User stories, MVP's Feature List, Database Schema, and Wireframes are _required._
