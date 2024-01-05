@@ -159,12 +159,13 @@ After the required wiki documentation is completed on GitHub, submit this Google
 
 ---
 ## The Purpose of User Stories
----
 
 As you are preparing your documents for project approval, if you are anything like myself, it is quite likely that you'll simply copy the example that we provide and change values where necessary to make it indicative of your app. And then, you will probably forget that you even did that. And if you don't, in both cases, you possibly will have no clear idea about WHY you did it, aside from getting your project approved. I know I did that!! But since my time going through the academy, I can now see the the value and purpose of the User Stories. Not only is this a great format to communicate your application's functionality to your boss or co-workers, but it is also a valuable tool for YOU to use as you actually begin the process of coding out your project.</br>
 </br>
 With an emphasis on an Agile work flow, which will have you working on a single feature from front to back, you may notice that in setting up your endpoints and routing, that simply making a GET, POST, PUT, DELETE endpoint for your feature MAY not directly correlate with how you will be using any of this data on the front end. It may also not be immediately apparent when you need to have more endpoints than you originally thought. In a lot of cases, this will be apparent when GETting data!! This is actually where User Stories can be very helpful in the development of the backend!! If you consult your User Stories and see that your first feature will have functionality on the frontend that calls for grabbing a single item from the database, this tells you that you will probably need to setup an endpoint with the route /api/feature1/<int:id> GET, for example. You may also notice in your User Stories that your first feature has a link to a page with the 10 newest additions. This may indicate that you need another endpoint where you can grab the newest entries. Something like: /api/feature1/newest GET where you will also need to query the database in such a way that it returns the 10 most recently added items (This is where a column like 'created_at' becomes VERY useful!). And the list can go on!! But I hope that you can already see that the functionality you define as essential to your app, makes it clear what you may need on the backend and frontend alike! Use your User Stories as a way to inform and structure your own workflow!! It works!!
+
 ---
+
 
 ## Required Github Wiki Documentation Example Links
 > Kanban board, User stories, MVP's Feature List, Database Schema, and Wireframes are _required._
