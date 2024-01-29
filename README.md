@@ -241,8 +241,8 @@ Here are some capstone project ideas that tend to be associated with success in 
 
 *Any questions related to third-party APIs (AWS, Google Maps, Socket.io, NPM Packages, etc.) that are outside of the curriculum are the student's responsibility to debug. IA's may offer advice/guidance but are not expected to help debug.*
 
-### List of Approved NPM Packages
-**The NPM packages listed below are already approved, free feel to implement these into your projects**
+### List of Approved Packages
+**The packages listed below are already approved, free feel to implement these into your projects**
 
 - Boto3 (AWS)
 - Google Maps (@reach/combobox, @react-google-maps/api, use-places-autocomplete...)
