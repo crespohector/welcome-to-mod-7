@@ -294,12 +294,6 @@ To ensure the quickest possible response to a question, you are encouraged to li
 
 ---
 
-<!-- ## Capstone Scorecards
-
-All students should have access to their own scorecards. Inside the "capstone tab" in that Google Spreadsheet, students will fill out Student Name, Application Name, Github Link, Live Link, Feature 1, Feature 2, Feature 3, Feature 4, Feature 5, and Feature 6. Your PM will ensure that the capstone scorecard is filled out accordingly as they will be utilized for future grading purposes. -->
-
----
-
 # Phase 2 - Project Development
 
 ## Daily Standups
@@ -311,8 +305,6 @@ Each student will take roughly 1-5 minutes to screen-share their Kanban board to
 
 ### Questions For Students:
 
-*Please note that all work must be shown on the deployed website, not localhost. We can not determine the progression of your project based on localhost alone.*
-
 * What progress did you make on your goal from yesterday?
 * What is your goal for today that you plan to complete before the next standup? 
 * Do you foresee any potential blockers?
@@ -320,7 +312,6 @@ Each student will take roughly 1-5 minutes to screen-share their Kanban board to
 ### Additional Questions That May Be Asked For Students:
 * When did you last deploy?
 * Is all the code you are showing deployed?
-* Does your Project Manager approve of the goal?
 * What is your project status in terms of user stories?
 * Can you demo any CRUD of the feature on the UI?
 
@@ -328,7 +319,6 @@ Each student will take roughly 1-5 minutes to screen-share their Kanban board to
 
 * If **technical questions come up**, your PM will ask you to put them in the lecture questions channel as we will not have time to debug during standups.
 * IA notes will include whether you met yesterday's goal fully / partially / not at all.
-* IA notes will also include a 3-5 word description of your goal for tomorrow.
 
 ## Workflow Expectations
 
