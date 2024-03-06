@@ -34,7 +34,7 @@ Welcome to Module 7! This repo is meant to hold convenient links for you to use 
    - [Question Emoji System](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#lecture-questions-emoji-system)
    - [Good Question Template](https://github.com/crespohector/welcome-to-mod-7/blob/main/README.md#good-question-template)
 - [Phase 2 - Project Development](https://github.com/crespohector/welcome-to-mod-7#phase-2---project-development)
-   - <!-- [Daily Standups](https://github.com/crespohector/welcome-to-mod-7#daily-standups) -->
+   <!-- -  [Daily Standups](https://github.com/crespohector/welcome-to-mod-7#daily-standups) -->
    - [Workflow Expectations](https://github.com/crespohector/welcome-to-mod-7#workflow-expectations)
    - [Good Question Template](https://github.com/crespohector/welcome-to-mod-7#good-question-template)
    - [Helpful Development Links](https://github.com/crespohector/welcome-to-mod-7#some-useful-development-links)
