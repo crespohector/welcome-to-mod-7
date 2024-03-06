@@ -296,8 +296,8 @@ To ensure the quickest possible response to a question, you are encouraged to li
 
 # Phase 2 - Project Development
 
-## Daily Standups
 <!--
+## Daily Standups
 This will **begin on W21D3**. You will have daily stand-ups with your Project Manager (PM). Daily standups will take place between groups of 3-5 students from your circle.
 Each student will take roughly 1-5 minutes to screen-share their Kanban board to discuss their plan for the day. Standup times will always be announced in your circle channel. Your PM will ask a small handful of questions while taking brief notes that are shared with the rest of the Mod 7 team.
 
