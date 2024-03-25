@@ -322,6 +322,10 @@ Each student will take roughly 1-5 minutes to screen-share their Kanban board to
 * IA notes will include whether you met yesterday's goal fully / partially / not at all.
   -->
 
+## Scheduling a 1 on 1 With Your Project Manager
+We'll not be hosting daily standups during capstone development. Students are encouraged to reach out to their project manager to schedule a 1 on 1 to discuss anything about their project *(Technical questions are still posted in the Technical channel)*. In addition, your project manager will reach out to you to schedule a 1 on 1 on Friday, Week 21, Day 5, to check up on your progress. 
+
+
 ## Workflow Expectations
 
 ### Complete ONE FEATURE before moving on to the next.
