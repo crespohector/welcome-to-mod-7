@@ -169,10 +169,10 @@ With an emphasis on an Agile workflow, which will have you working on a single f
 
 ## Required Github Wiki Documentation Example Links
 > User stories, MVP's Feature List, Database Schema, and Wireframes are _required._
-2. [Example User Stories (Only for the first two features)](https://github.com/crespohector/welcome-to-mod-7/wiki/User-Stories)
-3. [Example MVP's Feature List](https://github.com/crespohector/welcome-to-mod-7/wiki/MVP's-Feature-List)
-4. [Example Schema (3-6 tables only for first 2 features needs to be completed)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
-5. [Example Wireframes (Minimum 3 Low-level wireframes. One for Splash page + 1st feature + 2nd feature)](https://github.com/AppBK/Sweetwafer/wiki/Wireframes)
+1. [Example User Stories (Only for the first two features)](https://github.com/crespohector/welcome-to-mod-7/wiki/User-Stories)
+2. [Example MVP's Feature List](https://github.com/crespohector/welcome-to-mod-7/wiki/MVP's-Feature-List)
+3. [Example Schema (3-6 tables only for first 2 features needs to be completed)](https://github.com/chrisoney/mercenary-review/wiki/Database-Schema-and-Backend-Routes)
+4. [Example Wireframes (Minimum 3 Low-level wireframes. One for Splash page + 1st feature + 2nd feature)](https://github.com/AppBK/Sweetwafer/wiki/Wireframes)
      * [Figma App](https://figma.com)
      * [DrawIO](https://app.diagrams.net)
 
