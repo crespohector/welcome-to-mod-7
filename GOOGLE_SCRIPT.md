@@ -30,7 +30,7 @@ function myFunction() {
          }
 
          try {
-            UrlFetchApp.fetch(`https://YOUR AIRBNB URL/`); // Note the backticks around the URL
+            UrlFetchApp.fetch(`https://YOUR MOD5 URL/`); // Note the backticks around the URL
          } catch(e) {
             ;
          }
