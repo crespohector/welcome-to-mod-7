@@ -18,7 +18,7 @@ function myFunction() {
          // We will use a try catch block around each of our fetches to recover from a failure condition
          // so that we can continue to ping our other sites!
          try {
-            UrlFetchApp.fetch(`https://YOUR AIRBNB URL/`); // Note the backticks around the URL
+            UrlFetchApp.fetch(`https://YOUR CAPSTONE URL/`); // Note the backticks around the URL
          } catch(e) {
             ;
          }
@@ -30,7 +30,7 @@ function myFunction() {
          }
 
          try {
-            UrlFetchApp.fetch(`https://YOUR CAPSTONE URL/`); // Note the backticks around the URL
+            UrlFetchApp.fetch(`https://YOUR AIRBNB URL/`); // Note the backticks around the URL
          } catch(e) {
             ;
          }
